@@ -1,0 +1,967 @@
+Site.Name,Add,Site...GP.NHS.VHC.Covid.Clinic,Region,lon,lat
+SOUTH BEACH MEDICAL CENTRE,KA22 8BS,Primary Care Delivery Site,Ayrshire & Arran ,-4.8149477,55.6397938
+TAM'S BRIG SURGERY,KA8 8DD,Primary Care Delivery Site,Ayrshire & Arran ,-4.6265848,55.4717351
+THE SURGERY,KA7 2AQ,Primary Care Delivery Site,Ayrshire & Arran ,-4.6354414,55.459338
+DALBLAIR MEDICAL PRACTICE,KA7 1UQ,Primary Care Delivery Site,Ayrshire & Arran ,-4.630193,55.458678
+BARNS MEDICAL PRACTICE,KA7 1UL,Primary Care Delivery Site,Ayrshire & Arran ,-4.6320868,55.4602732
+THE CATHCART STREET MEDICAL PRACTICE,KA7 1BJ,Primary Care Delivery Site,Ayrshire & Arran ,-4.6336008,55.4639978
+THE FULLARTON MEDICAL PRACTICE,KA7 1UL,Primary Care Delivery Site,Ayrshire & Arran ,-4.6320868,55.4602732
+BALLANTRAE MEDICAL PRACTICE,KA26 0NB,Primary Care Delivery Site,Ayrshire & Arran ,-5.0048742,55.1012174
+BEITH HEALTH CENTRE GP PRACTICE,KA15 2AE,Primary Care Delivery Site,Ayrshire & Arran ,-4.6340219,55.7517561
+CROSSHOUSE MEDICAL PRACTICE,KA2 0LE,Primary Care Delivery Site,Ayrshire & Arran ,-4.5480384,55.6118984
+DALMELLINGTON MEDICAL PRACTICE,KA6 7QL,Primary Care Delivery Site,Ayrshire & Arran ,-4.3986849,55.3229787
+DUNDONALD MEDICAL PRACTICE,KA2 9HF,Primary Care Delivery Site,Ayrshire & Arran ,-4.5936803,55.5768027
+GALSTON MEDICAL PRACTICE,KA4 8HW,Primary Care Delivery Site,Ayrshire & Arran ,-4.3790402,55.6002495
+"DRS MCMASTER, MOORE & BROOKSBANK",KA26 9HQ,Primary Care Delivery Site,Ayrshire & Arran ,-4.8469749,55.2483077
+DR MCCULLOCH & PARTNERS,KA26 9HQ,Primary Care Delivery Site,Ayrshire & Arran ,-4.8469749,55.2483077
+BOURTREEHILL MEDICAL PRACTICE,KA11 1JU,Primary Care Delivery Site,Ayrshire & Arran ,-4.6346359,55.6192443
+EGLINTON FAMILY PRACTICE,KA12 8TJ,Primary Care Delivery Site,Ayrshire & Arran ,-4.6749986,55.6311608
+KILBIRNIE MEDICAL PRACTICE,KA25 6HS,Primary Care Delivery Site,Ayrshire & Arran ,-4.6858089,55.7472097
+THE SURGERY,KA7 2AQ,Primary Care Delivery Site,Ayrshire & Arran ,-4.6354414,55.459338
+RIVERSIDE MEDICAL PRACTICE,KA6 7LX,Primary Care Delivery Site,Ayrshire & Arran ,-4.5008653,55.3607478
+STATION ROAD MEDICAL PRACTICE,KA9 1AQ,Primary Care Delivery Site,Ayrshire & Arran ,-4.6128617,55.5013139
+KIRKHALL SURGERY,KA9 1AW,Primary Care Delivery Site,Ayrshire & Arran ,-4.608904,55.5022882
+SALTCOATS GROUP PRACTICE,KA21 5LX,Primary Care Delivery Site,Ayrshire & Arran ,-4.7839695,55.6348202
+STEWARTON MEDICAL PRACTICE,KA3 5BP,Primary Care Delivery Site,Ayrshire & Arran ,-4.5130767,55.6811547
+TEMPLEHILL SURGERY,KA10 6BQ,Primary Care Delivery Site,Ayrshire & Arran ,-4.6670557,55.5441892
+"DRS MCHATTIE, MCGREGOR & HOLLAND",KA10 6QR,Primary Care Delivery Site,Ayrshire & Arran ,-4.6652838,55.5449469
+CUMBRAE MEDICAL PRACTICE,KA28 0DE,Primary Care Delivery Site,Ayrshire & Arran ,-4.9267084,55.7536416
+FREW TERRACE SURGERY,KA12 9DY,Primary Care Delivery Site,Ayrshire & Arran ,-4.6641093,55.626634
+STEVENSTON GROUP PRACTICE,KA20 3AB,Primary Care Delivery Site,Ayrshire & Arran ,-4.7565845,55.6406165
+TAIGLUM MEDICAL PRACTICE,KA6 7AY,Primary Care Delivery Site,Ayrshire & Arran ,-4.461181,55.4341614
+BALLOCHMYLE MEDICAL GROUP,KA5 6RU,Primary Care Delivery Site,Ayrshire & Arran ,-4.3313224,55.5028309
+KILWINNING MEDICAL PRACTICE,KA13 6BL,Primary Care Delivery Site,Ayrshire & Arran ,-4.700533,55.6528749
+OXENWARD SURGERY,KA13 6EH,Primary Care Delivery Site,Ayrshire & Arran ,-4.7017421,55.6538101
+AUCHINLECK SURGERY,KA18 2AY,Primary Care Delivery Site,Ayrshire & Arran ,-4.2945594,55.4705398
+DR KONDOL AND PARTNERS,KA17 0HD,Primary Care Delivery Site,Ayrshire & Arran ,-4.290398,55.6100627
+BANKFIELD MEDICAL PRACTICE,KA7 3PR,Primary Care Delivery Site,Ayrshire & Arran ,-4.6071327,55.4431635
+LARGS MEDICAL GROUP,KA30 8LH,Primary Care Delivery Site,Ayrshire & Arran ,-4.8664096,55.7979237
+PORTLAND MEDICAL PRACTICE,KA1 2DL,Primary Care Delivery Site,Ayrshire & Arran ,-4.5038716,55.6078564
+ARRAN MEDICAL GROUP,KA27 8NS,Primary Care Delivery Site,Ayrshire & Arran ,-5.1341938,55.5258921
+TANYARD MEDICAL PRACTICE,KA18 1BF,Primary Care Delivery Site,Ayrshire & Arran ,-4.2667369,55.4530467
+CENTRAL AVENUE SURGERY,KA22 7DX,Primary Care Delivery Site,Ayrshire & Arran ,-4.8061735,55.6506559
+DALRY MEDICAL PRACTICE,KA24 4AF,Primary Care Delivery Site,Ayrshire & Arran ,-4.7231807,55.7067736
+VALLEY MEDICAL PRACTICE,KA18 4BA,Primary Care Delivery Site,Ayrshire & Arran ,-4.1798573,55.3935274
+Education Centre UHC,KA2 0BE,NHS Vaccination Centre,Ayrshire & Arran ,-4.5393885,55.6139385
+Education Centre UHA,KA6 6DX,NHS Vaccination Centre,Ayrshire & Arran ,-4.5955377,55.4303317
+Day Procedure Unit Covid Clinic,TD6 9BS,NHS Vaccination Centre,Borders,-2.741945,55.5954778
+Outpatient Dept H BGH Covid Clinic,TD6 9BS,NHS Vaccination Centre,Borders,-2.741945,55.5954778
+COVID Outpatients Dept,TD6 9BS,NHS Vaccination Centre,Borders,-2.741945,55.5954778
+JEDBURGH MEDICAL PRACTICE,TD8 6EN,Primary Care Delivery Site,Borders,-2.5527076,55.4786335
+NEWCASTLETON MEDICAL PRACTICE,TD9 0RU,Primary Care Delivery Site,Borders,-2.8128999,55.1819585
+EILDON SURGERY,TD6 0PP,Primary Care Delivery Site,Borders,-2.6713063,55.5773298
+SELKIRK MEDICAL PRACTICE,TD7 4LJ,Primary Care Delivery Site,Borders,-2.8393351,55.5503892
+ST RONAN'S PRACTICE,EH44 6QE,Primary Care Delivery Site,Borders,-3.0669848,55.6160114
+O'CONNELL STREET MEDICAL PRACTICE,TD9 9HU,Primary Care Delivery Site,Borders,-2.7848469,55.4232614
+THE NEIDPATH PRACTICE,EH45 8JG,Primary Care Delivery Site,Borders,-3.1978318,55.6514751
+WEST LINTON MEDICAL PRACTICE,EH46 7EX,Primary Care Delivery Site,Borders,-3.3531937,55.753296
+THE ELLWYN PRACTICE,TD1 2UA,Primary Care Delivery Site,Borders,-2.8034566,55.6159275
+COLDSTREAM MEDICAL PRACTICE,TD12 4LQ,Primary Care Delivery Site,Borders,-2.2637897,55.6478279
+THE TWEED PRACTICE,EH45 8JG,Primary Care Delivery Site,Borders,-3.1978318,55.6514751
+BRAESIDE MEDICAL PRACTICE,TD1 2UA,Primary Care Delivery Site,Borders,-2.8034566,55.6159275
+GLENFIELD MEDICAL PRACTICE,TD1 2UA,Primary Care Delivery Site,Borders,-2.8034566,55.6159275
+WAVERLEY MEDICAL PRACTICE,TD1 2UA,Primary Care Delivery Site,Borders,-2.8034566,55.6159275
+EYEMOUTH MEDICAL PRACTICE,TD14 5DD,Primary Care Delivery Site,Borders,-2.0914994,55.8709765
+TEVIOT MEDICAL PRACTICE,TD9 9DT,Primary Care Delivery Site,Borders,-2.7874986,55.4231276
+STOW & LAUDER HEALTH,TD1 2SQ,Primary Care Delivery Site,Borders,-2.8654571,55.6916123
+EARLSTON MEDICAL PRACTICE,TD4 6DW,Primary Care Delivery Site,Borders,-2.6798216,55.6368559
+DUNS MEDICAL GROUP,TD11 3EL,Primary Care Delivery Site,Borders,-2.3414155,55.7726007
+ROXBURGH STREET SURGERY,TD1 1PF,Primary Care Delivery Site,Borders,-2.8128817,55.6187138
+MERSE MEDICAL PRACTICE,TD11 3XP,Primary Care Delivery Site,Borders,-2.2099217,55.8012521
+GREENLAW SURGERY,TD10 6XJ,Primary Care Delivery Site,Borders,-2.4620354,55.7080436
+"Buccleuch Centre, Langholm",DG13 0AW,Covid-19 Vaccination Clinic,Dumfries,-3.0040833,55.1533783
+Canonbie Village Hall,DG14 0UX,Covid-19 Vaccination Clinic,Dumfries,-2.952282,55.078956
+Castle Douglas Town Hall,DG7 1DE,Covid-19 Vaccination Clinic,Dumfries,-3.932971,54.9392864
+Dalbeattie Town Hall,DG5 4AD,Covid-19 Vaccination Clinic,Dumfries,-3.8218042,54.9327528
+Drummore Church Hall,DG9 9PT,Covid-19 Vaccination Clinic,Dumfries,-4.8963809,54.6916203
+Ecclefechan GP Practice,DG11 3BT,GP Practice,Dumfries,-3.2646756,55.0588306
+Glenluce Village Hall,DG9 0NL,Covid-19 Vaccination Clinic,Dumfries,-5.0808351,54.9744059
+Kirkcudbright Pipe Band Hall,DG6 4AJ,Covid-19 Vaccination Clinic,Dumfries,-4.0519188,54.8359417
+Lochmaben Hospital,DG11 1RQ,Covid-19 Vaccination Clinic,Dumfries,-3.4532328,55.127749
+Lockerbie Ice Rink,DG11 2AR,Covid-19 Vaccination Clinic,Dumfries,-3.359681,55.126825
+Loreburn Hall,DG1 2HP,Covid-19 Vaccination Clinic,Dumfries,-3.6073807,55.0700924
+Market Hall/Victoria Hall/Newington TBC,DG12 6EE,Covid-19 Vaccination Clinic,Dumfries,-3.2612105,54.986927
+Moffat Hospital,DG10 9JY,Covid-19 Vaccination Clinic,Dumfries,-3.4318804,55.3310478
+Mountainhall Vaccination Centre,DG1 4AP,Covid-19 Vaccination Clinic,Dumfries,-3.599235,55.0563054
+"McMillan Hall, Newton Stewart",DG8 6EQ,Covid-19 Vaccination Clinic,Dumfries,-4.4836344,54.9562194
+Queen of the South Indoor Arena,DG2 9BA,Covid-19 Vaccination Clinic,Dumfries,-3.625434,55.0699786
+"Richard Greenhow Centre, Gretna",DG16 5AQ,Covid-19 Vaccination Clinic,Dumfries,-3.0673068,54.9944091
+Sandhead Village Hall,DG9 9JF,Covid-19 Vaccination Clinic,Dumfries,-4.9627032,54.8080772
+Sanquhar Community Hall,DG4 6BT,Covid-19 Vaccination Clinic,Dumfries,-3.9250472,55.3698548
+Stranraer Millennium Centre,DG9 7JP,Covid-19 Vaccination Clinic,Dumfries,-5.0295295,54.9045562
+Thornhill Rehab Unit,DG3 5AA,Covid-19 Vaccination Clinic,Dumfries,-3.7655951,55.2349481
+Whithorn GP Practice,DG8 8PS,GP Practice,Dumfries,-4.415054,54.7371039
+Stranraer Millennium Centre,DG9 7JP,Covid-19 Vaccination Clinic,Dumfries,-5.0295295,54.9045562
+Sandhead Village Hall,DG9 9JF,Covid-19 Vaccination Clinic,Dumfries,-4.9627032,54.8080772
+Drummore Church Hall,DG9 9PT,Covid-19 Vaccination Clinic,Dumfries,-4.8963809,54.6916203
+Glenluce Village Hall ,DG8 0PR,Covid-19 Vaccination Clinic,Dumfries,-4.8103657,54.878721
+Newton Stewart – McMillan Hall ,DG8 6EQ,Covid-19 Vaccination Clinic,Dumfries,-4.4836344,54.9562194
+Whithorn GP Practice,DG8 8 PS,GP Practice,Dumfries,-4.415054,54.7371039
+Castle Douglas Town Hall,DG7 1DE,Covid-19 Vaccination Clinic,Dumfries,-3.932971,54.9392864
+Dalbeattie Town Hall,DG5 4AD,Covid-19 Vaccination Clinic,Dumfries,-3.8218042,54.9327528
+Kirkcudbright Pipe Band Hall,DG6 4AJ,Covid-19 Vaccination Clinic,Dumfries,-4.0519188,54.8359417
+Sanquhar Community Hall,DG4 6BT,Covid-19 Vaccination Clinic,Dumfries,-3.9250472,55.3698548
+Thornhill Rehab Unit,DG3 5AA,Covid-19 Vaccination Clinic,Dumfries,-3.7655951,55.2349481
+Mountainhall Vaccination Centre,DG1 4AP,Covid-19 Vaccination Clinic,Dumfries,-3.599235,55.0563054
+Loreburn Hall,DG1 2HP,Covid-19 Vaccination Clinic,Dumfries,-3.6073807,55.0700924
+Palmerston Football Club,DG2 9BA,Covid-19 Vaccination Clinic,Dumfries,-3.625434,55.0699786
+Market Hall,DG12 6EE,Covid-19 Vaccination Clinic,Dumfries,-3.2612105,54.986927
+Ecclefechan GP Practice,DG11 3BT,GP Practice,Dumfries,-3.2646756,55.0588306
+"Richard Greenhow Centre,",DG16 5AQ,Covid-19 Vaccination Clinic,Dumfries,-3.0673068,54.9944091
+Langholm Town Hall,DG13 0JQ,Covid-19 Vaccination Clinic,Dumfries,-2.9982601,55.1508202
+Canonbie Village Hall,DG14 0UX,Covid-19 Vaccination Clinic,Dumfries,-2.952282,55.078956
+Moffat Hospital ,DG10 9JY,Covid-19 Vaccination Clinic,Dumfries,-3.4318804,55.3310478
+Lochmaben Hospital,DG11 1RQ,Covid-19 Vaccination Clinic,Dumfries,-3.4532328,55.127749
+Lockerbie Ice Rink,DG11 2AR,Covid-19 Vaccination Clinic,Dumfries,-3.359681,55.126825
+Galloway Community Hospital,DG9 7DQ,Covid-19 Vaccination Clinic,Dumfries,-5.0217343,54.8992215
+Newton Stewart Hospital,DG8 6LZ,Covid-19 Vaccination Clinic,Dumfries,-4.4918302,54.9510986
+HMP Dumfries,DG2 9AX,Covid-19 Vaccination Clinic,Dumfries,-3.6270406,55.0682765
+Outpatients GCH 18th Dec 2020 - Clinic 2,DG9 7DQ,Covid-19 Vaccination Clinic,Dumfries,-5.0217343,54.8992215
+Outpatients GCH 18th Dec 2020 - Clinic 1,DG9 7DQ,Covid-19 Vaccination Clinic,Dumfries,-5.0217343,54.8992215
+"Corn Exchange, Cupar",KY15 4BT,Covid-19 Vaccination Clinic,Fife,-3.0112559,56.3197243
+Dunfermline East Church,KY11 8LW,Covid-19 Vaccination Clinic,Fife,-3.4022291,56.0619455
+Dunfermline Athletic Football Club,KY12 7RB ,Covid-19 Vaccination Clinic,Fife,-3.4418937,56.0755685
+East Neuk Centre Anstruther,KY10 3EX,Covid-19 Vaccination Clinic,Fife,-2.6974932,56.2241198
+Larick centre,DD6 9EA,Covid-19 Vaccination Clinic,Fife,-2.8725722,56.4417278
+Lochgelly Centre,KY5 9 RD,Covid-19 Vaccination Clinic,Fife,-3.3107851,56.1292525
+Parkgate centre,KY11 2JW,Covid-19 Vaccination Clinic,Fife,-3.4199247,56.0395578
+Rothes Halls,KY7 5NB,Covid-19 Vaccination Clinic,Fife,-3.1762047,56.195578
+"Randolph Wemyss Memorial Hospital, Buckhaven",KY8 1HU,Covid-19 Vaccination Clinic,Fife,-3.0278779,56.1764239
+St Andrews Community Hospital,KY16 8AR,Covid-19 Vaccination Clinic,Fife,-2.8056523,56.3274853
+Templehall Community Centre,KY2 6EX,Covid-19 Vaccination Clinic,Fife,-3.184161,56.1273865
+ANSTRUTHER MEDICAL PRACTICE,KY10 3FF,Primary Care Delivery Site,Fife,-2.6918273,56.227395
+MUIREDGE SURGERY,KY8 1HJ,Primary Care Delivery Site,Fife,-3.0394307,56.1759589
+Burntisland Medical Group,KY3 9DF,Primary Care Delivery Site,Fife,-3.2308322,56.0589122
+The Links Practice,KY3 9DF,Primary Care Delivery Site,Fife,-3.2308322,56.0589122
+WALLSGREEN MEDICAL PRACTICE,KY5 0JE,Primary Care Delivery Site,Fife,-3.2636803,56.1464826
+COWDENBEATH SURGERY,KY4 9DH,Primary Care Delivery Site,Fife,-3.3516636,56.1108324
+CROSSGATES MEDICAL PRACTICE,KY4 8DF,Primary Care Delivery Site,Fife,-3.3728944,56.0879106
+EDEN VILLA PRACTICE,KY15 4JN,Primary Care Delivery Site,Fife,-3.0163776,56.3232404
+BANK STREET MEDICAL GROUP,KY15 4JN,Primary Care Delivery Site,Fife,-3.0163776,56.3232404
+NETHERTOWN SURGERY,KY11 4TF,Primary Care Delivery Site,Fife,-3.4519979,56.0661411
+NEW PARK MEDICAL PRACTICE,KY12 0BL,Primary Care Delivery Site,Fife,-3.4330871,56.0824282
+HOSPITAL HILL SURGERY,KY11 3BA,Primary Care Delivery Site,Fife,-3.4465133,56.0612276
+MILLHILL SURGERY,KY11 4JW,Primary Care Delivery Site,Fife,-3.4509919,56.0675816
+LINBURN ROAD HEALTH CENTRE,KY11 4LT,Primary Care Delivery Site,Fife,-3.4170759,56.0656308
+THE LOMOND PRACTICE,KY6 1HL,Primary Care Delivery Site,Fife,-3.19464,56.1955361
+NORTH GLEN MEDICAL PRACTICE,KY7 6SX,Primary Care Delivery Site,Fife,-3.1683936,56.2079437
+THE GLENWOOD PRACTICE,KY6 1HL,Primary Care Delivery Site,Fife,-3.19464,56.1955361
+COS LANE SURGERY,KY7 4AQ,Primary Care Delivery Site,Fife,-3.1581674,56.1906447
+ROTHES MEDICAL PRACTICE,KY7 4RH,Primary Care Delivery Site,Fife,-3.1628733,56.1826756
+VALLEYFIELD MEDICAL PRACTICE,KY12 8SJ,Primary Care Delivery Site,Fife,-3.596589,56.0617218
+INVERKEITHING MEDICAL GROUP,KY11 1NU,Primary Care Delivery Site,Fife,-3.3969176,56.0296305
+KELTY MEDICAL PRACTICE,KY4 0AE,Primary Care Delivery Site,Fife,-3.3809487,56.1342117
+KENNOWAY MEDICAL GROUP,KY8 5JZ,Primary Care Delivery Site,Fife,-3.0466244,56.2094656
+KINGHORN MEDICAL PRACTICE,KY3 9RT,Primary Care Delivery Site,Fife,-3.1754686,56.0692014
+NICOL STREET SURGERY,KY1 1PH,Primary Care Delivery Site,Fife,-3.1648903,56.1067067
+BENNOCHY MEDICAL CENTRE,KY2 5RB,Primary Care Delivery Site,Fife,-3.1740077,56.1178157
+ST BRYCEDALE SURGERY,KY1 1ER,Primary Care Delivery Site,Fife,-3.1620249,56.1113969
+PATH HOUSE MEDICAL PRACTICE,KY1 2PG,Primary Care Delivery Site,Fife,-3.147716,56.1195993
+HOWE OF FIFE SURGERY,KY15 7JS,Primary Care Delivery Site,Fife,-3.1239744,56.2744218
+LESLIE MEDICAL PRACTICE,KY6 3LQ,Primary Care Delivery Site,Fife,-3.2181539,56.200644
+PITCAIRN PRACTICE LEUCHARS & BALMULLO,KY16 0DZ,Primary Care Delivery Site,Fife,-2.9330426,56.3756743
+SCOONIE MEDICAL PRACTICE,KY8 4ET,Primary Care Delivery Site,Fife,-2.9984797,56.1968358
+"DRS PAGE, MCDONALD & STEVENSON",KY8 4ET,Primary Care Delivery Site,Fife,-2.9984797,56.1968358
+Meadows Practice,KY5 9QZ,Primary Care Delivery Site,Fife,-3.3119627,56.1288716
+BENARTY MEDICAL PRACTICE,KY5 8DA,Primary Care Delivery Site,Fife,-3.321827,56.1561266
+DR K THOMPSON,KY5 9QZ,Primary Care Delivery Site,Fife,-3.3119627,56.1288716
+MARKINCH MEDICAL PRACTICE,KY7 6ER,Primary Care Delivery Site,Fife,-3.13242,56.2022224
+METHILHAVEN SURGERY,KY8 3HR,Primary Care Delivery Site,Fife,-3.0300527,56.1860555
+AIRLIE MEDICAL PRACTICE,KY8 3RS,Primary Care Delivery Site,Fife,-3.0018869,56.1878144
+Newburgh Surgery,KY14 6DA,Primary Care Delivery Site,Fife,-3.2401897,56.3508787
+TAYVIEW MEDICAL PRACTICE,DD6 8DJ,Primary Care Delivery Site,Fife,-2.9358006,56.437934
+OAKLEY MEDICAL PRACTICE,KY12 9QH,Primary Care Delivery Site,Fife,-3.5673721,56.0854233
+COAST HEALTH,KY10 2LG,Primary Care Delivery Site,Fife,-2.7296038,56.2140519
+PRIMROSE LANE MEDICAL CENTRE,KY11 2ZL,Primary Care Delivery Site,Fife,-3.4316356,56.045461
+PARK ROAD PRACTICE,KY11 2SE,Primary Care Delivery Site,Fife,-3.4174241,56.0400897
+BLACKFRIARS MEDICAL PRACTICE,KY16 8AR,Primary Care Delivery Site,Fife,-2.8056523,56.3274853
+Pipeland Medical Practice,KY16 8AR,Primary Care Delivery Site,Fife,-2.8056523,56.3274853
+COAST HEALTH,KY10 2LG,Primary Care Delivery Site,Fife,-2.7296038,56.2140519
+Clackmannan Community Hub,FK10 3BJ,Covid-19 Vaccination Clinic,Forth Valley,-3.7843639,56.1259963
+Falkrik Community Hub,FK1 5QE,Covid-19 Vaccination Clinic,Forth Valley,-3.794533,55.9977696
+Stirling Community Hub,FK8 2AU,Covid-19 Vaccination Clinic,Forth Valley,-3.9358927,56.1068004
+Forth Valley Royal Hospital,FK54WR,NHS Vaccination Centre,Forth Valley,-3.8480021,56.0251154
+Forth Valley Royal Hospital,FK54WR,NHS Vaccination Centre,Forth Valley,-3.8480021,56.0251154
+Pharmacy Corridor - Social Care,FK5 4WR,Covid-19 Vaccination Clinic,Forth Valley,-3.8480021,56.0251154
+OHS Covid Clinic A,FK5 4WR,Covid-19 Vaccination Clinic,Forth Valley,-3.8480021,56.0251154
+OHS Covid Clinic B,FK5 4WR,Covid-19 Vaccination Clinic,Forth Valley,-3.8480021,56.0251154
+OHS Covid Clinic C,FK5 4WR,Covid-19 Vaccination Clinic,Forth Valley,-3.8480021,56.0251154
+LC Covid Clinic A,FK5 4WR,Covid-19 Vaccination Clinic,Forth Valley,-3.8480021,56.0251154
+LC Covid Clinic B,FK5 4WR,Covid-19 Vaccination Clinic,Forth Valley,-3.8480021,56.0251154
+LC Covid Clinic C,FK5 4WR,Covid-19 Vaccination Clinic,Forth Valley,-3.8480021,56.0251154
+LC Covid Clinic D,FK5 4WR,Covid-19 Vaccination Clinic,Forth Valley,-3.8480021,56.0251154
+TRYST MEDICAL CENTRE,FK5 4HT,Primary Care Delivery Site,Forth Valley,-3.8113634,56.0274298
+ABERFOYLE & BUCHLYVIE MEDICAL CENTRES,FK8 3NB,Primary Care Delivery Site,Forth Valley,-4.297829,56.1162766
+ALLAN PARK MEDICAL PRACTICE,FK8 2QD,Primary Care Delivery Site,Forth Valley,-3.9393723,56.1158761
+TOR MEDICAL GROUP,FK7 8DW,Primary Care Delivery Site,Forth Valley,-3.8750342,56.0646692
+ANTONINE MEDICAL PRACTICE,FK4 1ED,Primary Care Delivery Site,Forth Valley,-3.8930261,56.003718
+ARK MEDICAL PRACTICE,FK1 1BA,Primary Care Delivery Site,Forth Valley,-3.7843481,55.99772
+BALFRON HEALTH CENTRE,G63 0TS,Primary Care Delivery Site,Forth Valley,-4.336024,56.0680619
+BONNYBANK MEDICAL PRACTICE,FK4 1ED,Primary Care Delivery Site,Forth Valley,-3.8930261,56.003718
+BRAESVIEW MEDICAL GROUP,FK2 0XF,Primary Care Delivery Site,Forth Valley,-3.7218321,55.9873945
+BRIDGE OF ALLAN HEALTH CENTRE,FK9 4EU,Primary Care Delivery Site,Forth Valley,-3.947881,56.1531174
+CAMELON MEDICAL PRACTICE,FK1 4PP,Primary Care Delivery Site,Forth Valley,-3.8144649,56.0028872
+CARRON MEDICAL CENTRE,FK2 7TA,Primary Care Delivery Site,Forth Valley,-3.7925801,56.0158246
+CARRONBANK MEDICAL PRACTICE,FK6 6GD,Primary Care Delivery Site,Forth Valley,-3.9079875,56.0248035
+DENNY CROSS MEDICAL CENTRE,FK6 6DB,Primary Care Delivery Site,Forth Valley,-3.9088695,56.0228398
+DOLLAR HEALTH CENTRE,FK14 7AA,Primary Care Delivery Site,Forth Valley,-3.6700852,56.1622797
+WESTBURN MEDICAL PRACTICE,FK1 5SU,Primary Care Delivery Site,Forth Valley,-3.7926479,55.9986148
+DRYMEN HEALTH CENTRE,G63 0DP,Primary Care Delivery Site,Forth Valley,-4.4517706,56.0670738
+DUNBLANE MEDICAL PRACTICE,FK15 9AL,Primary Care Delivery Site,Forth Valley,-3.9700036,56.1877143
+EDENKILN SURGERY,G63 9EG,Primary Care Delivery Site,Forth Valley,-4.3057883,55.9841493
+FALLIN HEALTH CENTRE,FK7 7JD,Primary Care Delivery Site,Forth Valley,-3.8759794,56.1046076
+CALLANDER MEDICAL PRACTICE,FK17 8LX,Primary Care Delivery Site,Forth Valley,-4.1994531,56.2380516
+FORTHVIEW PRACTICE,EH51 0DQ,Primary Care Delivery Site,Forth Valley,-3.6136753,56.0120325
+KILLEARN HEALTH CENTRE,G63 9NA,Primary Care Delivery Site,Forth Valley,-4.3723121,56.0457365
+KINGLASS MEDICAL PRACTICE,EH51 9UE,Primary Care Delivery Site,Forth Valley,-3.601054,56.008989
+KIPPEN SURGERY,FK8 3DZ,Primary Care Delivery Site,Forth Valley,-4.1726218,56.125257
+MEEKS ROAD SURGERY,FK2 7ES,Primary Care Delivery Site,Forth Valley,-3.7866218,56.0031956
+OCHILVIEW PRACTICE,FK5 3BB,Primary Care Delivery Site,Forth Valley,-3.8182638,56.0250367
+ORCHARD HOUSE HEALTH CENTRE,FK8 1PH,Primary Care Delivery Site,Forth Valley,-3.9401381,56.1269448
+PARK AVENUE MEDICAL CENTRE,FK8 2AU,Primary Care Delivery Site,Forth Valley,-3.9358927,56.1068004
+PARK TERRACE MEDICAL PRACTICE,FK8 2AU,Primary Care Delivery Site,Forth Valley,-3.9358927,56.1068004
+PARKVIEW PRACTICE,FK5 3BB,Primary Care Delivery Site,Forth Valley,-3.8182638,56.0250367
+POLMONT PARK MEDICAL PRACTICE,FK2 0XF,Primary Care Delivery Site,Forth Valley,-3.7218321,55.9873945
+STENHOUSE PRACTICE,FK5 3BB,Primary Care Delivery Site,Forth Valley,-3.8182638,56.0250367
+THE WALLACE MEDICAL PRACTICE,FK8 1JU,Primary Care Delivery Site,Forth Valley,-3.9373642,56.12041
+KILLIN MEDICAL PRACTICE,FK21 8TQ,Primary Care Delivery Site,Forth Valley,-4.3165689,56.4665535
+THE WHINS MEDICAL PRACTICE,FK10 3JQ,Primary Care Delivery Site,Forth Valley,-3.7835471,56.1246871
+WALLACE MEDICAL CENTRE,FK2 7AZ,Primary Care Delivery Site,Forth Valley,-3.7761437,56.0051714
+VIEWPOINT MEDICAL PRACTICE,FK5 3BB,Primary Care Delivery Site,Forth Valley,-3.8182638,56.0250367
+VIEWFIELD MEDICAL PRACTICE,FK8 2AU,Primary Care Delivery Site,Forth Valley,-3.9358927,56.1068004
+CLACKMANNAN & KINCARDINE MEDICAL PRACTICE,FK10 4JA,Primary Care Delivery Site,Forth Valley,-3.751112,56.1073052
+GRAEME MEDICAL CENTRE,FK2 7HR,Primary Care Delivery Site,Forth Valley,-3.7848588,56.0059979
+TILLICOULTRY MEDICAL PRACTICE,FK13 6AG,Primary Care Delivery Site,Forth Valley,-3.7467916,56.1528263
+SLAMANNAN MEDICAL PRACTICE,FK1 3EZ,Primary Care Delivery Site,Forth Valley,-3.8356186,55.9366229
+BO'NESS ROAD MEDICAL PRACTICE,FK3 8AN,Primary Care Delivery Site,Forth Valley,-3.7203392,56.0194598
+THE RICHMOND PRACTICE,EH51 0DQ,Primary Care Delivery Site,Forth Valley,-3.6136753,56.0120325
+ALVA MEDICAL PRACTICE,FK12 5BD,Primary Care Delivery Site,Forth Valley,-3.803485,56.1519218
+DOUNE HEALTH CENTRE,FK16 6DU,Primary Care Delivery Site,Forth Valley,-4.0524112,56.191837
+AIRTHREY PARK MEDICAL CENTRE,FK9 4NJ,Primary Care Delivery Site,Forth Valley,-3.9174696,56.1496122
+KINGSWELLS MEDICAL PRACTICE,AB15 8TB,Primary Care Delivery Site,Forth Valley,-2.2252614,57.1583731
+GARTHDEE MEDICAL GROUP,AB10 7QQ,Primary Care Delivery Site,Forth Valley,-2.1337864,57.1194455
+Rinnes Medical Group,AB55 4FH,Covid-19 Vaccination Clinic,Grampian,-3.121648,57.4457936
+Fochabers Institute,IV32 7EP,Covid-19 Vaccination Clinic,Grampian,-3.0923617,57.6123911
+Glenlivet,AB37 9AN,Covid-19 Vaccination Clinic,Grampian,-3.3553582,57.3539844
+The Shand,AB55 4FH,Covid-19 Vaccination Clinic,Grampian,-3.121648,57.4457936
+Tomintoul,AB55 4FH,Covid-19 Vaccination Clinic,Grampian,-3.121648,57.4457936
+The Legion Forres,IV36 1PH,Covid-19 Vaccination Clinic,Grampian,-3.6118671,57.6093223
+Burghead Townhall,IV30 5PZ,Covid-19 Vaccination Clinic,Grampian,-3.4894171,57.7010736
+Hopeman Hall,IV30 5SL,Covid-19 Vaccination Clinic,Grampian,-3.4375595,57.705572
+Lossie Baptist Church,IV31 6AD,Covid-19 Vaccination Clinic,Grampian,-3.2829979,57.7212015
+St Machar,Aberdeen,Covid-19 Vaccination Clinic,Grampian,-2.094278,57.149717
+Harlaw,Aberdeen,Covid-19 Vaccination Clinic,Grampian,-2.094278,57.149717
+Northfield,Aberdeen,Covid-19 Vaccination Clinic,Grampian,-2.094278,57.149717
+Bridge of Don,Aberdeen,Covid-19 Vaccination Clinic,Grampian,-2.094278,57.149717
+Kincorth Community Centre,Aberdeen,Covid-19 Vaccination Clinic,Grampian,-2.094278,57.149717
+Torry Sports Centre,Aberdeen,Covid-19 Vaccination Clinic,Grampian,-2.094278,57.149717
+Tillydrone Hub,Aberdeen,Covid-19 Vaccination Clinic,Grampian,-2.094278,57.149717
+Danestone Community Centre,Aberdeen,Covid-19 Vaccination Clinic,Grampian,-2.094278,57.149717
+The Beacon Centre,Aberdeen,Covid-19 Vaccination Clinic,Grampian,-2.094278,57.149717
+Peterculter Kirk,Aberdeen,Covid-19 Vaccination Clinic,Grampian,-2.094278,57.149717
+Westburn Lounge,Aberdeen,Covid-19 Vaccination Clinic,Grampian,-2.094278,57.149717
+Banff,Aberdeenshire,Covid-19 Vaccination Clinic,Grampian,-2.3815684,57.2868723
+Fraserburgh,Aberdeenshire,Covid-19 Vaccination Clinic,Grampian,-2.3815684,57.2868723
+Peterhead,Aberdeenshire,Covid-19 Vaccination Clinic,Grampian,-2.3815684,57.2868723
+Turriff,Aberdeenshire,Covid-19 Vaccination Clinic,Grampian,-2.3815684,57.2868723
+Inverurie,Aberdeenshire,Covid-19 Vaccination Clinic,Grampian,-2.3815684,57.2868723
+", Insch",Aberdeenshire,Covid-19 Vaccination Clinic,Grampian,-2.3815684,57.2868723
+Jubilee,Aberdeenshire,Covid-19 Vaccination Clinic,Grampian,-2.3815684,57.2868723
+Glen'o'Dee,Aberdeenshire,Covid-19 Vaccination Clinic,Grampian,-2.3815684,57.2868723
+Aboyne,Aberdeenshire,Covid-19 Vaccination Clinic,Grampian,-2.3815684,57.2868723
+Kincardine,Aberdeenshire,Covid-19 Vaccination Clinic,Grampian,-2.3815684,57.2868723
+Fochabers institute,Moray,Covid-19 Vaccination Clinic,Grampian,-3.3168039,57.6498476
+Keith School,Moray,Covid-19 Vaccination Clinic,Grampian,-3.3168039,57.6498476
+Aberlour Fleming Hospital,Moray,Covid-19 Vaccination Clinic,Grampian,-3.3168039,57.6498476
+"The Shand, Dufftown",Moray,Covid-19 Vaccination Clinic,Grampian,-3.3168039,57.6498476
+Tomintoul,Moray,Covid-19 Vaccination Clinic,Grampian,-3.3168039,57.6498476
+Lossie Baptist Hall,Moray,Covid-19 Vaccination Clinic,Grampian,-3.3168039,57.6498476
+The Legion in Forres,Moray,Covid-19 Vaccination Clinic,Grampian,-3.3168039,57.6498476
+Hopeman,Moray,Covid-19 Vaccination Clinic,Grampian,-3.3168039,57.6498476
+Burghead,Moray,Covid-19 Vaccination Clinic,Grampian,-3.3168039,57.6498476
+Cullen Practice - afternoons only,Moray,Covid-19 Vaccination Clinic,Grampian,-3.3168039,57.6498476
+Glenlivet Village Hall,Moray,Covid-19 Vaccination Clinic,Grampian,-3.3168039,57.6498476
+Woodend Peer to Peer,AB15 6XS,Covid-19 Vaccination Clinic,Grampian,-2.1715821,57.1472921
+Woodend Planned Clinic,AB15 6XS,Covid-19 Vaccination Clinic,Grampian,-2.1715821,57.1472921
+ARI Peer to Peer,AB25 2ZN,NHS Vaccination Centre,Grampian,-2.1373654,57.15426
+ARI Planned Clinic,AB25 2ZN,NHS Vaccination Centre,Grampian,-2.1373654,57.15426
+City: Health Village Clinic,AB24 5HY,Covid-19 Vaccination Clinic,Grampian,-2.0926769,57.1501322
+RCH Clinic,AB25 2ZH,Covid-19 Vaccination Clinic,Grampian,-2.1172163,57.154271
+RCH Peer to Peer,NULL,Covid-19 Vaccination Clinic,Grampian,-90.516844,38.798267
+Shire: Peterhead Hospital Clinic,AB42 2XB,Covid-19 Vaccination Clinic,Grampian,-1.793627,57.5023483
+Shire: Chalmers Hospital Clinic,AB45 1JA,Covid-19 Vaccination Clinic,Grampian,-2.5243867,57.6689667
+Shire: Turriff Hospital  Clinic,AB53 4DQ,Covid-19 Vaccination Clinic,Grampian,-2.4516659,57.536541
+Shire: Jubilee Hospital Clinic,AB54 8EX,Covid-19 Vaccination Clinic,Grampian,-2.7903583,57.443195
+Shire: Insch Hospital Clinic,AB52 6JJ,Covid-19 Vaccination Clinic,Grampian,-2.6122871,57.3408748
+Shire: Inverurie Hospital Clinic,AB51 3UL,Covid-19 Vaccination Clinic,Grampian,-2.3796358,57.2765674
+Shire: Aboyne Hospital Clinic,AB34 5HQ,Covid-19 Vaccination Clinic,Grampian,-2.76761,57.077004
+Shire: Banchory,NULL,Covid-19 Vaccination Clinic,Grampian,-90.516844,38.798267
+Shire: Stonehaven,NULL,Covid-19 Vaccination Clinic,Grampian,-90.516844,38.798267
+Dr Gray's Peer to Peer,IV30 1SN,Covid-19 Vaccination Clinic,Grampian,-3.3269842,57.6464118
+COVID-19 DGH,IV30 1SN,Covid-19 Vaccination Clinic,Grampian,-3.3269842,57.6464118
+COVID-19 Southfield,IV30 6GR,Covid-19 Vaccination Clinic,Grampian,-3.2941664,57.6371036
+HOLBURN MEDICAL GROUP,AB10 1YE,Primary Care Delivery Site,Grampian,-2.1145028,57.1425507
+DENBURN MEDICAL PRACTICE,AB25 1QB,Primary Care Delivery Site,Grampian,-2.1072497,57.1486385
+WHINHILL MEDICAL PRACTICE,AB11 7XH,Primary Care Delivery Site,Grampian,-2.1075605,57.1359992
+HAMILTON MEDICAL GROUP,AB15 4ZT,Primary Care Delivery Site,Grampian,-2.1309607,57.142535
+BUCKSBURN MEDICAL PRACTICE,AB21 9DG,Primary Care Delivery Site,Grampian,-2.1822695,57.1766337
+WESTBURN MEDICAL GROUP,AB25 2XE,Primary Care Delivery Site,Grampian,-2.1370798,57.1529847
+NEW DYCE MEDICAL PRACTICE,AB21 7NQ,Primary Care Delivery Site,Grampian,-2.1763431,57.2066988
+TORRY MEDICAL PRACTICE,AB11 8ER,Primary Care Delivery Site,Grampian,-2.0871881,57.1352155
+GREAT WESTERN MEDICAL PRACTICE,AB15 7YT,Primary Care Delivery Site,Grampian,-2.1417915,57.1358219
+KINCORTH MEDICAL PRACTICE,AB12 5NA,Primary Care Delivery Site,Grampian,-2.1040985,57.1208118
+OLDMACHAR MEDICAL PRACTICE,AB24 5RS,Primary Care Delivery Site,Grampian,-2.0967112,57.1635677
+MARYWELL HEALTHCARE CENTRE,AB11 6FD,Primary Care Delivery Site,Grampian,-2.0999785,57.1426617
+LINKS MEDICAL PRACTICE,AB24 5AU,Primary Care Delivery Site,Grampian,-2.0871833,57.1544839
+ALBYN MEDICAL PRACTICE,AB10 1NW,Primary Care Delivery Site,Grampian,-2.1221208,57.1426964
+RUBISLAW PLACE MEDICAL GROUP,AB10 1QB,Primary Care Delivery Site,Grampian,-2.1155975,57.1438703
+CARDEN MEDICAL CENTRE,AB10 1UT,Primary Care Delivery Site,Grampian,-2.1164785,57.1455672
+WOODSIDE MEDICAL GROUP,AB24 2AS,Primary Care Delivery Site,Grampian,-2.1220262,57.16934
+SCOTSTOWN MEDICAL GROUP,AB22 8LD,Primary Care Delivery Site,Grampian,-2.1026099,57.180119
+GILBERT ROAD MEDICAL GROUP,AB21 9AN,Primary Care Delivery Site,Grampian,-2.175,57.1782789
+CULTS MEDICAL GROUP,AB15 9LQ,Primary Care Delivery Site,Grampian,-2.1813585,57.1152535
+PETERCULTER MEDICAL PRACTICE,AB14 0RP,Primary Care Delivery Site,Grampian,-2.2582567,57.0989222
+DANESTONE MEDICAL PRACTICE,AB22 8ZP,Primary Care Delivery Site,Grampian,-2.1369083,57.1825658
+CAMPHILL MEDICAL PRACTICE,AB15 9EP,Primary Care Delivery Site,Grampian,-2.2114766,57.1036989
+MACDUFF MEDICAL PRACTICE,AB45 1JD,Primary Care Delivery Site,Grampian,-2.5260165,57.6692294
+FINLAYSON STREET PRACTICE,AB43 9JW,Primary Care Delivery Site,Grampian,-2.0140322,57.6924563
+CENTRAL BUCHAN MEDICAL PRACTICE,AB43 6NE,Primary Care Delivery Site,Grampian,-2.1983296,57.5919146
+SALTOUN SURGERY,AB43 9NH,Primary Care Delivery Site,Grampian,-2.0199166,57.6867876
+CRIMOND MEDICAL CENTRE,AB43 8QJ,Primary Care Delivery Site,Grampian,-1.9129687,57.6015448
+CRUDEN MEDICAL GROUP,AB42 0QQ,Primary Care Delivery Site,Grampian,-1.9202614,57.4253039
+MINTLAW GROUP PRACTICE,AB42 5GP,Primary Care Delivery Site,Grampian,-2.0098732,57.5237504
+PETERHEAD HEALTH CENTRE,AB42 2XA,Primary Care Delivery Site,Grampian,-1.7941275,57.5023671
+FYVIE OLDMELDRUM MEDICAL GROUP,AB51 0JZ,Primary Care Delivery Site,Grampian,-2.3296751,57.3349434
+TURRIFF MEDICAL PRACTICE,AB53 4DQ,Primary Care Delivery Site,Grampian,-2.4516659,57.536541
+ALFORD MEDICAL PRACTICE,AB33 8FL,Primary Care Delivery Site,Grampian,-2.7036213,57.2370024
+STRATHDON MEDICAL CENTRE,AB36 8XB,Primary Care Delivery Site,Grampian,-3.035965,57.1935391
+ELLON GROUP PRACTICE,AB41 9AH,Primary Care Delivery Site,Grampian,-2.0713749,57.3662741
+HADDO MEDICAL GROUP,AB41 7NX,Primary Care Delivery Site,Grampian,-2.1785928,57.3366052
+INSCH MEDICAL PRACTICE,AB52 6JJ,Primary Care Delivery Site,Grampian,-2.6122871,57.3408748
+INVERURIE MEDICAL GROUP,AB51 3UL,Primary Care Delivery Site,Grampian,-2.3796358,57.2765674
+KEMNAY MEDICAL GROUP,AB51 5NB,Primary Care Delivery Site,Grampian,-2.4452966,57.2342756
+BYDAND MEDICAL GROUP,AB54 8EX,Primary Care Delivery Site,Grampian,-2.7903583,57.443195
+SKENE MEDICAL GROUP,AB32 6FG,Primary Care Delivery Site,Grampian,-2.2742949,57.147316
+BALLATER CLINIC,AB35 5NN,Primary Care Delivery Site,Grampian,-3.0398489,57.0513593
+BRAEMAR HEALTH CLINIC,AB35 5WR,Primary Care Delivery Site,Grampian,-3.4021464,57.0076858
+TORPHINS MEDICAL PRACTICE,AB31 4JQ,Primary Care Delivery Site,Grampian,-2.6204987,57.1073194
+PORTLETHEN MEDICAL CENTRE,AB12 4QP,Primary Care Delivery Site,Grampian,-2.1255284,57.060552
+STONEHAVEN MEDICAL GROUP,AB39 2EL,Primary Care Delivery Site,Grampian,-2.2119156,56.9665973
+AUCHENBLAE MEDICAL CENTRE,AB30 1XU,Primary Care Delivery Site,Grampian,-2.4485703,56.9002871
+INVERBERVIE MEDICAL GROUP,DD10 0RU,Primary Care Delivery Site,Grampian,-2.2820331,56.8454541
+LAURENCEKIRK MEDICAL GROUP,AB30 1GX,Primary Care Delivery Site,Grampian,-2.4755269,56.8317701
+ARDACH HEALTH CENTRE,AB56 1JE,Primary Care Delivery Site,Grampian,-2.9661724,57.6715913
+SEAFIELD & CULLEN MEDICAL GROUP,AB56 1FP,Primary Care Delivery Site,Grampian,-2.9827875,57.6679062
+LINKWOOD MEDICAL,IV30 6GQ,Primary Care Delivery Site,Grampian,-3.2932279,57.636152
+ELGIN COMMUNITY SURGERY,IV30 1NE,Primary Care Delivery Site,Grampian,-3.3202527,57.6469762
+FOCHABERS MEDICAL PRACTICE,IV32 7EP,Primary Care Delivery Site,Grampian,-3.0923617,57.6123911
+MORAY COAST MEDICAL PRACTICE,IV31 6TU,Primary Care Delivery Site,Grampian,-3.3053663,57.7153045
+VARIS MEDICAL PRACTICE,IV36 1JG,Primary Care Delivery Site,Grampian,-3.6219196,57.6031475
+CULBIN MEDICAL PRACTICE,IV36 1JG,Primary Care Delivery Site,Grampian,-3.6219196,57.6031475
+ARI,AB25 2ZN,Covid-19 Vaccination Clinic,Grampian,-2.1373654,57.15426
+Aberdeen Health Village,AB24 5HY,Covid-19 Vaccination Clinic,Grampian,-2.0926769,57.1501322
+"Chalmers Hospital, Banff",AB45 1JA,Covid-19 Vaccination Clinic,Grampian,-2.5243867,57.6689667
+Fraserburgh Community Hospital,AB43 9NH,Covid-19 Vaccination Clinic,Grampian,-2.0199166,57.6867876
+Peterhead Community Hospital,AB42 2XB,Covid-19 Vaccination Clinic,Grampian,-1.793627,57.5023483
+Turriff Community Hospital,AB53 4DQ,Covid-19 Vaccination Clinic,Grampian,-2.4516659,57.536541
+Inverurie Community Hospital,AB51 3UL,Covid-19 Vaccination Clinic,Grampian,-2.3796358,57.2765674
+Insch War Memorial Hospital,AB52 6JJ,Covid-19 Vaccination Clinic,Grampian,-2.6122871,57.3408748
+"Jubilee Hospital, Huntly",AB54 8EX,Covid-19 Vaccination Clinic,Grampian,-2.7903583,57.443195
+"Glen'o'Dee Hospital, Banchory",AB31 5SA,Covid-19 Vaccination Clinic,Grampian,-2.5212397,57.0608521
+Aboyne Community Hospital,AB34 5HQ,Covid-19 Vaccination Clinic,Grampian,-2.76761,57.077004
+Kincardine Community Hospital,AB39 2NJ,Covid-19 Vaccination Clinic,Grampian,-2.2308115,56.969142
+Dr Gray's Hospital,IV30 1SN,Covid-19 Vaccination Clinic,Grampian,-3.3269842,57.6464118
+"Fleming Hospital, Aberlour",AB38 9PR,Covid-19 Vaccination Clinic,Grampian,-3.2241738,57.4693469
+"Shand Centre, Stephen Hospital",AB55 4BH,Covid-19 Vaccination Clinic,Grampian,-3.1251877,57.4454926
+Seafield Hospital,AB56 1FP,Covid-19 Vaccination Clinic,Grampian,-2.9827875,57.6679062
+Turner Hospital,AB55 5DJ,Covid-19 Vaccination Clinic,Grampian,-2.9540153,57.5417912
+Abbeyside,IV30 1QX,Covid-19 Vaccination Clinic,Grampian,-3.3085118,57.6466221
+Abbeyvale,IV30 1QS,Covid-19 Vaccination Clinic,Grampian,-3.3084748,57.6451312
+Andersons,IV30 1RP,Covid-19 Vaccination Clinic,Grampian,-3.3059937,57.6478878
+Cathay,IV36 2RE,Covid-19 Vaccination Clinic,Grampian,-3.589665,57.6030274
+Glenisla,AB55 5GT,Covid-19 Vaccination Clinic,Grampian,-2.9450775,57.5456492
+Meadowlark,IV36 2JT,Covid-19 Vaccination Clinic,Grampian,-3.6179852,57.6008531
+Netherha,AB56 1EP,Covid-19 Vaccination Clinic,Grampian,-2.9764028,57.6704798
+Parkhome,IV31 6RF,Covid-19 Vaccination Clinic,Grampian,-3.2992038,57.7166525
+Parkland/Burnbank,AB56 4AD,Covid-19 Vaccination Clinic,Grampian,-2.9542529,57.6652232
+Speyside,AB38 9QE,Covid-19 Vaccination Clinic,Grampian,-3.2166302,57.4721328
+Spynie,IV30 5JG,Covid-19 Vaccination Clinic,Grampian,-3.3286573,57.6596445
+The Grove,IV30 8TE,Covid-19 Vaccination Clinic,Grampian,-3.3440897,57.638227
+Wakefield,AB56 4TE,Covid-19 Vaccination Clinic,Grampian,-2.8150073,57.6911955
+Weston Wiew,AB55 5JS,Covid-19 Vaccination Clinic,Grampian,-2.9394129,57.5345796
+Elgin Community Surgery,IV30 1NE,Covid-19 Vaccination Clinic,Grampian,-3.3202527,57.6469762
+Fochabers Medical Practice,IV32 7EP,Covid-19 Vaccination Clinic,Grampian,-3.0923617,57.6123911
+Culbin Medical Practice,IV30 1JG,Covid-19 Vaccination Clinic,Grampian,-3.318418,57.6467438
+The Varis Medical Practice,IV30 1JG,Covid-19 Vaccination Clinic,Grampian,-3.318418,57.6467438
+Keith Health Centre,AB55 5DJ,Covid-19 Vaccination Clinic,Grampian,-2.9540153,57.5417912
+Linkwood Medical Centre,IV30 6GQ,Covid-19 Vaccination Clinic,Grampian,-3.2932279,57.636152
+Maryhill Group Practice,IV30 1AT,Covid-19 Vaccination Clinic,Grampian,-3.3255122,57.6473974
+Moray Coast Medical Practice,IV31 6TU,Covid-19 Vaccination Clinic,Grampian,-3.3053663,57.7153045
+KEITH MEDICAL GROUP,AB55 5DJ,Primary Care Delivery Site,Grampian,-2.9540153,57.5417912
+ABERLOUR HEALTH CENTRE,AB38 9PR,Primary Care Delivery Site,Grampian,-3.2241738,57.4693469
+RINNES MEDICAL GROUP,AB55 4FJ,Primary Care Delivery Site,Grampian,-3.1240381,57.4454938
+GLENLIVET MEDICAL PRACTICE,AB37 9AN,Primary Care Delivery Site,Grampian,-3.3553582,57.3539844
+CALSAYSEAT MEDICAL GROUP,AB25 3TX,Primary Care Delivery Site,Grampian,-2.107936,57.1574142
+THE MACLEAN MEDICAL PRACTICE,G76 7HN,Primary Care Delivery Site,Grampian,-4.2824505,55.7933143
+"Topps Tiles, Unit 7, Edgar Road, ELGIN",IV30 6RP,Covid-19 Vaccination Clinic,Grampian,-3.3159188,57.6411104
+Aberdeen Health Village,AB24 5HY,Covid-19 Vaccination Clinic,Grampian,-2.0926769,57.1501322
+Woodend Hospital,AB15 6XS,Covid-19 Vaccination Clinic,Grampian,-2.1715821,57.1472921
+ARI,AB25 2ZN,Covid-19 Vaccination Clinic,Grampian,-2.1373654,57.15426
+Bridge Of Don Medical,AB22 8LD,Covid-19 Vaccination Clinic,Grampian,-2.1026099,57.180119
+Foresterhill health Centre,AB25 2XE,Covid-19 Vaccination Clinic,Grampian,-2.1370798,57.1529847
+Tillydrone Medical,Ab24 2AS,Covid-19 Vaccination Clinic,Grampian,-2.1220262,57.16934
+Bucksburn Mecial,AB21 9DG,Covid-19 Vaccination Clinic,Grampian,-2.1822695,57.1766337
+Dyce Medical Centre,AB21 7NQ,Covid-19 Vaccination Clinic,Grampian,-2.1763431,57.2066988
+"Links Unit, City Hospital",AB24 5AU,Covid-19 Vaccination Clinic,Grampian,-2.0871833,57.1544839
+Airyhall Medical Centre,AB15 7RF,Covid-19 Vaccination Clinic,Grampian,-2.1492115,57.1322201
+Torry Medical Centre,AB11 8ER,Covid-19 Vaccination Clinic,Grampian,-2.0871881,57.1352155
+Aberdeen TECA (Not confirmed),AB21 9FY,Covid-19 Vaccination Clinic,Grampian,-2.1889982,57.1858133
+Turriff Hospital,AB53 4DQ,Covid-19 Vaccination Clinic,Grampian,-2.4516659,57.536541
+Inverurie Community Hospital,AB51 3UL,Covid-19 Vaccination Clinic,Grampian,-2.3796358,57.2765674
+Insch Community Hospital,AB52 6JJ,Covid-19 Vaccination Clinic,Grampian,-2.6122871,57.3408748
+Banff - Chalmers,AB45 1JA,Covid-19 Vaccination Clinic,Grampian,-2.5243867,57.6689667
+Fraserburgh Community Hospital,AB43 9NF,Covid-19 Vaccination Clinic,Grampian,-2.0195816,57.687614
+Peterhead Community Hospital,AB42 2XB,Covid-19 Vaccination Clinic,Grampian,-1.793627,57.5023483
+Stonehaven - Kincardine CH,AB39 2PB,Covid-19 Vaccination Clinic,Grampian,-2.2308115,56.969142
+Banchory - Glen O'Dee,AB31 5SA,Covid-19 Vaccination Clinic,Grampian,-2.5212397,57.0608521
+Aboyne Hospital,AB34 5HQ,Covid-19 Vaccination Clinic,Grampian,-2.76761,57.077004
+Huntly - Jubilee Community Hospital,AB54 8EX,Covid-19 Vaccination Clinic,Grampian,-2.7903583,57.443195
+Dr Grays,IV30 1SN,Covid-19 Vaccination Clinic,Grampian,-3.3269842,57.6464118
+Southfield,IV30 6GR,Covid-19 Vaccination Clinic,Grampian,-3.2941664,57.6371036
+NHS Louisa Jordan Occ Health Clinic,G3 8YW,NHS Vaccination Centre,GGC,-4.2887931,55.8608901
+Queen Elizabeth University Hospital Occ Health Clinic,G51 4TF,NHS Vaccination Centre,GGC,-4.3381034,55.8626408
+Gartnavel General Hospital Occ Health Clinic,G12 0YN,Covid-19 Vaccination Clinic,GGC,-4.3127175,55.8832168
+Vale of Leven Occ Health Clinic,G40 4AN,Covid-19 Vaccination Clinic,GGC,-4.2254711,55.8473491
+Stobhill Occ Health Clinic,G21 3UW,Covid-19 Vaccination Clinic,GGC,-4.2198419,55.8928906
+Inverclyde Royal Hospital Occ Health Clinic,PA16 0XN,Covid-19 Vaccination Clinic,GGC,-4.809819,55.9443008
+Royal Alexandra Hospital Occ Health Clinic,PA2 9PN,Covid-19 Vaccination Clinic,GGC,-4.437806,55.8352162
+Glasgow Royal Infirmary Occ Health Clinic,G4 0SF,Covid-19 Vaccination Clinic,GGC,-4.2356463,55.8640247
+Golden Jubilee Covid 19 Vaccination Clinic,G81 4DY,NHS Vaccination Centre,GGC,-4.4199872,55.9064448
+DR K G HARDIE & PARTNERS,G51 4BJ,Primary Care Delivery Site,GGC,-4.3264758,55.8603538
+FULTON STREET MEDICAL CENTRE,G13 1JE,Primary Care Delivery Site,GGC,-4.3269671,55.8950182
+BUCKINGHAM TERRACE MEDICAL PRACTICE,G12 8ED,Primary Care Delivery Site,GGC,-4.2885214,55.8777286
+THE TERRACE MEDICAL PRACTICE,G61 3RD,Primary Care Delivery Site,GGC,-4.3347191,55.9212767
+ANNIESLAND MEDICAL PRACTICE,G13 2UP,Primary Care Delivery Site,GGC,-4.3319294,55.8916169
+OLD KILPATRICK MEDICAL PRACTICE,G60 5JG,Primary Care Delivery Site,GGC,-4.4593335,55.9246649
+ABINGDON MEDICAL PRACTICE,G11 5PE,Primary Care Delivery Site,GGC,-4.3047613,55.8711971
+KESSINGTON MEDICAL CENTRE,G61 2DN,Primary Care Delivery Site,GGC,-4.3221275,55.9165446
+THE BROOMHILL PRACTICE,G11 7AD,Primary Care Delivery Site,GGC,-4.3234137,55.8724999
+NORTHCOTE SURGERY,G12 9LD,Primary Care Delivery Site,GGC,-4.3009581,55.8790514
+ASHFIELD MEDICAL PRACTICE,G62 6BT,Primary Care Delivery Site,GGC,-4.3183519,55.9396146
+DR I. CULLEN,G12 9PN,Primary Care Delivery Site,GGC,-4.3065668,55.8776522
+GARDNER STREET SURGERY,G11 5NG,Primary Care Delivery Site,GGC,-4.3055932,55.8712085
+SHAFTESBURY MEDICAL PRACTICE,G14 9UU,Primary Care Delivery Site,GGC,-4.3396862,55.8746091
+THE GREEN MEDICAL PRACTICE,G81 2TQ,Primary Care Delivery Site,GGC,-4.4054411,55.9128688
+THE SURGERY,KA7 2AQ,Primary Care Delivery Site,GGC,-4.6354414,55.459338
+DR HAGGERTY,G15 6EG,Primary Care Delivery Site,GGC,-4.355134,55.9060945
+PEEL STREET MEDICAL CENTRE,G11 5LL,Primary Care Delivery Site,GGC,-4.3097494,55.8709418
+KNIGHTSWOOD MEDICAL PRACTICE,G13 2SW,Primary Care Delivery Site,GGC,-4.338559,55.894412
+KERSLAND HOUSE SURGERY,G62 8BT,Primary Care Delivery Site,GGC,-4.3154458,55.9421678
+WHITEINCH MEDICAL PRACTICE,G14 9UT,Primary Care Delivery Site,GGC,-4.339313,55.8745173
+DRS LOGAN & MACDONALD,G15 7TS,Primary Care Delivery Site,GGC,-4.3710366,55.9097438
+GARSCADDEN BURN MEDICAL PRACTICE,G15 7TS,Primary Care Delivery Site,GGC,-4.3710366,55.9097438
+THE CAIRNTOUL PRACTICE,G14 0XT,Primary Care Delivery Site,GGC,-4.3611448,55.8862694
+YOKER MEDICAL CENTRE,G14 0NT,Primary Care Delivery Site,GGC,-4.3813909,55.8891506
+DRUMCHAPEL MEDICAL PRACTICE,G15 7TS,Primary Care Delivery Site,GGC,-4.3710366,55.9097438
+DR TURNBULL & DR COYLE,G15 7TS,Primary Care Delivery Site,GGC,-4.3710366,55.9097438
+SCOTSTOUN MEDICAL PRACTICE,G14 9XL,Primary Care Delivery Site,GGC,-4.3484583,55.877974
+THE ORANGE WING MEDICAL PRACTICE,G81 2TQ,Primary Care Delivery Site,GGC,-4.4054411,55.9128688
+DR CHALMERS & PARTNERS,G81 2TQ,Primary Care Delivery Site,GGC,-4.4054411,55.9128688
+DR RAI & PARTNERS,G81 2TQ,Primary Care Delivery Site,GGC,-4.4054411,55.9128688
+ASHTON MEDICAL PRACTICE,G12 8SP,Primary Care Delivery Site,GGC,-4.2936674,55.8741726
+DR M DUFFY & DR A MORGAN,G15 7TS,Primary Care Delivery Site,GGC,-4.3710366,55.9097438
+GAIRBRAID MEDICAL PRACTICE,G20 8FB,Primary Care Delivery Site,GGC,-4.292741,55.8899089
+REGENT GARDENS MEDICAL CENTRE,G66 1DH,Primary Care Delivery Site,GGC,-4.1610514,55.9391963
+THE TURRET MEDICAL CENTRE,G66 1JB,Primary Care Delivery Site,GGC,-4.155537,55.9393739
+SPRINGFIELD MEDICAL PRACTICE,G64 1PJ,Primary Care Delivery Site,GGC,-4.2211272,55.9041823
+DR BURTON & DR KRISHNAN,G20 7ER,Primary Care Delivery Site,GGC,-4.2711124,55.879669
+PEELVIEW MEDICAL CENTRE,G66 1DN,Primary Care Delivery Site,GGC,-4.1598046,55.9392361
+DRS BALLANTYNE & BLAIR,G21 1TR,Primary Care Delivery Site,GGC,-4.2290601,55.8826761
+KENMURE MEDICAL PRACTICE,G64 1PJ,Primary Care Delivery Site,GGC,-4.2211272,55.9041823
+DRS GAW & ESLER,G20 7ER,Primary Care Delivery Site,GGC,-4.2711124,55.879669
+AUCHINAIRN MEDICAL PRACTICE,G64 1NF,Primary Care Delivery Site,GGC,-4.215589,55.8982427
+KEPPOCH MEDICAL PRACTICE,G22 5AP,Primary Care Delivery Site,GGC,-4.2540393,55.8810885
+LENNOXTOWN MEDICAL PRACTICE,G66 7JJ,Primary Care Delivery Site,GGC,-4.2019974,55.9744822
+FERNBANK MEDICAL CENTRE,G22 6BD,Primary Care Delivery Site,GGC,-4.234721,55.8868603
+DR S J LANGRIDGE,G22 5AP,Primary Care Delivery Site,GGC,-4.2540393,55.8810885
+DR PAUL LYONS,G64 2AA,Primary Care Delivery Site,GGC,-4.2272951,55.9034957
+BARCLAY MEDICAL PRACTICE,G20 8FB,Primary Care Delivery Site,GGC,-4.292741,55.8899089
+WOODHEAD MEDICAL PRACTICE,G66 3BF,Primary Care Delivery Site,GGC,-4.1516993,55.934561
+PARADE GROUP PRACTICE,G31 2ES,Primary Care Delivery Site,GGC,-4.2316066,55.8654821
+THE CAIRNS PRACTICE,G32 7JZ,Primary Care Delivery Site,GGC,-4.1698987,55.8522877
+DRS MCKENZIE & BURNS,G31 5BA,Primary Care Delivery Site,GGC,-4.1945595,55.8524432
+ANNFIELD MEDICAL CENTRE,G31 2XE,Primary Care Delivery Site,GGC,-4.2213419,55.8586938
+CRAIL MEDICAL PRACTICE,G31 4UW,Primary Care Delivery Site,GGC,-4.1903423,55.8490494
+CARNTYNE MEDICAL CENTRE,G32 6JP,Primary Care Delivery Site,GGC,-4.194416,55.8592491
+DR M KHAN,G40 3LJ,Primary Care Delivery Site,GGC,-4.2054508,55.846155
+DR S ROSS,G32 7JZ,Primary Care Delivery Site,GGC,-4.1698987,55.8522877
+MAIN STREET MEDICAL CENTRE,G40 1HA,Primary Care Delivery Site,GGC,-4.2272716,55.8481074
+MCGLONE PRACTICE,G69 7AD,Primary Care Delivery Site,GGC,-4.1164636,55.8488782
+OAKWOOD MEDICAL PRACTICE,G34 9HQ,Primary Care Delivery Site,GGC,-4.1259612,55.8689173
+DR D.S.DHAMI,G34 9HQ,Primary Care Delivery Site,GGC,-4.1259612,55.8689173
+THE MUIRSIDE MEDICAL PRACTICE,G69 7AD,Primary Care Delivery Site,GGC,-4.1164636,55.8488782
+WESTMUIR MEDICAL CENTRE,G31 5RA,Primary Care Delivery Site,GGC,-4.1911668,55.8497896
+TOLLCROSS MEDICAL CENTRE,G32 8UH,Primary Care Delivery Site,GGC,-4.1716004,55.8435581
+DR M P HAMAYUN & DR M R MASOOD,G40 2DA,Primary Care Delivery Site,GGC,-4.2278723,55.8524643
+DRS CONNAUGHTON & SUDOMIR,G40 2DA,Primary Care Delivery Site,GGC,-4.2278723,55.8524643
+DR M SALEEM,G40 2DA,Primary Care Delivery Site,GGC,-4.2278723,55.8524643
+NEWHILLS MEDICAL PRACTICE,G34 9HQ,Primary Care Delivery Site,GGC,-4.1259612,55.8689173
+THE WHITEVALE MEDICAL GROUP,G31 1QS,Primary Care Delivery Site,GGC,-4.2168405,55.8570944
+DALMARNOCK FAMILY MEDICAL PRACTICE,G40 2DA,Primary Care Delivery Site,GGC,-4.2278723,55.8524643
+HOMELESS HEALTH & RESOURCE SERVICES,G4 0UP,Primary Care Delivery Site,GGC,-4.2323229,55.8590252
+PRACTICE B,G42 7DR,Primary Care Delivery Site,GGC,-4.2578235,55.8372148
+SHEDDENS MEDICAL PRACTICE,G76 7BU,Primary Care Delivery Site,GGC,-4.2746813,55.7853786
+MERRYLEE MEDICAL CENTRE,G44 3DH,Primary Care Delivery Site,GGC,-4.2664584,55.8146142
+BUTTERBIGGINS MEDICAL CENTRE,G42 7AF,Primary Care Delivery Site,GGC,-4.2596367,55.8403899
+QUEENS PARK MEDICAL PRACTICE,G42 8QD,Primary Care Delivery Site,GGC,-4.2711801,55.8356566
+MEARNS MEDICAL CENTRE,G77 5BQ,Primary Care Delivery Site,GGC,-4.3303632,55.7723097
+DR LINDA J WRIGHT,G42 0EH,Primary Care Delivery Site,GGC,-4.2342311,55.828245
+BROOMBURN MEDICAL CENTRE,G77 5LU,Primary Care Delivery Site,GGC,-4.3138148,55.7750311
+GREENLAW MEDICAL PRACTICE,G77 6GR,Primary Care Delivery Site,GGC,-4.3470629,55.7827501
+"DRS GORDON, BEST & MCINTYRE",G5 9AB,Primary Care Delivery Site,GGC,-4.2527632,55.8482991
+CAROLSIDE MEDICAL CENTRE,G76 7BX,Primary Care Delivery Site,GGC,-4.2752489,55.7874532
+THE MACLEAN MEDICAL PRACTICE,G76 7HN,Primary Care Delivery Site,GGC,-4.2824505,55.7933143
+REGENCY MEDICAL PRACTICE,G41 1NX,Primary Care Delivery Site,GGC,-4.2745211,55.8452832
+CASTLEMILK GROUP PRACTICE,G45 9AW,Primary Care Delivery Site,GGC,-4.2349391,55.8057908
+THE KER PRACTICE,G44 5JT,Primary Care Delivery Site,GGC,-4.2420467,55.8097865
+KINGSPARK SURGERY,G44 4JE,Primary Care Delivery Site,GGC,-4.2365971,55.8191158
+WILLIAMWOOD PRACTICE,G76 7NW,Primary Care Delivery Site,GGC,-4.2876318,55.7940718
+MIDLOCK MEDICAL CENTRE,G51 1SL,Primary Care Delivery Site,GGC,-4.2993427,55.8520025
+THURSTON ROAD MEDICAL PRACTICE,G52 2AZ,Primary Care Delivery Site,GGC,-4.3572331,55.8507626
+BRAIDCRAFT MEDICAL CENTRE,G53 5QD,Primary Care Delivery Site,GGC,-4.3408769,55.832228
+THE CRESCENT MEDICAL PRACTICE,G51 1AT,Primary Care Delivery Site,GGC,-4.2953776,55.8522294
+THE DAVID ELDER MEDICAL PRACTICE,G51 4BJ,Primary Care Delivery Site,GGC,-4.3264758,55.8603538
+DR FERGUSON & PARTNERS,G41 1HU,Primary Care Delivery Site,GGC,-4.2792444,55.852835
+DR RAHEELA BHATTI,G46 8DH,Primary Care Delivery Site,GGC,-4.3308639,55.8065969
+WAVERLEY PARK MEDICAL PRACTICE,G41 3UJ,Primary Care Delivery Site,GGC,-4.2860583,55.8317408
+DR MCKEEVE,G41 1HU,Primary Care Delivery Site,GGC,-4.2792444,55.852835
+DRS MCCOLL & MCLAUGHLIN,G46 8NY,Primary Care Delivery Site,GGC,-4.3184491,55.8071462
+DR ALAM'S SURGERY,G41 1HU,Primary Care Delivery Site,GGC,-4.2792444,55.852835
+YELLOW PRACTICE,G51 4BJ,Primary Care Delivery Site,GGC,-4.3264758,55.8603538
+CROOKSTON MEDICAL PRACTICE,G53 7FY,Primary Care Delivery Site,GGC,-4.3595984,55.8294256
+POLLOKSHAWS MEDICAL CENTRE,G43 1RR,Primary Care Delivery Site,GGC,-4.2964329,55.8265054
+ALCLUITH PRACTICE,G82 1PW,Primary Care Delivery Site,GGC,-4.573936,55.9461855
+LEVENSIDE MEDICAL PRACTICE,G82 1PW,Primary Care Delivery Site,GGC,-4.573936,55.9461855
+DR K N LYNN & DR J M MCDEVITT,G82 1PW,Primary Care Delivery Site,GGC,-4.573936,55.9461855
+DR STEPHEN H DUNN & PARTNERS,G82 1PW,Primary Care Delivery Site,GGC,-4.573936,55.9461855
+THE LENNOX PRACTICE,G83 0UA,Primary Care Delivery Site,GGC,-4.5918073,55.9930791
+OAK VIEW MEDICAL PRACTICE,G83 0UA,Primary Care Delivery Site,GGC,-4.5918073,55.9930791
+GOUROCK MEDICAL PRACTICE,PA19 1AQ,Primary Care Delivery Site,GGC,-4.8163497,55.9612209
+ARDGOWAN MEDICAL PRACTICE,PA16 8HW,Primary Care Delivery Site,GGC,-4.76794,55.9488804
+MOUNT PLEASANT PRACTICE,PA15 4DG,Primary Care Delivery Site,GGC,-4.7692799,55.9463335
+DRS E MANASSES & PARTNERS,PA13 4LE,Primary Care Delivery Site,GGC,-4.6279752,55.8934247
+"DR HOGAN, ALLEN & QUINN",PA15 4LY,Primary Care Delivery Site,GGC,-4.7666059,55.9458993
+NEWARK MEDICAL PRACTICE,PA14 5EW,Primary Care Delivery Site,GGC,-4.6860742,55.9344154
+THE ROXBURGH PRACTICE,PA15 4DG,Primary Care Delivery Site,GGC,-4.7692799,55.9463335
+GLENIFFER MEDICAL GROUP,G78 1SW,Primary Care Delivery Site,GGC,-4.3894942,55.8018851
+THE OAKS MEDICAL PRACTICE,G78 1SW,Primary Care Delivery Site,GGC,-4.3894942,55.8018851
+BISHOPTON MEDICAL PRACTICE,PA7 5AW,Primary Care Delivery Site,GGC,-4.5011709,55.9044441
+STRATHGRYFFE MEDICAL PRACTICE,PA6 7AR,Primary Care Delivery Site,GGC,-4.5404295,55.8713554
+LEVERN MEDICAL GROUP,G78 1SW,Primary Care Delivery Site,GGC,-4.3894942,55.8018851
+BRIDGEWATER MEDICAL CENTRE,PA8 7AF,Primary Care Delivery Site,GGC,-4.4484779,55.9050903
+LUDOVIC MEDICAL PRACTICE,PA5 8EY,Primary Care Delivery Site,GGC,-4.513918,55.8341508
+RAVENSWOOD SURGERY,PA5 8SU,Primary Care Delivery Site,GGC,-4.5176285,55.8364567
+DR CASSIDY & PARTNERS,PA5 8PZ,Primary Care Delivery Site,GGC,-4.515073,55.833489
+DR RICHMOND & PARTNERS,PA3 3DB,Primary Care Delivery Site,GGC,-4.4892569,55.8480986
+MISTYLAW MEDICAL PRACTICE,PA12 4AH,Primary Care Delivery Site,GGC,-4.6307064,55.7940906
+THE CHARLESTON SURGERY,PA2 6LR,Primary Care Delivery Site,GGC,-4.4234551,55.8378905
+ANCHOR MILL MEDICAL PRACTICE,PA1 1UB,Primary Care Delivery Site,GGC,-4.4219067,55.8414982
+KING STREET SURGERY,PA1 2PS,Primary Care Delivery Site,GGC,-4.4395679,55.8444746
+THE CONSULTING ROOMS,PA2 6LW,Primary Care Delivery Site,GGC,-4.4238601,55.8374691
+THE GREENLAW PRACTICE,PA3 4AD,Primary Care Delivery Site,GGC,-4.4201284,55.8486065
+THE MIRIN PRACTICE,PA1 3QS,Primary Care Delivery Site,GGC,-4.4150278,55.8472507
+THE LOVE STREET MEDICAL CENTRE,PA3 2DY,Primary Care Delivery Site,GGC,-4.4260633,55.8502692
+THE BARONY PRACTICE,PA3 4AD,Primary Care Delivery Site,GGC,-4.4201284,55.8486065
+ABBEY MEDICAL CENTRE,PA1 1SU,Primary Care Delivery Site,GGC,-4.4180821,55.8406117
+BRAEHEAD MEDICAL PRACTICE,PA4 8RU,Primary Care Delivery Site,GGC,-4.3838738,55.8813911
+CLYDEVIEW MEDICAL PRACTICE,PA4 8RU,Primary Care Delivery Site,GGC,-4.3838738,55.8813911
+KINGSINCH MEDICAL PRACTICE,PA4 8RU,Primary Care Delivery Site,GGC,-4.3838738,55.8813911
+WESTFIELD MEDICAL PRACTICE,PA5 8PZ,Primary Care Delivery Site,GGC,-4.515073,55.833489
+BARGARRAN MEDICAL PRACTICE,PA8 6BS,Primary Care Delivery Site,GGC,-4.465197,55.9083606
+GLASGOW WEST MEDICAL PRACTICE,G14 9PS,Primary Care Delivery Site,GGC,-4.340812,55.8752527
+THE SURGERY,KA7 2AQ,Primary Care Delivery Site,GGC,-4.6354414,55.459338
+DR FERGUSON & PARTNERS,G41 1HU,Primary Care Delivery Site,GGC,-4.2792444,55.852835
+THE SURGERY,KA7 2AQ,Primary Care Delivery Site,GGC,-4.6354414,55.459338
+THE SURGERY,KA7 2AQ,Primary Care Delivery Site,GGC,-4.6354414,55.459338
+STRATHGRYFFE MEDICAL PRACTICE,PA6 7AR,Primary Care Delivery Site,GGC,-4.5404295,55.8713554
+COCHRANE MEDICAL PRACTICE,PA15 4LY,Primary Care Delivery Site,GGC,-4.7666059,55.9458993
+THE CRESCENT MEDICAL PRACTICE,G51 1AT,Primary Care Delivery Site,GGC,-4.2953776,55.8522294
+THURSO & HALKIRK MEDICAL PRACTICE,KW14 7DH,Primary Care Delivery Site,GGC,-3.5258433,58.5915296
+"Topps Tiles, Unit 7, Edgar Road, ELGIN",IV30 6RP,Covid-19 Vaccination Clinic,Highland,-3.3159188,57.6411104
+Cowal Community Hospital,PA23 7RL,NHS Vaccination Centre,Highland,-4.9276866,55.9569345
+Campbeltown Hospital,PA28 6LE,Covid-19 Vaccination Clinic,Highland,-5.6067914,55.4214101
+Tiree Surgery Baugh House,PA77 6UN,Covid-19 Vaccination Clinic,Highland,-6.8438156,56.4947506
+Lorn & Islands Hospital,PA34 4HH,Covid-19 Vaccination Clinic,Highland,-5.4749162,56.4004045
+Mull and Iona Community Hospital,PA65 6BH,Covid-19 Vaccination Clinic,Highland,-5.7158446,56.4794204
+Mid Argyll Community Hospital and Integrated Care Centre,PA31 8JZ,Covid-19 Vaccination Clinic,Highland,-5.4229455,56.0403479
+Raigmore Chapel,IV2 3UJ,Covid-19 Vaccination Clinic,Highland,-4.1924701,57.4738072
+Belford OPD,PH33 6BS,NHS Vaccination Centre,Highland,-5.1047009,56.8194097
+AECU Caithness General Hospital,KW1 5NS,NHS Vaccination Centre,Highland,-3.095744,58.4413288
+ACU Caithness General Hospital,KW1 5NS,NHS Vaccination Centre,Highland,-3.095744,58.4413288
+"Treatment Centre, New Craigs Hospital",IV3 8PJ,Covid-19 Vaccination Clinic,Highland,-4.2696303,57.468775
+RNI - Dayroom,IV3 5SF,NHS Vaccination Centre,Highland,-4.2315708,57.4706319
+NAIRN HEALTHCARE GROUP,IV12 5EE,Primary Care Delivery Site,Highland,-3.8725597,57.5781091
+DUNBEATH SURGERY,KW6 6EZ,Primary Care Delivery Site,Highland,-3.4393359,58.2465942
+CANISBAY & CASTLETOWN JOINT MEDICAL PRACTICE,KW14 8TY,Primary Care Delivery Site,Highland,-3.3896688,58.5915022
+LYBSTER MEDICAL CENTRE,KW3 6BQ,Primary Care Delivery Site,Highland,-3.2858442,58.3019102
+RIVERVIEW MEDICAL PRACTICE,KW1 5EL,Primary Care Delivery Site,Highland,-3.0883278,58.441365
+THE PEARSON PRACTICE,KW1 5EL,Primary Care Delivery Site,Highland,-3.0883278,58.441365
+ARMADALE MEDICAL PRACTICE,KW14 7SA,Primary Care Delivery Site,Highland,-4.0856268,58.5511958
+DORNOCH MEDICAL PRACTICE,IV25 3LS,Primary Care Delivery Site,Highland,-4.0281295,57.8782362
+GOLSPIE MEDICAL PRACTICE,KW10 6TH,Primary Care Delivery Site,Highland,-3.9772392,57.9744689
+LAIRG HEALTH CENTRE,IV27 4DD,Primary Care Delivery Site,Highland,-4.3971813,58.0235343
+ASSYNT MEDICAL PRACTICE,IV27 4JZ,Primary Care Delivery Site,Highland,-5.2391699,58.153964
+TONGUE MEDICAL PRACTICE,IV27 4XB,Primary Care Delivery Site,Highland,-4.4174648,58.477614
+HELMSDALE/BRORA MED PRACTICE,KW9 6QJ,Primary Care Delivery Site,Highland,-3.852834,58.0123954
+CREICH SURGERY,IV24 3EP,Primary Care Delivery Site,Highland,-4.3435271,57.8898563
+ALNESS/INVERGORDON MED PRCTE,IV17 0UN,Primary Care Delivery Site,Highland,-4.2482123,57.6950324
+APPLECROSS,IV54 8LS,Primary Care Delivery Site,Highland,-5.8205977,57.4267109
+AULTBEA/GAIRLOCH MED PRACTICE,IV22 2HU,Primary Care Delivery Site,Highland,-5.5772099,57.8358439
+DINGWALL MEDICAL GROUP,IV15 9QS,Primary Care Delivery Site,Highland,-4.4180068,57.5938658
+FORTROSE MEDICAL PRACTICE,IV10 8SY,Primary Care Delivery Site,Highland,-4.1320641,57.581973
+LOCHCARRON MEDICAL PARTNERSHIP,IV54 8YD,Primary Care Delivery Site,Highland,-5.4972581,57.3988147
+MUNLOCHY MEDICAL PRACTICE,IV8 8NG,Primary Care Delivery Site,Highland,-4.2609682,57.5504021
+STRATHPEFFER MEDICAL PRACTICE,IV14 9AG,Primary Care Delivery Site,Highland,-4.5436843,57.5859332
+TAIN & DISTRICT MED GROUP,IV19 1EU,Primary Care Delivery Site,Highland,-4.0645875,57.8093121
+TAIN & FEARN AREA MED PRACTICE,IV19 1EU,Primary Care Delivery Site,Highland,-4.0645875,57.8093121
+TORRIDON MEDICAL PRACTICE,IV22 2EZ,Primary Care Delivery Site,Highland,-5.5130136,57.5467846
+ULLAPOOL HEALTH CENTRE,IV26 2XL,Primary Care Delivery Site,Highland,-5.1575257,57.9020819
+CARBOST MEDICAL PRACTICE,IV47 8ST,Primary Care Delivery Site,Highland,-6.3392399,57.2962461
+DUNVEGAN MEDICAL PRACTICE,IV55 8GU,Primary Care Delivery Site,Highland,-6.566745,57.4286788
+GLENELG HEALTH CENTRE,IV40 8JD,Primary Care Delivery Site,Highland,-5.6196202,57.2135866
+KYLE MEDICAL PRACTICE,IV40 8AE,Primary Care Delivery Site,Highland,-5.715217,57.2807926
+PORTREE MEDICAL PRACTICE,IV51 9BZ,Primary Care Delivery Site,Highland,-6.192318,57.4112752
+CRAIG NEVIS SURGERY - FORT WILLIAM,PH33 7AQ,Primary Care Delivery Site,Highland,-5.0785975,56.8392657
+GLEN MOR MEDICAL PRACTICE - FORT WILLIAM,PH33 7AQ,Primary Care Delivery Site,Highland,-5.0785975,56.8392657
+TWEEDDALE MEDICAL PRACTICE - FORT WILLIAM,PH33 7AQ,Primary Care Delivery Site,Highland,-5.0785975,56.8392657
+CROMARTY MEDICAL PRACTICE,IV11 8YF,Primary Care Delivery Site,Highland,-4.0368574,57.6813798
+KINLOCHLEVEN MEDICAL PRACTICE,PH50 4QU,Primary Care Delivery Site,Highland,-4.9639775,56.7163935
+LOCHALINE MEDICAL PRACTICE,PA80 5XT,Primary Care Delivery Site,Highland,-5.7791206,56.5387126
+ACHARACLE MEDICAL PRACTICE,PH36 4JU,Primary Care Delivery Site,Highland,-5.8031788,56.7479378
+SMALL ISLES MEDICAL PRACTICE - ISLE OF EIGG,PH42 4RL,Primary Care Delivery Site,Highland,-6.1427262,56.9018576
+THE AIRD MEDICAL PRACTICE - BEAULY,IV4 7EA,Primary Care Delivery Site,Highland,-4.458931,57.4826469
+CROYARD ROAD - BEAULY,IV4 7DT,Primary Care Delivery Site,Highland,-4.4597416,57.4845271
+DRUMNADROCHIT MEDICAL PRACTICE,IV63 6UL,Primary Care Delivery Site,Highland,-4.4755711,57.3285866
+CILL CHUIMEIN MEDICAL CENTRE - FORT AUGUSTUS,PH32 4BH,Primary Care Delivery Site,Highland,-4.6849881,57.1427602
+LOCH NESS EAST AND STRATHNAIRN - FOYERS,IV2 6YB,Primary Care Delivery Site,Highland,-4.494537,57.2539667
+CULLODEN SURGERY,IV2 7LL,Primary Care Delivery Site,Highland,-4.1422803,57.4874022
+CULLODEN MEDICAL PRACTICE,IV2 7LL,Primary Care Delivery Site,Highland,-4.1422803,57.4874022
+KINGSMILLS MEDICAL PRACTICE,IV2 3BG,Primary Care Delivery Site,Highland,-4.217787,57.4743436
+FAIRFIELD MEDICAL PRACTICE,IV3 8HH,Primary Care Delivery Site,Highland,-4.237488,57.4817588
+RIVERSIDE MEDICAL PRACTICE,KA6 7LX,Primary Care Delivery Site,Highland,-4.5008653,55.3607478
+KINMYLIES MEDICAL PRACTICE,IV3 8PB,Primary Care Delivery Site,Highland,-4.2558053,57.4733722
+43 SOUTHSIDE ROAD,IV2 4XA,Primary Care Delivery Site,Highland,-4.2195929,57.4716701
+BURNFIELD MEDICAL PRACTICE,IV2 3PF,Primary Care Delivery Site,Highland,-4.202224,57.4646158
+CROWN MEDICAL PRACTICE,IV2 3NF,Primary Care Delivery Site,Highland,-4.2189838,57.4784019
+AVIEMORE MEDICAL PRACTICE,PH22 1SY,Primary Care Delivery Site,Highland,-3.8274204,57.1989458
+GRANTOWN-ON-SPEY MEDICAL PRACTICE,PH26 3HR,Primary Care Delivery Site,Highland,-3.6041674,57.3369261
+GERGASK SURGERY,PH20 1AH,Primary Care Delivery Site,Highland,-4.2857691,57.0201911
+CAIRN MEDICAL PRACTICE,IV2 4AG,Primary Care Delivery Site,Highland,-4.2235693,57.4723368
+DUNEDIN MEDICAL PRACTICE,IV2 4TP,Primary Care Delivery Site,Highland,-4.2105612,57.4648922
+BALLACHULISH MEDICAL PRACTICE,PH49 4JB,Primary Care Delivery Site,Highland,-5.1308821,56.6768381
+SOUTH SKYE MEDICAL PRACTICES,IV49 9AA,Primary Care Delivery Site,Highland,-5.9111663,57.2464355
+DR MALCOLM R ELDER,PA28 6QG,Primary Care Delivery Site,Highland,-5.4942396,55.5863704
+DR C O'NEILL,PA78 6SY,Primary Care Delivery Site,Highland,-6.5275231,56.6233718
+TAYNUILT MEDICAL PRACTICE,PA37 1PH,Primary Care Delivery Site,Highland,-5.3879326,56.4543003
+"DRS HALL, BRENNAN & MCLAUGHLIN",PA23 7HW,Primary Care Delivery Site,Highland,-4.9280009,55.9519741
+CHURCH STREET SURGERY,PA23 8BG,Primary Care Delivery Site,Highland,-4.9264695,55.9503656
+EASDALE MEDICAL PRACTICE,PA34 4TL,Primary Care Delivery Site,Highland,-5.5943798,56.3033368
+THE FURNACE/INVERARAY SURGERY,PA32 8XN,Primary Care Delivery Site,Highland,-5.1838847,56.1549111
+BOWMORE MEDICAL PRACTICE,PA43 7JD,Primary Care Delivery Site,Highland,-6.2791881,55.7557794
+PORT ELLEN SURGERY,PA42 7DR,Primary Care Delivery Site,Highland,-6.1881322,55.6304288
+THE RHINNS MEDICAL CENTRE,PA48 7UD,Primary Care Delivery Site,Highland,-6.3790759,55.743098
+JURA MEDICAL PRACTICE,PA60 7XG,Primary Care Delivery Site,Highland,-5.9476478,55.8526586
+LOCHGILPHEAD MEDICAL CENTRE,PA31 8JZ,Primary Care Delivery Site,Highland,-5.4229455,56.0403479
+DR P M R VON KAEHNE,PA24 8AA,Primary Care Delivery Site,Highland,-4.9028858,56.1723003
+MULL & IONA MEDICAL GROUP,PA75 6PN,Primary Care Delivery Site,Highland,-6.0753651,56.6199291
+LORN MEDICAL CENTRE,PA34 4HE,Primary Care Delivery Site,Highland,-5.4690119,56.4092727
+THE BUTE PRACTICE,PA20 9JL,Primary Care Delivery Site,Highland,-5.0557499,55.8306935
+DR ROBERT S B COULL,PA27 8BX,Primary Care Delivery Site,Highland,-5.0821035,56.1749783
+DR TITTMAR AND PARTNER,PA23 8SE,Primary Care Delivery Site,Highland,-4.9519442,56.0002396
+TARBERT MEDICAL PRACTICE,PA29 6TY,Primary Care Delivery Site,Highland,-5.4179448,55.8635518
+DR A MACGREGOR & DR N HALLUM,PA21 2BE,Primary Care Delivery Site,Highland,-5.2395756,55.9037936
+TIREE MEDICAL PRACTICE,PA77 6UN,Primary Care Delivery Site,Highland,-6.8438156,56.4947506
+KINTYRE MEDICAL GROUP,PA29 6XD,Primary Care Delivery Site,Highland,-5.6842183,55.6008985
+DR DAVID F TROUP & PARTNER,G83 7AE,Primary Care Delivery Site,Highland,-4.7481265,56.1941589
+GARELOCHHEAD MEDICAL CENTRE,G84 0SL,Primary Care Delivery Site,Highland,-4.8339795,56.0838446
+MILLIG PRACTICE,G84 7QL,Primary Care Delivery Site,Highland,-4.7301475,56.0043109
+DR MCLACHLAN & PARTNERS,G84 7QL,Primary Care Delivery Site,Highland,-4.7301475,56.0043109
+KILCREGGAN MEDICAL PRACTICE,G84 0JL,Primary Care Delivery Site,Highland,-4.8182777,55.9859675
+TAYNUILT MEDICAL PRACTICE,PA37 1PH,Primary Care Delivery Site,Highland,-5.3879326,56.4543003
+TAYNUILT MEDICAL PRACTICE,PA37 1PH,Primary Care Delivery Site,Highland,-5.3879326,56.4543003
+ADAM AVENUE PRACTICE,ML6 6DB,Primary Care Delivery Site,Highland,-3.9784436,55.8658785
+"Ballerup Hall, East Kilbride",G74 1AB,Covid-19 Vaccination Clinic,Lanarkshire,-4.1750951,55.7619633
+"Cambuslang Institute, Cambuslang",G72 8JE,Covid-19 Vaccination Clinic,Lanarkshire,-4.1674569,55.8164718
+"Whitehill Community Centre, Hamilton",ML3 0HL,Covid-19 Vaccination Clinic,Lanarkshire,-4.0421581,55.7470739
+"Stonehouse Lifestyle Centre, Stonehouse",ML9 3JL,Covid-19 Vaccination Clinic,Lanarkshire,-3.997737,55.6871673
+"The Fountain, Lesmahagow",ML11 0HD,Covid-19 Vaccination Clinic,Lanarkshire,-3.8860597,55.6395701
+Forth Sports Centre,ML11 8AA,Covid-19 Vaccination Clinic,Lanarkshire,-3.6875824,55.7658184
+Carnwath Community Hall,ML11 8JY,Covid-19 Vaccination Clinic,Lanarkshire,-3.6316713,55.6995181
+Coalburn Leisure Centre,ML12 6SD,Covid-19 Vaccination Clinic,Lanarkshire,-3.6918629,55.4932701
+Abington Community Hall,ML11 0LP,Covid-19 Vaccination Clinic,Lanarkshire,-3.8856217,55.5943821
+Shotts Sports Centre,ML7 5EP,Covid-19 Vaccination Clinic,Lanarkshire,-3.7895348,55.8229137
+Harthill Comm Centre * Harthill,ML7 5EQ,Covid-19 Vaccination Clinic,Lanarkshire,-3.7862296,55.8138406
+"Bellshill Cultural Centre*, Bellshill",ML4 1RJ,Covid-19 Vaccination Clinic,Lanarkshire,-4.0228607,55.8183073
+Motherwell Concert Hall,ML1 1AB,Covid-19 Vaccination Clinic,Lanarkshire,-3.9828072,55.7839559
+"Wishaw Sports Centre, Wishaw",ML2 0HQ,Covid-19 Vaccination Clinic,Lanarkshire,-3.9311404,55.77315
+"New Town Hall, Cumbernauld",G67 1DZ,Covid-19 Vaccination Clinic,Lanarkshire,-3.9859627,55.9470326
+"Time Capsule, Caotbridge",ML5 1DL,Covid-19 Vaccination Clinic,Lanarkshire,-4.0370106,55.8590539
+"Airdrie Town Hall, Airdrie",ML6 0AS,Covid-19 Vaccination Clinic,Lanarkshire,-3.9838916,55.8658447
+South Lanarkshire Council Head Quarters,ML3 0EX,Covid-19 Vaccination Clinic,Lanarkshire,-4.0489669,55.7783681
+Burnhead Community Centre,G71 5AT,Covid-19 Vaccination Clinic,Lanarkshire,-4.0517453,55.8290979
+Gartlea Community Centre,ML6 9PB,Covid-19 Vaccination Clinic,Lanarkshire,-3.9762065,55.858024
+Harry Heany Centre,G73 4LJ,Covid-19 Vaccination Clinic,Lanarkshire,-4.2176409,55.8167362
+Harry Smith Complex,ML11 7DG,Covid-19 Vaccination Clinic,Lanarkshire,-3.7685904,55.6736455
+Murray Owen Centre,G75 9AD,Covid-19 Vaccination Clinic,Lanarkshire,-4.1858694,55.7528383
+Old Monkland Community Centre,ML5 5PG,Covid-19 Vaccination Clinic,Lanarkshire,-4.0460292,55.8509775
+Pat Cullinan Community Centre,ML1 3PB,Covid-19 Vaccination Clinic,Lanarkshire,-4.0097899,55.7951109
+Pather Community Centre,ML2 0HZ,Covid-19 Vaccination Clinic,Lanarkshire,-3.9267439,55.7690312
+Shotts Community Facility,ML2 7ET,Covid-19 Vaccination Clinic,Lanarkshire,-3.9145896,55.7900166
+University Hospital Hairmyres,G75 8RG,NHS Vaccination Centre,Lanarkshire,-4.2219632,55.7598207
+University Hospital Monklands,ML6 0JS,Covid-19 Vaccination Clinic,Lanarkshire,-3.9995873,55.8658781
+University Hospital Wishaw,ML2 0DP,Covid-19 Vaccination Clinic,Lanarkshire,-3.9417382,55.7736929
+University Hospital Monklands - Ward 5,ML6 0JS,Covid-19 Vaccination Clinic,Lanarkshire,-3.9995873,55.8658781
+University Hospital Wishaw - Lecture Theatre,ML2 0DP,Covid-19 Vaccination Clinic,Lanarkshire,-3.9417382,55.7736929
+Former Justice of The Peace Court,G67 1DZ,Covid-19 Vaccination Clinic,Lanarkshire,-3.9859627,55.9470326
+Gartlea Community Centre,ML6 9PL,Covid-19 Vaccination Clinic,Lanarkshire,-3.9660186,55.8606766
+Woodside C-19 Vacs,ML5 5NJ,Covid-19 Vaccination Clinic,Lanarkshire,-4.0482058,55.8525679
+Old Monkland Community Centre,ML5 5PG,Covid-19 Vaccination Clinic,Lanarkshire,-4.0460292,55.8509775
+Pat Cullinan Community Centre,ML1 3PB,Covid-19 Vaccination Clinic,Lanarkshire,-4.0097899,55.7951109
+Shotts Community Facility,ML7 5ET,Covid-19 Vaccination Clinic,Lanarkshire,-3.7926088,55.8192923
+Lanark - Harry Smith Complex (Lifestyles),ML11 7DG,Covid-19 Vaccination Clinic,Lanarkshire,-3.7685904,55.6736455
+Murray Owen Centre,G75 0RT,Covid-19 Vaccination Clinic,Lanarkshire,-4.1853828,55.7526851
+Harry Heaney Centre,G73 4LJ,Covid-19 Vaccination Clinic,Lanarkshire,-4.2176409,55.8167362
+Hamilton - Banqueting Hall Council HQ,ML3 0AA,Covid-19 Vaccination Clinic,Lanarkshire,-4.0499188,55.7794935
+University Hospital Hairmyres - Ward 18A,G75 8RG,Covid-19 Vaccination Clinic,Lanarkshire,-4.2219632,55.7598207
+The State Hospital TSH 22.12.20,ML11 8RP,Covid-19 Vaccination Clinic,Lanarkshire,-3.6513124,55.6958765
+BIGGAR HEALTH CENTRE,ML12 6BE,Primary Care Delivery Site,Lanarkshire,-3.5196414,55.6225785
+HIGH MILL MEDICAL PRACTICE,ML8 4BA,Primary Care Delivery Site,Lanarkshire,-3.8366762,55.7351834
+ST LUKE'S MEDICAL PRACTICE,ML8 4BA,Primary Care Delivery Site,Lanarkshire,-3.8366762,55.7351834
+KINGSHILL MEDICAL PRACTICE,ML11 8AJ,Primary Care Delivery Site,Lanarkshire,-3.6857179,55.7650892
+DOUGLASDALE MEDICAL PRACTICE,ML11 0PX,Primary Care Delivery Site,Lanarkshire,-3.8473043,55.5557378
+MAVOR MEDICAL PRACTICE,G74 1AD,Primary Care Delivery Site,Lanarkshire,-4.1762403,55.7624913
+HAMILTON WEST MEDICAL PRACTICE,ML3 9AQ,Primary Care Delivery Site,Lanarkshire,-4.0575396,55.7788629
+BOTHWELL MEDICAL CENTRE,G71 8ET,Primary Care Delivery Site,Lanarkshire,-4.0715957,55.8048508
+LINCLUDEN MEDICAL CENTRE,G71 7NE,Primary Care Delivery Site,Lanarkshire,-4.0715955,55.8174594
+GALLOWHILL MEDICAL CENTRE,ML9 1EX,Primary Care Delivery Site,Lanarkshire,-3.9727499,55.7368199
+CALDERSIDE MEDICAL PRACTICE,G72 0BS,Primary Care Delivery Site,Lanarkshire,-4.0927158,55.7904553
+VIEWPARK HEALTH CENTRE,G71 5RR,Primary Care Delivery Site,Lanarkshire,-4.0582254,55.8290524
+CALEDONIA MEDICAL PRACTICE,G67 1BJ,Primary Care Delivery Site,Lanarkshire,-3.9871936,55.9463657
+KILSYTH MEDICAL PARTNERSHIP,G65 9JE,Primary Care Delivery Site,Lanarkshire,-4.0624595,55.9779127
+HOULDSWORTH CENTRE (WISHAW),ML2 7LP,Primary Care Delivery Site,Lanarkshire,-3.9205638,55.7749693
+BURNBRAE MEDICAL PRACTICE,ML7 4DS,Primary Care Delivery Site,Lanarkshire,-3.8106004,55.8231265
+WILLOW WOOD MEDICAL PRACTICE,ML2 7LP,Primary Care Delivery Site,Lanarkshire,-3.9205638,55.7749693
+DR GEORGE PRACTICE,ML7 5DS,Primary Care Delivery Site,Lanarkshire,-3.7895927,55.8179164
+FORESTBANK MEDICAL PARTNERSHIP,ML7 5QE,Primary Care Delivery Site,Lanarkshire,-3.7521633,55.8594242
+LOGAN PRACTICE,ML2 7LP,Primary Care Delivery Site,Lanarkshire,-3.9205638,55.7749693
+OPD1,EH41 3PF,NHS Vaccination Centre,Lothian,-2.7969781,55.9570846
+CTACS,EH41 3PF,NHS Vaccination Centre,Lothian,-2.7969781,55.9570846
+OOH,EH41 3PF,NHS Vaccination Centre,Lothian,-2.7969781,55.9570846
+Sighthill Health Centre,EH11 4AU,Covid-19 Vaccination Clinic,Lothian,-3.2860172,55.9234681
+Atley Ainslie Hospital,EH9  2HL,Covid-19 Vaccination Clinic,Lothian,-3.196904,55.9283745
+Liberton Hospital,EH16 6UB,Covid-19 Vaccination Clinic,Lothian,-3.1540728,55.9089433
+Pennywell All Care Centre – TBC,EH4 4UA,Covid-19 Vaccination Clinic,Lothian,-3.2739219,55.964883
+Leith Community Treatment Centre – TBC,EH6 5JQ,Covid-19 Vaccination Clinic,Lothian,-3.1769413,55.9714713
+Cairngreen Unit,EH22 3ND,Covid-19 Vaccination Clinic,Lothian,-3.0901462,55.8802334
+Strathbrock Partnership Centre,EH52 5LH,Covid-19 Vaccination Clinic,Lothian,-3.4839546,55.9328617
+Stoneyburn Clinic,EH47 8BY,Covid-19 Vaccination Clinic,Lothian,-3.6333669,55.8460337
+Ward 21,EH16 4SA,NHS Vaccination Centre,Lothian,-3.1359398,55.9217543
+Ward 22,EH16 4SA,NHS Vaccination Centre,Lothian,-3.1359398,55.9217543
+Ward 58,EH4 2XU,NHS Vaccination Centre,Lothian,-3.2349075,55.9618023
+Crichton Ward,EH16 4SA,NHS Vaccination Centre,Lothian,-3.1359398,55.9217543
+Winter Ward 5,EH16 4SA,NHS Vaccination Centre,Lothian,-3.1359398,55.9217543
+Roseburn Ward,EH10 5HF,NHS Vaccination Centre,Lothian,-3.2158647,55.9271917
+Staff Clinic - EL-OPD1,EH41 3PF,Covid-19 Vaccination Clinic,Lothian,-2.7969781,55.9570846
+Staff Clinic - EL-CTACS,EH41 3PF,Covid-19 Vaccination Clinic,Lothian,-2.7969781,55.9570846
+Staff Clinic - OOH,EH41 3PF,Covid-19 Vaccination Clinic,Lothian,-2.7969781,55.9570846
+Waverley Gate Staff Flu Clinic,NULL,Covid-19 Vaccination Clinic,Lothian,-90.516844,38.798267
+Staff Clinic - RIE winter Ward 5,EH16 4SA,Covid-19 Vaccination Clinic,Lothian,-3.1359398,55.9217543
+Staff Clinic - Sighthill Health Centre,EH11 4AU,Covid-19 Vaccination Clinic,Lothian,-3.2860172,55.9234681
+Staff Clinic - Astley Ainslie Hospital,EH9 2HL,Covid-19 Vaccination Clinic,Lothian,-3.196904,55.9283745
+staff clinic - Liberton Hospital,EH16 6UB,Covid-19 Vaccination Clinic,Lothian,-3.1540728,55.9089433
+staff clinic - Pennywell All Care Centre,EH4 4UA,Covid-19 Vaccination Clinic,Lothian,-3.2739219,55.964883
+Staff Clinic- Leith Community Treatment Centre,EH6 5JQ,Covid-19 Vaccination Clinic,Lothian,-3.1769413,55.9714713
+Staff Clinic - WGH Ward 58,EH4 2XU,Covid-19 Vaccination Clinic,Lothian,-3.2349075,55.9618023
+Staff clinic - RIE Castle May,EH16 4SA,Covid-19 Vaccination Clinic,Lothian,-3.1359398,55.9217543
+Staff clinic -Lauriston Ground Floor,EH3 9EN,Covid-19 Vaccination Clinic,Lothian,-3.1953437,55.9447343
+Staff Clinic - Penumbra Mileston,NULL,Covid-19 Vaccination Clinic,Lothian,-90.516844,38.798267
+Staff Clinic - Cairngreen Unit,EH22 3ND,Covid-19 Vaccination Clinic,Lothian,-3.0901462,55.8802334
+Staff Clinic - Strathbrock Partnership Centre,EH52 5LH,Covid-19 Vaccination Clinic,Lothian,-3.4839546,55.9328617
+Staff Clinic - SJH Ward 22,EH54 6PP,Covid-19 Vaccination Clinic,Lothian,-3.5230849,55.891884
+Staff Clinic - Stoneyburn Clinic,EH47 8BZ,Covid-19 Vaccination Clinic,Lothian,-3.6376536,55.8454196
+Staff Clinic - SJH Ward 21,EH54 6PP,Covid-19 Vaccination Clinic,Lothian,-3.5230849,55.891884
+CARMONDEAN MEDICAL GROUP,EH54 8PY,Primary Care Delivery Site,Lothian,-3.5476575,55.9021989
+WHITESANDS MEDICAL PRACTICE,EH42 1EE,Primary Care Delivery Site,Lothian,-2.5128872,55.9995464
+RATHO MEDICAL PRACTICE,EH28 8RH,Primary Care Delivery Site,Lothian,-3.3873392,55.9205083
+GRANGE MEDICAL GROUP,EH9 1AG,Primary Care Delivery Site,Lothian,-3.1933498,55.9350942
+GRACEMOUNT MEDICAL PRACTICE,EH16 6RN,Primary Care Delivery Site,Lothian,-3.1568157,55.9038319
+BRUNTON PLACE SURGERY,EH7 5EG,Primary Care Delivery Site,Lothian,-3.1746862,55.9578623
+BLACKRIDGE HEALTH CENTRE,EH48 3SS,Primary Care Delivery Site,Lothian,-3.7589036,55.8855321
+BRAIDS MEDICAL PRACTICE,EH10 6QT,Primary Care Delivery Site,Lothian,-3.2100669,55.9065455
+COLINTON SURGERY,EH13 0LB,Primary Care Delivery Site,Lothian,-3.2527401,55.9088954
+BRUNTSFIELD MEDICAL PRACTICE,EH10 4EY,Primary Care Delivery Site,Lothian,-3.2070865,55.9356795
+CRAIGLOCKHART MEDICAL GROUP,EH13 9AF,Primary Care Delivery Site,Lothian,-3.2370029,55.9110313
+MORNINGSIDE MEDICAL PRACTICE,EH10 5ER,Primary Care Delivery Site,Lothian,-3.2116193,55.9301269
+FIRRHILL MEDICAL CENTRE,EH13 9AF,Primary Care Delivery Site,Lothian,-3.2370029,55.9110313
+HERMITAGE MEDICAL PRACTICE,EH10 4RP,Primary Care Delivery Site,Lothian,-3.2084929,55.9258534
+INCHPARK SURGERY,EH16 5QU,Primary Care Delivery Site,Lothian,-3.1596383,55.9212008
+FERNIEHILL SURGERY,EH17 7AB,Primary Care Delivery Site,Lothian,-3.1339171,55.9072976
+LIBERTON MEDICAL GROUP,EH16 6JT,Primary Care Delivery Site,Lothian,-3.1630728,55.9092719
+BRAEFOOT MEDICAL PRACTICE,EH16 5TY,Primary Care Delivery Site,Lothian,-3.1662683,55.9251007
+DALKEITH ROAD MEDICAL PRACTICE,EH16 5HQ,Primary Care Delivery Site,Lothian,-3.167793,55.9348085
+THE SOUTHERN MEDICAL GROUP,EH17 7PR,Primary Care Delivery Site,Lothian,-3.1517867,55.9165303
+UNIVERSITY HEALTH SERVICE,EH8 9AL,Primary Care Delivery Site,Lothian,-3.1881287,55.945981
+SOUTHFIELD MEDICAL PRACTICE,EH15 3LL,Primary Care Delivery Site,Lothian,-3.116537,55.9403338
+NIDDRIE MEDICAL PRACTICE,EH16 4DT,Primary Care Delivery Site,Lothian,-3.1358253,55.9325916
+CRAIGMILLAR MEDICAL GROUP,EH16 4DT,Primary Care Delivery Site,Lothian,-3.1358253,55.9325916
+MILTON SURGERY,EH15 3LL,Primary Care Delivery Site,Lothian,-3.116537,55.9403338
+DURHAM ROAD MEDICAL GROUP,EH15 1NY,Primary Care Delivery Site,Lothian,-3.1200595,55.9475529
+BARONSCOURT SURGERY,EH8 7RX,Primary Care Delivery Site,Lothian,-3.1408093,55.9545505
+LEITH SURGERY,EH6 8HQ,Primary Care Delivery Site,Lothian,-3.1710087,55.9702699
+THE LONG HOUSE SURGERY,EH5 3EL,Primary Care Delivery Site,Lothian,-3.2014897,55.9762034
+DR STEVE ALLAN & PARTNERS,EH5 3AH,Primary Care Delivery Site,Lothian,-3.2013508,55.9727544
+ANNANDALE MEDICAL PRACTICE,EH7 4AT,Primary Care Delivery Site,Lothian,-3.1838901,55.9608203
+LINKS MEDICAL CENTRE,EH6 8BW,Primary Care Delivery Site,Lothian,-3.1642463,55.9691659
+THE HOPETOUN PRACTICE,EH7 4AT,Primary Care Delivery Site,Lothian,-3.1838901,55.9608203
+SUMMERSIDE MEDICAL PRACTICE,EH6 4NY,Primary Care Delivery Site,Lothian,-3.1874459,55.9749377
+THE VICTORIA PRACTICE,EH6 5JA,Primary Care Delivery Site,Lothian,-3.1748636,55.9716439
+LEITH MOUNT SURGERY,EH6 4EG,Primary Care Delivery Site,Lothian,-3.1829728,55.9785299
+MILL LANE SURGERY,EH6 6TL,Primary Care Delivery Site,Lothian,-3.1768947,55.9746885
+THE GREEN PRACTICE,EH3 6EH,Primary Care Delivery Site,Lothian,-3.207621,55.9569693
+BLACKHALL MEDICAL CENTRE,EH4 3TH,Primary Care Delivery Site,Lothian,-3.256503,55.9598945
+CREWE MEDICAL CENTRE,EH5 2LY,Primary Care Delivery Site,Lothian,-3.238043,55.9752125
+MUIRHOUSE MEDICAL GROUP,EH4 4PL,Primary Care Delivery Site,Lothian,-3.2518314,55.9704817
+DAVIDSON'S MAINS MEDICAL CENTRE,EH4 5BP,Primary Care Delivery Site,Lothian,-3.2733176,55.9636661
+THE GROUP PRACTICE - EYRE,EH3 5EU,Primary Care Delivery Site,Lothian,-3.1989251,55.9616635
+MEADOWS MEDICAL PRACTICE,EH3 9HW,Primary Care Delivery Site,Lothian,-3.2008813,55.9425869
+RESTALRIG PARK MEDICAL CENTRE,EH7 6UJ,Primary Care Delivery Site,Lothian,-3.1567085,55.9646095
+MARCHMONT MEDICAL PRACTICE,EH9 1JA,Primary Care Delivery Site,Lothian,-3.1960243,55.9392826
+ST TRIDUANA'S MEDICAL PRACTICE,EH7 6RU,Primary Care Delivery Site,Lothian,-3.1330445,55.9562845
+BOROUGHLOCH MEDICAL PRACTICE,EH9 1JZ,Primary Care Delivery Site,Lothian,-3.1944078,55.9398194
+WHINPARK MEDICAL PRACTICE,EH11 3RA,Primary Care Delivery Site,Lothian,-3.2711825,55.9278724
+"DRS SHARPE, PUTTA & BURNS PRACTICE",EH11 4AU,Primary Care Delivery Site,Lothian,-3.2860172,55.9234681
+SIGHTHILL GREEN MEDICAL PRACTICE,EH11 4AU,Primary Care Delivery Site,Lothian,-3.2860172,55.9234681
+RICCARTON GENERAL PRACTICE,EH14 4AS,Primary Care Delivery Site,Lothian,-3.3206807,55.9093804
+WESTER HAILES MEDICAL PRACTICE,EH14 3JF,Primary Care Delivery Site,Lothian,-3.282348,55.9121937
+SLATEFORD MEDICAL PRACTICE,EH14 1NQ,Primary Care Delivery Site,Lothian,-3.2388456,55.9341603
+SOUTH QUEENSFERRY MEDICAL PRACTICE,EH30 9HA,Primary Care Delivery Site,Lothian,-3.3990565,55.9898443
+LEVEN MEDICAL PRACTICE,EH3 9QQ,Primary Care Delivery Site,Lothian,-3.2064007,55.9439977
+WEST END MEDICAL PRACTICE,EH3 7EB,Primary Care Delivery Site,Lothian,-3.2160164,55.9493932
+POLWARTH MEDICAL PRACTICE,EH3 9QQ,Primary Care Delivery Site,Lothian,-3.2064007,55.9439977
+SPRINGWELL MEDICAL GROUP,EH11 2JL,Primary Care Delivery Site,Lothian,-3.2267067,55.9380377
+GILMORE MEDICAL PRACTICE,EH3 9QQ,Primary Care Delivery Site,Lothian,-3.2064007,55.9439977
+LADYWELL MEDICAL CENTRE (WEST),EH12 7TB,Primary Care Delivery Site,Lothian,-3.2901752,55.9402275
+LADYWELL MEDICAL CENTRE (EAST),EH12 7UN,Primary Care Delivery Site,Lothian,-3.2881273,55.9407521
+MURRAYFIELD MEDICAL PRACTICE,EH12 5QX,Primary Care Delivery Site,Lothian,-3.2459975,55.9435226
+THE PENTLANDS MEDICAL PRACTICE,EH14 5QB,Primary Care Delivery Site,Lothian,-3.3148713,55.8956048
+MURRAYFIELD MEDICAL CENTRE,EH12 5SS,Primary Care Delivery Site,Lothian,-3.2562917,55.9429955
+CRAMOND MEDICAL PRACTICE,EH4 6NS,Primary Care Delivery Site,Lothian,-3.299965,55.9777194
+PARKGROVE MEDICAL PRACTICE,EH4 7NX,Primary Care Delivery Site,Lothian,-3.2880201,55.9592271
+BARCLAY MEDICAL PRACTICE EAST CRAIGS,EH12 8XP,Primary Care Delivery Site,Lothian,-3.3038054,55.9513603
+EDINBURGH ACCESS PRACTICE,EH3 9DU,Primary Care Delivery Site,Lothian,-3.2021882,55.9465277
+CHALLENGING BEHAVIOUR GENERAL PRACTICE,EH9 1JZ,Primary Care Delivery Site,Lothian,-3.1944078,55.9398194
+TYNE MEDICAL PRACTICE,EH41 3NF,Primary Care Delivery Site,Lothian,-2.7768098,55.956908
+GULLANE MEDICAL PRACTICE,EH31 2HP,Primary Care Delivery Site,Lothian,-2.8267988,56.035085
+RIVERSIDE MEDICAL PRACTICE LLP,EH21 7BP,Primary Care Delivery Site,Lothian,-3.0530136,55.9386472
+THE HARBOURS MEDICAL PRACTICE,EH32 0JU,Primary Care Delivery Site,Lothian,-2.9604504,55.9690996
+LAMMERMUIR MEDICAL PRACTICE,EH41 3NF,Primary Care Delivery Site,Lothian,-2.7768098,55.956908
+THE ORCHARD MEDICAL PRACTICE,EH41 3NF,Primary Care Delivery Site,Lothian,-2.7768098,55.956908
+PRESTONPANS GROUP PRACTICE,EH32 9QS,Primary Care Delivery Site,Lothian,-2.9756876,55.9563917
+NORTH BERWICK GROUP PRACTICE,EH39 4PU,Primary Care Delivery Site,Lothian,-2.7167636,56.055441
+INVERESK MEDICAL PRACTICE,EH21 7BP,Primary Care Delivery Site,Lothian,-3.0530136,55.9386472
+EAST LINTON SURGERY,EH40 3DP,Primary Care Delivery Site,Lothian,-2.65666,55.984435
+ORMISTON MEDICAL PRACTICE,EH35 5AB,Primary Care Delivery Site,Lothian,-2.9503994,55.9106843
+TRANENT MEDICAL PRACTICE,EH33 2JX,Primary Care Delivery Site,Lothian,-2.9515618,55.9424739
+ST LEONARD'S MEDICAL CENTRE,EH8 9RU,Primary Care Delivery Site,Lothian,-3.1814405,55.9445627
+LAUDERDALE MEDICAL PRACTICE,EH42 1EE,Primary Care Delivery Site,Lothian,-2.5128872,55.9995464
+CROMWELL HARBOUR MEDICAL PRACTICE,EH42 1EE,Primary Care Delivery Site,Lothian,-2.5128872,55.9995464
+EASTFIELD MEDICAL PRACTICE,EH26 8EZ,Primary Care Delivery Site,Lothian,-3.2174095,55.836566
+DALHOUSIE MEDICAL PRACTICE,EH19 2ET,Primary Care Delivery Site,Lothian,-3.1077746,55.8784497
+QUARRYFOOT PRACTICE,EH19 2ET,Primary Care Delivery Site,Lothian,-3.1077746,55.8784497
+ROSLIN MEDICAL PRACTICE,EH25 9NT,Primary Care Delivery Site,Lothian,-3.175707,55.8567757
+NEWBATTLE MEDICAL PRACTICE,EH22 4AA,Primary Care Delivery Site,Lothian,-3.0493463,55.8675591
+PENICUIK MEDICAL PRACTICE,EH26 8LF,Primary Care Delivery Site,Lothian,-3.221266,55.8281801
+PATHHEAD MEDICAL PRACTICE,EH37 5PP,Primary Care Delivery Site,Lothian,-2.96194,55.8624962
+NEWBYRES MEDICAL GROUP,EH23 4TP,Primary Care Delivery Site,Lothian,-3.0490546,55.8431124
+DALKEITH MEDICAL PRACTICE,EH22 1AP,Primary Care Delivery Site,Lothian,-3.0675608,55.8942331
+DANDERHALL MEDICAL PRACTICE,EH22 1LX,Primary Care Delivery Site,Lothian,-3.1067845,55.912756
+STRATHESK MEDICAL GROUP,EH19 2ET,Primary Care Delivery Site,Lothian,-3.1077746,55.8784497
+LOANHEAD MEDICAL PRACTICE,EH20 9LA,Primary Care Delivery Site,Lothian,-3.1544282,55.8788747
+EAST CALDER MEDICAL PRACTICE,EH53 0EW,Primary Care Delivery Site,Lothian,-3.4624925,55.8956288
+FERGUSON MEDICAL PRACTICE,EH52 5LH,Primary Care Delivery Site,Lothian,-3.4839546,55.9328617
+NEWLAND MEDICAL PRACTICE,EH48 2SS,Primary Care Delivery Site,Lothian,-3.6470364,55.8977192
+LANRIGG MEDICAL PRACTICE,EH47 9JD,Primary Care Delivery Site,Lothian,-3.7041836,55.8295358
+LINDEN MEDICAL PRACTICE,EH52 5LH,Primary Care Delivery Site,Lothian,-3.4839546,55.9328617
+KINGSGATE MEDICAL PRACTICE,EH48 2SS,Primary Care Delivery Site,Lothian,-3.6470364,55.8977192
+SIMPSON MEDICAL GROUP,EH48 2SS,Primary Care Delivery Site,Lothian,-3.6470364,55.8977192
+WEST CALDER MEDICAL PRACTICE,EH55 8EJ,Primary Care Delivery Site,Lothian,-3.5783172,55.8497357
+LINLITHGOW GROUP MEDICAL PRACTICE,EH49 7ER,Primary Care Delivery Site,Lothian,-3.6076143,55.9761677
+WHITBURN GROUP MEDICAL PRACTICE,EH47 0SD,Primary Care Delivery Site,Lothian,-3.6890144,55.8670289
+ARMADALE GROUP PRACTICE,EH48 3QB,Primary Care Delivery Site,Lothian,-3.6991284,55.8995813
+HOWDEN HEALTH CENTRE,EH54 6TP,Primary Care Delivery Site,Lothian,-3.5228331,55.8928036
+DEDRIDGE MEDICAL GROUP,EH54 6QQ,Primary Care Delivery Site,Lothian,-3.5083997,55.8797807
+THE WOOD MEDICAL PRACTICE,EH52 5LH,Primary Care Delivery Site,Lothian,-3.4839546,55.9328617
+THE CRAIGSHILL PARTNERSHIP,EH54 5DY,Primary Care Delivery Site,Lothian,-3.4944612,55.8976977
+ASHGROVE GROUP PRACTICE,EH47 7LL,Primary Care Delivery Site,Lothian,-3.6201816,55.8746221
+MURIESTON MEDICAL PRACTICE,EH54 9JZ,Primary Care Delivery Site,Lothian,-3.5065719,55.8705658
+ALMOND GROUP PRACTICE,EH29 9AS,Primary Care Delivery Site,Lothian,-3.4053334,55.9551958
+BARCLAY MEDICAL PRACTICE,G20 8FB,Primary Care Delivery Site,Lothian,-4.292741,55.8899089
+BARCLAY MEDICAL PRACTICE-FAULDHOUSE,EH47 9JD,Primary Care Delivery Site,Lothian,-3.7041836,55.8295358
+Foula Clinic in Occupational Health,ZE1 0LA,NHS Vaccination Centre,Shetland,-1.1509372,60.1544408
+LEVENWICK MEDICAL PRACTICE,ZE2 9HX,Primary Care Delivery Site,Shetland,-1.2714747,59.9719245
+HILLSWICK HEALTH CENTRE,ZE2 9RW,Primary Care Delivery Site,Shetland,-1.4821535,60.4786411
+Ninewells Hospital,DD2 1SG,NHS Vaccination Centre,Tayside,-3.0370551,56.4595186
+Perth Royal Infirmary,PH1 1NX,Covid-19 Vaccination Clinic,Tayside,-3.4529634,56.3963319
+Stracathro Hospital,DD9 7QA,Covid-19 Vaccination Clinic,Tayside,-2.6137268,56.7749297
+GP Practices,Various,GP Practice,Tayside,-73.9945607,40.7270258
+Ninewells Hospital,DD2 1SG,NHS Vaccination Centre,Tayside,-3.0370551,56.4595186
+Perth Royal Infirmary,PH1 1NX,Covid-19 Vaccination Clinic,Tayside,-3.4529634,56.3963319
+Stracathro Hospital,DD9 7QA,Covid-19 Vaccination Clinic,Tayside,-2.6137268,56.7749297
+GP Practices,Various,GP Practice,Tayside,-73.9945607,40.7270258
+Kings Cross Hospital,DD3 8EA,Covid-19 Vaccination Clinic,Tayside,-2.9866686,56.4776192
+McKinnon Day Centre,DD5 2DZ,Covid-19 Vaccination Clinic,Tayside,-2.8660069,56.4661213
+Asthton Hall (Caird Hall) (TBC),DD1 3BB,Covid-19 Vaccination Clinic,Tayside,-2.9685707,56.4599637
+Blairgowrie Community Hospital,PH10 6EE,Covid-19 Vaccination Clinic,Tayside,-3.3462861,56.5858852
+Crieff Community Hospital,PH7 3HR,Covid-19 Vaccination Clinic,Tayside,-3.8426195,56.3704405
+Dewars Ice Rink (TBC) - Deward Centre,PH2 0TH,Covid-19 Vaccination Clinic,Tayside,-3.4442625,56.3950317
+St Margarets Community Hospital,PH3 1JH,Covid-19 Vaccination Clinic,Tayside,-3.7176784,56.2932511
+Pitlochry Community Hospital,PH16 5FG,Covid-19 Vaccination Clinic,Tayside,-3.7366913,56.7017089
+Arbroath Infirmary,DD11 2AT,Covid-19 Vaccination Clinic,Tayside,-2.5968945,56.5545292
+Links Health Centre,DD10 8TY,Covid-19 Vaccination Clinic,Tayside,-2.4564146,56.7100771
+Whitehills Health & Communtity Care Centre,DD8 3DY,Covid-19 Vaccination Clinic,Tayside,-2.8716244,56.6522171
+"Criaigvinean Surgery, Dunkeld",PH8 0AD,GP Practice,Tayside,-3.5860989,56.561871
+Ninewells Hospital,DD2 1SG,Covid-19 Vaccination Clinic,Tayside,-3.0370551,56.4595186
+Perth Royal Infirmary,PH1 1NX,Covid-19 Vaccination Clinic,Tayside,-3.4529634,56.3963319
+Stracathro Hospital,DD9 7QA,Covid-19 Vaccination Clinic,Tayside,-2.6137268,56.7749297
+GP Practices,Various,GP Practice,Tayside,-73.9945607,40.7270258
+Kings Cross Hospital,DD3 8EA,Covid-19 Vaccination Clinic,Tayside,-2.9866686,56.4776192
+McKinnon Day Centre,DD5 2DZ,Covid-19 Vaccination Clinic,Tayside,-2.8660069,56.4661213
+Asthton Hall (Caird Hall) (TBC),DD1 3BB,Covid-19 Vaccination Clinic,Tayside,-2.9685707,56.4599637
+Blairgowrie Community Hospital,PH10 6EE,Covid-19 Vaccination Clinic,Tayside,-3.3462861,56.5858852
+Crieff Community Hospital,PH7 3HR,Covid-19 Vaccination Clinic,Tayside,-3.8426195,56.3704405
+Dewars Ice Rink (TBC) - Deward Centre,PH2 0TH,Covid-19 Vaccination Clinic,Tayside,-3.4442625,56.3950317
+St Margarets Community Hospital,PH3 1JH,Covid-19 Vaccination Clinic,Tayside,-3.7176784,56.2932511
+Pitlochry Community Hospital,PH16 5FG,Covid-19 Vaccination Clinic,Tayside,-3.7366913,56.7017089
+Arbroath Infirmary,DD11 2AT,Covid-19 Vaccination Clinic,Tayside,-2.5968945,56.5545292
+Links Health Centre,DD10 8TY,Covid-19 Vaccination Clinic,Tayside,-2.4564146,56.7100771
+Whitehills Health & Communtity Care Centre,DD8 3DY,Covid-19 Vaccination Clinic,Tayside,-2.8716244,56.6522171
+"Criaigvinean Surgery, Dunkeld",PH8 0AD,GP Practice,Tayside,-3.5860989,56.561871
+Improvement Academy Staff Vaccination Clinic,DD1 9SY,Covid-19 Vaccination Clinic,Tayside,-2.9914152,56.4616788
+North Harris Med Pract,HS3 3BG,Covid-19 Vaccination Clinic,Western Isles,-6.8138455,57.9016829
+South Harris Med Pract,HS5 3UA,Covid-19 Vaccination Clinic,Western Isles,-7.0159269,57.7676339
+South Uist Med Pract,HS8 5SS,Covid-19 Vaccination Clinic,Western Isles,-7.3721671,57.1650767
+North Uist Med Pract,HS6 5AE,Covid-19 Vaccination Clinic,Western Isles,-7.1629034,57.6049724
+Balivanich Clinic,HS7 5LA,Covid-19 Vaccination Clinic,Western Isles,-7.3709815,57.4711764
+Lochs Med Pract,HS2 9JP,Covid-19 Vaccination Clinic,Western Isles,-6.5026339,58.1517933
+Memorial Hall,HS1 2DR,Covid-19 Vaccination Clinic,Western Isles,-6.3876228,58.2094894
+Barra,HS9 5XD,Covid-19 Vaccination Clinic,Western Isles,-7.4877062,56.9556106
+Broadbay Medical practice,HS1 2XB,Covid-19 Vaccination Clinic,Western Isles,-6.3861691,58.2087571
+Group Practice,HS1 2PS,Covid-19 Vaccination Clinic,Western Isles,-6.3733157,58.2123016
+Dental centre Stornoway,HS1 2BB,Covid-19 Vaccination Clinic,Western Isles,-6.385783,58.2077002
+Sport centre Stornoway TBC,HS1 2PZ,Covid-19 Vaccination Clinic,Western Isles,-6.3816253,58.2097678
+Western Isles Hospital ,HS1 2AF,NHS Vaccination Centre,Western Isles,-6.3836023,58.2210852
+Western Isles Dental Center,HS1 2AF,Covid-19 Vaccination Clinic,Western Isles,-6.3836023,58.2210852
+OUAB ,HS7 5LA,Covid-19 Vaccination Clinic,Western Isles,-7.3709815,57.4711764
+Warehouse Buildings,KW163AA ,Covid-19 Vaccination Clinic,Orkney,-3.2976824,58.9633334
+Milestone Community Church ,KW17 2JE ,Covid-19 Vaccination Clinic,Orkney,-3.2393205,59.0629804
+South Ronaldsay and Burray Community Church ,KW17 2SR ,Covid-19 Vaccination Clinic,Orkney,-2.9560029,58.824649

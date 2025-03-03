@@ -1,0 +1,832 @@
+County,SubCounty,Health Facility Name,latitude,longitude
+KWALE,Kinango,Kinago Hospital,-4.139885742,39.31320018
+MOMBASA,Mvita,Kaderbuoy Dispensary,-4.062242287,39.67356805
+MOMBASA,Mvita,KPA Clinic,-4.051674498,39.6585281
+MOMBASA,Mvita,Tudor Sub County Hospital,-4.040444185,39.66392311
+KWALE,Kinango,Samburu Hospital,-3.790214632,39.26636583
+MACHAKOS,Yatta,Kisikii Dispensary,-1.603998108,37.30528562
+MACHAKOS,Machakos,Machakos L5 Hospital,-1.522428448,37.26634584
+MACHAKOS,Machakos,Ikulu Dispensary,-1.517672674,37.26342106
+MACHAKOS,Kalama,Muumandu Health Centre,-1.517671824,37.26341686
+MACHAKOS,Machakos,Mua Dispensary,-1.517668556,37.26341537
+MACHAKOS,Machakos,Approved Dispensary,-1.514441879,37.25848135
+MACHAKOS,Mwala,Muthetheni Health Centre,-1.496861118,37.50536855
+MACHAKOS,Kathiani,Kathiani L4 Hospital,-1.413551405,37.32847316
+MACHAKOS,Kathiani,Kaviani Health Centre,-1.411675562,37.33129347
+KITUI,Kitui West,Muthale Mission Hospital,-1.36536245,38.01147325
+KITUI,Kitui Central,Katulani Sub County Hospital (Kitui),-1.365357801,38.01148347
+NAIROBI,Embakasi South,Mukuru H/C,-1.325246364,36.88772673
+NAIROBI,Embakasi East,Embakasi H/C,-1.310580074,36.91382785
+NAIROBI,Dagoretti North,Coptic Hospital,-1.297844026,36.79767482
+NAIROBI,Dagoretti North,Nairobi Hospital,-1.295861435,36.80339019
+NAIROBI,Dagoretti North,Medanta,-1.295103528,36.80682336
+NAIROBI,Dagoretti North,Nairobi Women Hurlingham,-1.293709344,36.79608245
+NAIROBI,Starehe,Remand Health Centre,-1.285429578,36.82235147
+NAIROBI,Kamukunji,Pumwani Hospital,-1.280651114,36.84550335
+LAIKIPIA,Laikipia West,Salama HC,-1.275853314,36.85104931
+NAIROBI,Kamukunji,Eastleigh Hospital,-1.271837025,36.85108225
+NAIROBI,Starehe,Guru Nanak,-1.269407033,36.83169188
+KIAMBU,Ruiru,Langata H Centre,-1.219488959,36.9396818
+MACHAKOS,Matungulu,Kyeleni Health Centre,-1.213018325,37.34532258
+MACHAKOS,Matungulu,Kimiti L4 Hospital,-1.210097753,37.24830552
+KIAMBU,Ruiru,Ruiru L4 hosp.,-1.144577121,36.95573643
+MIGORI,Suna West,Akidiva Memorial Hospital,-1.095468173,34.45432083
+KITUI,Mwingi Central,Nuu Sub County Hospital,-1.078454678,38.3565873
+KITUI,Mwingi North,Kyuso Sub County Hospital,-1.078374196,38.35659628
+MIGORI,Suna West,Pastor Machaje Hospital,-1.074872947,34.45865597
+MACHAKOS,Masinga,Masinga L4 Hospital,-0.975665658,37.60365873
+MACHAKOS,Masinga,Ndithini L4 Hospital,-0.929994363,37.59607258
+MACHAKOS,Masinga,Mananja Health Centre,-0.929993833,37.5960781
+BOMET,Bomet East,Tegat SCH,-0.788229502,35.46176758
+BOMET,Bomet Central,Bomet H.C,-0.780289143,35.33811341
+NYAMIRA,Borabu,St. Joseph Nyansiongo Health Centre,-0.759347649,35.01407019
+NYAMIRA,Borabu,Nyansiongo Nursing Home,-0.759344358,35.01403583
+EMBU,Runyejes,Gategi,-0.756960006,37.43947413
+NYERI,Nyeri South,Othaya level 6 hosp,-0.708528281,36.98769789
+NYAMIRA,Masaba North,Gesima Sub-County Hospital,-0.706411694,34.99205675
+NYAMIRA,Masaba North,Magombo Health Centre,-0.699088429,34.90318711
+EMBU,Runyejes,Kiambere H/C,-0.691896164,37.79494562
+NYAMIRA,Masaba North,Esani Sub-District Hospital,-0.682879396,34.94237246
+KISII,Bonchari,Marble Hospital,-0.6804348,34.70197612
+EMBU,Runyejes,Kirirtiri,-0.678986431,37.64110105
+KISII,Bomachoge Borabu,Misesi Sub county,-0.677323601,34.77962392
+KISII,Kitutu Chache South,Bosono Hospital,-0.677323597,34.77962461
+NYAMIRA,Manga,Holsoms Nursing Home,-0.648256681,34.99477492
+NYAMIRA,Manga,Getare Health Centre,-0.64825637,34.99478172
+NYANDARUA,Kinangop,Murungaru Health Centre,-0.611341648,36.70685436
+EMBU,Mbeere North,Mbeere subcounty Hospital,-0.576614894,37.64269597
+NAKURU,Kuresoi South,Kiptagich h/c,-0.570486665,35.61241392
+NYERI,Nyeri South,Othaya level IV hosp,-0.542467721,36.9414071
+EMBU,Mbeere South,Imara-Medi plus Hospital,-0.536377485,37.45146582
+NYANDARUA,Olkalou,Ndunyu njeru Dispensary,-0.505688775,36.59861642
+KIRINYAGA,Kirinyaga central sub County,Kerugoya county hospital,-0.50506873,37.28105626
+MANDERA,Mandera East,East sub county hospital,-0.500947344,36.32687218
+KIRINYAGA,Kirinyaga central,Kerugoya medical centre,-0.482830505,37.26114825
+GARISSA,Fafi,Bura sub county Hospital,-0.453215623,39.64610088
+NYERI,Kieni East,Karemeno HC,-0.436615029,36.96219057
+NYERI,Nyeri Central,Mt Kenya hosp,-0.426088913,36.93479545
+EMBU,Runyejes,Runyejes subcounty Hospital,-0.424991739,37.57244368
+EMBU,Runyejes,Karurumo Health Center,-0.422338966,37.57210451
+NYERI,Nyeri Central,Consolata Mathari hosp,-0.413757279,36.91974013
+KERICHO,Belgut,Kapsuser,-0.399570855,35.21673136
+KISUMU,Nyakach,Sondu Sub County Hospital,-0.390000965,35.01402756
+KISUMU,Nyakach,Nyabondo Mission,-0.381449844,34.97884476
+NAKURU,Molo,Elburgon Sub-District Hospital,-0.305905434,35.80760447
+NAKURU,Kuresoi North,Kuresoi H/C,-0.301872612,35.53218189
+NYANDARUA,Kipipiri,Silibwet Health Centre,-0.296559339,36.45222577
+NAKURU,Nakuru west,Joyellen,-0.291147943,36.0624897
+NYERI,Kieni East,Island Farm HC,-0.290634776,37.10408409
+NYANDARUA,Kinangop,Kaptain Dispensary,-0.272687405,36.37754016
+NYANDARUA,Oljororok,Ngorika Health Centre,-0.272686791,36.37754614
+NYANDARUA,Ndaragwa,New Mawingu Health Centre,-0.272676397,36.37755742
+NAKURU,Kuresoi North,Total Disp,-0.258656031,35.66814607
+KISUMU,Seme,Manyuanda Health Centre,-0.255050022,34.27725369
+KERICHO,Kipkelion East,Kedowa Dispensary,-0.21208419,35.56790058
+KERICHO,Kipkelion East,Kamwingi Dispensary,-0.207692621,35.44807994
+MERU,Imenti  South,St Ann Miss. Hospital,-0.193258779,37.66684083
+KISUMU,Muhoroni,Koru Mission,-0.186093479,35.27398169
+NAKURU,Rongai,Rongai H/C,-0.170634775,35.85906495
+NAKURU,Rongai,Soin sub county hospital,-0.170003583,35.85529767
+KISUMU,Nyando,Awasi Mission Hospital,-0.163623782,35.0741258
+KISUMU,Muhoroni,St. vincent depaul,-0.160109957,35.19513504
+KISUMU,Muhoroni,Masogo Sub County Hospital,-0.156595198,35.19836604
+KISUMU,Muhoroni,Nyang'oma Sub County Hospital,-0.146170157,35.04402765
+NYANDARUA,Olkalou,Weru Health Centre,-0.142923174,36.40399439
+MERU,Imenti  South,Kanyakine SC Hospital,-0.128640436,37.67567553
+KERICHO,Kipkelion West,Makyolok Dispensary,-0.127956772,35.37448179
+NYANDARUA,Ndaragwa,Chamuka Dispensary,-0.12719012,36.39877517
+KISUMU,Seme,Kombewa County Hospital,-0.091648058,34.76820812
+KISUMU,Kisumu Central,Jaramogi Oginga Odinga Teaching and Referral,-0.090019367,34.77080991
+KISUMU,Nyakach,Katito Sub County Hospital,-0.088876271,34.77196597
+NYANDARUA,Kinangop,Olbolosat Dispensary,-0.085147504,36.36681635
+MERU,Imenti  South,Mikumbune SC Hospita,-0.077046468,37.62189478
+MERU,Imenti  South,Consolata Miss. Hospital,-0.069845167,37.66700453
+NYANDARUA,Ndaragwa,Shamata Health Centre,-0.058161812,36.53108849
+NYANDARUA,Ndaragwa,Rwanyambo Dispensary,-0.055948952,36.53031747
+NYANDARUA,Kipipiri,Kamiruri Dispensary,-0.038470696,36.2902347
+NYANDARUA,Ndaragwa,Gatimu Health centre,-0.016882622,36.35269318
+MERU,Imenti North,Giaki SC Hospital,0.030405766,37.76484038
+LAIKIPIA,Laikipia West,Nyahururu Hospital,0.038504699,36.36217908
+MERU,Imenti North,Meru County Hospital,0.051079351,37.65404744
+MERU,Imenti  South,Kinoro SC Hospital,0.053290024,37.63814811
+MERU,Imenti Central,Githongo SC Hospital,0.111178924,37.5215125
+KAKAMEGA,Ikolomani,Kilingili Health Centre,0.124215708,34.68090065
+KAKAMEGA,Khwisero,Namasoli Health Centre,0.144492556,34.52894824
+KAKAMEGA,Khwisero,Ekambuli Health Centre,0.135013754,34.66300514
+KAKAMEGA,Lurambi,County General Hospital,0.274564543,34.76082456
+KAKAMEGA,Navakholo,Sivilie Health Centre,0.282742648,34.75188166
+KAKAMEGA,Mumias West,Bungasi Health Centre,0.333193582,34.48781919
+KAKAMEGA,Mumias East,Makunga RHDC,0.333193751,34.48782867
+KAKAMEGA,Mumias East,Lusheya Health Centre,0.333197318,34.48780903
+BUSIA,Bunyala,Port-Victoria Sub-County Hospital,0.460703555,34.11146723
+BUSIA,Teso South,Alupe Isolation Centre Hospital,0.486106283,34.13653524
+KAKAMEGA,Lugari,Matete Health Centre,0.55812373,34.81781552
+BUSIA,Teso North,Kocholya Sub-County Hospital,0.614171669,34.36432036
+BUSIA,Teso North,Malaba Health Centre,0.642421394,34.26066964
+GARISSA,Lagdera,Modogashe sub county Hospital,0.732805254,39.18564397
+"ELGEYO
+MARAKWET",Keiyo North,Chegilet Health Centre,0.825440544,35.60059096
+KAKAMEGA,Likuyani,Matunda Sub County Hospital,0.825609176,35.11553205
+TRANS NZOIA,Saboti Subcounty,Lukhome health center,0.905418269,34.85614058
+TRANS NZOIA,Saboti subcounty,Saboti subcounty hosp,0.937431786,34.83747081
+TRANS NZOIA,Saboti Subcounty,Tom mboya health center,1.029564235,34.99606648
+"ELGEYO
+MARAKWET",Keiyo South,Kocholwo Sub-County Hospital,1.049836328,35.47823214
+"ELGEYO
+MARAKWET",Marakwet West,Arror Health Centre,1.049838701,35.47819381
+"ELGEYO
+MARAKWET",Keiyo south,Flourspar Health Center,1.04984824,35.47819953
+WAJIR,Wajir South sub county,Wajir South sub county hospital,1.736730858,40.05467846
+WAJIR,Wajir North sub county,Wajir North sub county hospital,1.747937945,40.0627364
+WAJIR,Wajir west sub county,Wajir west sub county hospital,1.996833733,39.75492079
+MANDERA,Kutulo,Kutulo sub county hospital,2.444931033,40.65147813
+MANDERA,Mandera West,Mandera West sub county hospital,3.935740042,41.85512078
+MANDERA,Mandera North,Mandera North sub county hospital,3.935743529,41.85511283
+MANDERA,Mandera South,Mandera South sub county hospital,3.938593624,41.86449811
+KWALE,Lungalunga,Lungalunga Hospital,-4.5528347,39.12323
+KWALE,Msambweni,Msambweni County referral hospital,-4.4805882,39.4803189
+KWALE,Msambweni,Kinondo hospital,-4.3779891,39.5071372
+KWALE,Msambweni,Diani Beach hospital,-4.2790468,39.5902295
+KWALE,Matuga,Kwale Hospital,-4.1816115,39.4605612
+MOMBASA,Likoni,Likoni Sub County Hospital,-4.0850218,39.6554026
+MOMBASA,Mvita,Pandya Memorial Hospital,-4.0683523,39.671231
+MOMBASA,Mvita,Mombasa Hospital,-4.06482,39.680437
+MOMBASA,Mvita,Coast General Teaching and Referal Hospiital,-4.0490407,39.6739761
+MOMBASA,Mvita,Aga Hkan Hospital Mombasa,-4.0434771,39.6682065
+MOMBASA,Changamwe,Portreitz Sub County Hospital,-4.0390139,39.6028509
+MOMBASA,Kisauni,Jocham Hospital,-4.0372175,39.6815435
+MOMBASA,Nyali,Premiere Hospital,-4.0350631,39.7084403
+MOMBASA,Kisauni,Shimo La Tewa Main Health Centre,-3.9617125,39.7317609
+KILIFI,Rabai,Rabai Health Centre,-3.9454005,39.5588473
+KILIFI,Kaloleni,Mariakani sub county hospital,-3.8633653,39.4719713
+KILIFI,Kilifi South,Vipingo Health Centre,-3.8201959,39.7858575
+KILIFI,Kilifi North,Kilifi County Hospital,-3.6317496,39.8565459
+KILIFI,Ganze,Bamba Sub county hospital,-3.5306929,39.6724573
+TAITA TAVETA,Mwatate,Mwatate Sub County Hoapital,-3.5064595,38.3670875
+TAITA TAVETA,Taita/Wundanyi,Wesu Sub County Hospital,-3.4090186,38.3420757
+TAITA TAVETA,Taita Wundanyi,Wundanyi Health Centre,-3.4028183,38.36302
+TAITA TAVETA,Taveta,Taveta Sub County Hospital,-3.3931965,37.6773977
+TAITA TAVETA,Voi,Moi County Refferral Hospotal,-3.3893256,38.5595514
+KILIFI,Malindi,Malindi Sub-county hospital,-3.2262301,40.1249463
+KILIFI,Magarini,Gongoni Health Centre,-3.03399,40.14069
+KAJIADO,Kajiado South,Oloitokitok Sub-County Hospital,-2.924797,37.508143
+MAKUENI,Kibwezi East,Kambu Subcounty Hospital (IV),-2.6917308,38.1662152
+MAKUENI,Kibwezi East,Kibwezi Subcounty Hospital (IV),-2.4120049,37.9677033
+"TANA RIVER
+COUNTY",Tana Delta sub County,Ngao sub county hospital,-2.411815,40.2017358
+MAKUENI,Kibwezi East,Mtito Andei Subcounty Hospital (IV),-2.4096209,38.0208151
+LAMU,Lamu West,Mpeketoni Hospital,-2.3904853,40.6968426
+LAMU,Lamu West,Witu Health Centre,-2.3882548,40.4402275
+MAKUENI,Kibwezi West,Makindu Subcounty Hospital (Level IV),-2.2836097,37.8250871
+MAKUENI,Kibwezi West,Mulatya Memorial Hospital (IV),-2.278223,37.827847
+LAMU,Lamu West,Lamu Hospital,-2.2695575,40.9006408
+LAMU,Lamu West,Mokowe Health Centre,-2.2326656,40.8546156
+LAMU,Lamu West,Hindi Magogoni Dispensary,-2.1761221,40.8120082
+KAJIADO,Kajiado Central,Ilbisil Health Centre,-2.0939511,36.7873365
+MAKUENI,Kibwezi West,Kilome Nursing Home (IV),-2.0855516,37.5214724
+LAMU,Lamu East,Faza Hospital,-2.0549471,41.1129247
+KAJIADO,Kajiado East,Mashuru Health Centre,-2.039246,37.1231788
+MAKUENI,Kilome,Sultan Hamud Subcounty Hospital (Level IV),-2.0163261,37.3780991
+MAKUENI,Makueni,Mutyambua Subcounty Hospital (Level IV),-1.9710844,37.446364
+MAKUENI,Makueni,Matiliku Subcounty Hospital (Level IV),-1.9490725,37.5358914
+KAJIADO,Kajiado West,Magadi Hospital,-1.8996701,36.301039
+KAJIADO,Kajiado Central,Kajiado County Referral Hospital,-1.8575039,36.7719758
+KITUI,Kitui South,Mutomo Sub County Hospital,-1.848867506,38.21050895
+KITUI,Kitui South,Our Lady of Lourdes Mutomo Hospital,-1.848865069,38.21051553
+KAJIADO,Kajiado Central,Namanga Health Centre,-1.8421285,36.7919177
+KAJIADO,Kajiado West,Oltepesi Dispensary,-1.8420731,36.7918599
+MAKUENI,Kaiti,Kikoko Mission Hospital (IV),-1.8062436,37.3965597
+MAKUENI,Kaiti,Kilungu Subcounty Hospital (IV),-1.7860805,37.3606162
+MAKUENI,Makueni,Ralpha Hospital (IV),-1.7843925,37.6215713
+MAKUENI,Makueni,Royal Star Hospital (IV),-1.7841936,37.6247268
+MAKUENI,Makueni,Makueni County Referral Hospital (Level V),-1.7831884,37.628553
+MAKUENI,Kaiti,Mukuyuni Subcounty Hospital (Level IV),-1.7473102,37.4621372
+KITUI,Kitui South,Ikanga Sub County Hospital,-1.7256046,38.0763683
+MAKUENI,Mbooni,Mbooni Subcounty Hospital (Level IV),-1.6588315,37.454428
+MACHAKOS,Kalama,Kalama L4 Hospital,-1.6200915,37.3292861
+MAKUENI,Mbooni,Kisau Subcounty Hospital (Level IV),-1.6,37.4833333
+GARISSA,Ijara,Ijara sub county Hospital,-1.598823,40.513561
+MAKUENI,Mbooni,Tawa Subcounty Hospital (Level IV),-1.547912,37.4663946
+MACHAKOS,Machakos,Bishop Kioko Catholic Hosp.,-1.526946,37.2649982
+MACHAKOS,Kalama,Kola Health Centre,-1.517639,37.2627241
+KAJIADO,Kajiado East,Kitengela Sub-County Hospital,-1.5167072,36.849996
+MACHAKOS,Mwala,Katulani Health Centre,-1.5145032,37.6478649
+"TANA RIVER
+COUNTY",Tana North sub county,Bura Sub County hospital,-1.5038984,40.0274837
+"TANA RIVER
+COUNTY",,Hola county Referral Hospital,-1.4980312,40.0296412
+MACHAKOS,Kathiani,Ithaeni Dispensary,-1.4670885,37.3542988
+MACHAKOS,Mwala,Masii Health Centre,-1.460638,37.4397727
+MACHAKOS,Mavoko,Kyumbi Health Centre,-1.4577365,36.977431
+MACHAKOS,Mavoko,Mavoko L4 Hospital,-1.4577245,36.9785033
+MACHAKOS,Mavoko,Katani Dispensary,-1.4576675,36.978502
+MACHAKOS,Machakos,Mutituni L4 Hospital,-1.4464907,37.2597576
+KITUI,Kitui East,Zombe Sub County Hospital,-1.4432151,38.2421409
+MACHAKOS,Kathiani,Mutitu dispensary,-1.4278336,37.291818
+MACHAKOS,Yatta,Katangi Health Center,-1.4123262,37.6982506
+MACHAKOS,Mwala,Wamunyu Health Centre,-1.4107916,37.5679559
+MACHAKOS,Mavoko,Kinanie Health Centre,-1.4048159,37.0342345
+MACHAKOS,Mavoko,Mlolongo Health Centre,-1.394419,36.941681
+KAJIADO,Kajiado North,Ongata Rongai Sub-County Hospital,-1.3898912,36.7470057
+KITUI,Kitui South,Ikutha Sub County Hospital,-1.3750813,37.9952144
+KITUI,Kitui Rural,Kanyangi Sub County Hospital,-1.3750588,37.9951422
+MACHAKOS,Kathiani,Mitaboni Health Centre,-1.3727173,37.248267
+KITUI,Kitui West,Kauwi Sub County Hospital,-1.3721777,38.0104132
+KITUI,Kitui Central,Kitui County Referral Hospital,-1.3703239,38.0124083
+KITUI,Kitui Central,Jordan Hospital,-1.3679863,38.0056776
+KITUI,Kitui Central,Neema Hospital,-1.3675479,38.0045026
+KAJIADO,Kajiado North,Ngong Sub-County Hospital,-1.3649977,36.6542004
+MACHAKOS,Kangundo,Kakuyuni Health Centre,-1.3641941,37.345991
+NAIROBI,Lang'ata,St. Mary Mission Hospital,-1.3640944,36.7476257
+MACHAKOS,Kangundo,Kivaani Health Centre,-1.3635273,37.3948227
+MACHAKOS,Mwala,Mwala L4 Hospital,-1.3519815,37.4502563
+MACHAKOS,Kangundo,Mukunike Community Hospital,-1.3370393,37.3132471
+NAIROBI,Lang'ata,Karen Hospital,-1.3370168,36.725589
+NAIROBI,Lang'ata,Lang'ata H/C,-1.3362692,36.7757822
+MIGORI,Kuria East,Ntimaru Sub-County Hospital,-1.3333299,34.68766
+NAIROBI,Embakasi East,JKIA Port Health,-1.3289865,36.9238278
+NAIROBI,Lang'ata,Nairobi South Hospital,-1.3138048,36.8284886
+NAIROBI,Kibra,Kibera DO H/C,-1.3114845,36.7879475
+NAIROBI,Kibra,Kibera AMREF,-1.3112197,36.7956466
+NAIROBI,Dagoretti North,University of Nairobi,-1.3086172,36.7633993
+NAIROBI,Kibra,Mbagathi Hospital,-1.3076255,36.8031544
+NAIROBI,Makadara,Lunga Lunga H/C,-1.3075569,36.8725848
+NAIROBI,Lang'ata,Nairobi West Hospital,-1.3066017,36.825881
+MACHAKOS,Kangundo,Kangundo L4 Hospital,-1.3055671,37.3453215
+NAIROBI,Dagoretti,Kenyatta National Hospital,-1.301301,36.8069899
+MACHAKOS,Yatta,Ikombe Dispensary,-1.2991054,37.6761273
+NAIROBI,Makadara,Makadara H/C,-1.2960668,36.8717955
+NAIROBI,Dagoretti North,Riruta H/C,-1.2938321,36.7397964
+NAIROBI,Embakasi North,Dandora 1 HC,-1.2920659,36.8219462
+NAIROBI,Kamukunji,Shauri Moyo H/C,-1.2898823,36.8479018
+NAIROBI,Makadara,Metropolitan,-1.2884353,36.8761485
+NAIROBI,Dagoretti South,Mutuini Sub-District Hospital,-1.2881409,36.6973714
+NAIROBI,Starehe,Mater Hospital,-1.2881173,36.8272463
+NAIROBI,Kamukunji,Joy Nursing Home,-1.2847449,36.8337414
+NAIROBI,Dagoretti South,Waithaka H/C,-1.281995,36.7139515
+NAIROBI,Makadara,Jamaa Hospital,-1.2816231,36.8730802
+NAIROBI,Embakasi East,Umoja H/C,-1.2799262,36.8859208
+MACHAKOS,Matungulu,Nguluni Health Centre,-1.2798698,37.2650897
+NAIROBI,Starehe,Ngara H/C,-1.2781236,36.8304167
+NAIROBI,Embakasi Central,Kayole 2 H/C,-1.2774035,36.915837
+NAIROBI,Embakasi West,Mama Lucy Kibaki Hospital,-1.274009,36.8989906
+NAIROBI,Westlands,Kangemi H/C,-1.2711928,36.7394386
+NAIROBI,Westlands,Agakhan Hospital,-1.268924,36.809952
+NAIROBI,Westlands,Westlands H/C,-1.2675001,36.812022
+KIAMBU,Kikuyu,ACK Emmanuel Mission Hospital,-1.2672666,36.6970959
+NAIROBI,Embakasi East,Komarock Modern,-1.266125,36.910522
+NAIROBI,Westlands,Avenue Hospital,-1.2647728,36.8179196
+NAIROBI,Westlands,MP Shah Hospital,-1.2634829,36.8120972
+MACHAKOS,Kangundo,Ndunduni Dispensary,-1.2628764,37.3549339
+NAIROBI,Westlands,Mediheal Hospial,-1.2624855,36.8225216
+NAIROBI,Westlands,Gertrudes Hospital,-1.261633,36.8013795
+NAIROBI,Mathare,Huruma Lions H/C,-1.2609683,36.8669607
+NAIROBI,Starehe,Mathare Teachung and referral Hospital,-1.2608177,36.8465546
+NAIROBI,Mathare,NCCK Jumuia,-1.260132,36.874789
+KIAMBU,Kabete,Uthiru Dispensary,-1.2588871,36.711065
+MIGORI,Kuria East,Kegonga Sub-County Hospital,-1.2587098,34.6526527
+NAIROBI,Ruaraka,Mathare North H/C,-1.2521156,36.8727864
+MACHAKOS,Matungulu,Sengani Community Hospital,-1.2520911,37.3132471
+MACHAKOS,Mwala,Mbiuni Health Centre,-1.2498695,37.4060637
+KIAMBU,Kikuyu,Lusigett L4 hosp,-1.2471951,36.6790986
+KIAMBU,Kikuyu,Kikuyu (PCEA) Hospital,-1.245,36.6652
+NAIROBI,Ruaraka,KU Referral Hospital,-1.2439336,36.8808064
+NAIROBI,Ruaraka,Baba Dogo H/C,-1.2438912,36.8808788
+KIAMBU,Kabete,LIFE-POINT hospital,-1.235154,36.6750586
+MACHAKOS,Matungulu,Matungulu Health Centre,-1.2337836,37.3308182
+NAIROBI,Kasarani,Kasarani H/C,-1.2320073,36.926281
+KIAMBU,Kikuyu,Gichuru H centre,-1.2287582,36.6648642
+NAIROBI,Ruaraka,Uhai Neema Hospital,-1.226956,36.885225
+NAIROBI,Kasarani,St. Francis Hospital,-1.2256602,36.9158226
+NAIROBI,Kasarani,Ruai Family Hospital,-1.2253995,36.8976372
+KITUI,Kitui East,Mutitu Sub County Hospital,-1.2249154,38.1886491
+KIAMBU,Kabete,Wangige Sub County Hospital,-1.2220678,36.7213858
+NAIROBI,Roysambu,Kahawa H/C,-1.2194661,36.8911816
+KIAMBU,Kiambaa,Kihara Sub County Hospital,-1.2145103,36.7674968
+MACHAKOS,Yatta,Kithimani Dispensary,-1.1891095,37.4465945
+KIAMBU,Kabete,Nyathuna Level 4 Hospital,-1.1860373,36.6846132
+KIAMBU,Kiambaa,Karuri L4 Hospital,-1.1817385,36.7577087
+MIGORI,Kuria West,Kehancha Sub-County Hospital,-1.1800388,34.6283326
+KIAMBU,Kiambu-town,Kiambu level 5 hospital,-1.1720794,36.8308045
+MIGORI,Kuria West,Samjomen Hospital,-1.1698253,34.4417307
+KIAMBU,Limuru,Tigoni L 4 hospital,-1.1650793,36.7065057
+KIAMBU,Ruiru,Ruiru GK prison,-1.1543202,36.9297539
+MACHAKOS,Yatta,Matuu L4 Hospital,-1.1407002,37.5481236
+MACHAKOS,Matungulu,Donyo Sabuk Dispensary,-1.1400887,37.2570237
+KIAMBU,Limuru,Nazareth Hospital,-1.135621,36.726096
+MIGORI,Suna West,Nyamaraga Sub-County Hospital,-1.1317569,34.3698398
+KIAMBU,Juja,Kalimoni Mission Hospital (Juja),-1.11656,37.0117
+MIGORI,Suna East,Ogwedhi Health Centre,-1.1137473,34.6213592
+KIAMBU,Juja,Jkuat Hospital,-1.0966017,37.0128871
+KITUI,Mwingi West,Migwani Sub County Hospital,-1.0957941,38.0189728
+NAROK,Trans Mara West,Trans Mara West Sub County Hospital,-1.0875428,35.8770642
+KIAMBU,Juja,Gachororo Health centre,-1.086534,37.0199615
+NAROK,Narok North,Narok County Referral Hospital,-1.0843855,35.8672651
+MACHAKOS,Masinga,Kangonde Health Centre,-1.0823453,37.6772385
+MIGORI,Suna East,St. Joseph's Mission,-1.0713304,34.4749163
+MIGORI,Suna East,Migori County Referral Hospital,-1.0631322,34.4773543
+GARISSA,Hulugho,Hulugo Sub-County Hospital,-1.0590431,41.0797172
+KIAMBU,Githunguri,Githunguri Health centre,-1.0586336,36.7779108
+KIAMBU,Githunguri,Holy family catholic hospital githunguri,-1.0586059,36.7739566
+MIGORI,Suna East,Nyarongi Dispensary,-1.0505877,34.457793
+MACHAKOS,Masinga,Kithyoko Health Centre,-1.0498119,37.8391451
+KIAMBU,Thika-town,Kiandutu H Centre,-1.0490926,37.002126
+KIAMBU,Thika-town,Thika level 5 hospital,-1.0418127,37.0786691
+MIGORI,Uriri,Oyani Sub-County Hospital,-1.0378751,34.5889693
+KIAMBU,Githunguri,Kigumo Sub County Hospital,-1.032421,36.8302602
+KIAMBU,Lari,Kagaa H Centre,-1.0282839,36.7087632
+KIAMBU,Gatundu-south,St Jude hospital,-1.0171895,36.9148231
+KIAMBU,Gatundu South,Gatundu District Hospital,-1.0151276,36.9061552
+KIAMBU,Gatundu North,Igegania Sub-District Hospital,-1.0141828,36.9062824
+KIAMBU,Lari,Lari Hospital,-1.0088225,36.6263508
+BOMET,Chepalungu,Sigor SCH,-1.0027697,35.2527256
+MURANG'A,Gatanga,Ithanga Health Centre,-1.0018576,37.3506658
+MIGORI,Nyatike,Muhuru Sub-County Hospital,-0.9989307,34.0961626
+MACHAKOS,Masinga,Kathukini Dispensary,-0.9857152,37.4147666
+NAKURU,Naivasha,Maimahiu,-0.9820293,36.5864447
+MACHAKOS,Masinga,Ekalakala Health Centre,-0.9687432,37.4722129
+MIGORI,Nyatike,Macalder Sub-County Hospital,-0.9546974,34.2856868
+MIGORI,Uriri,Uriri Sub-County Hospital,-0.9518239,34.5129168
+KIAMBU,Lari,Kijabe (AIC) Hospital,-0.9470276,36.5945857
+KITUI,Mwingi Central,Mwingi Sub County Hospital,-0.9417804,38.0657816
+KIAMBU,Gatundu-south,Karatu L4 Hosp,-0.9377348,36.8169524
+MURANG'A,Murang'a South,Kenol Hospital,-0.9371617,37.1264398
+MIGORI,Kuria West,Isebania Sub-County Hospital,-0.9365702,34.4198243
+MURANG'A,Gatanga,Kirwara Sub County Hospital,-0.9297134,36.9428048
+MIGORI,Awendo,Rapcom Hospital,-0.9082277,34.5293802
+MIGORI,Awendo,Awendo Sub-County Hospital,-0.9017152,34.5334534
+MURANG'A,Kandara,Kandara Sub County Hospital,-0.8964454,37.0021776
+MIGORI,Uriri,Othoro Sub-County Hospital,-0.8907445,34.3867108
+MIGORI,Awendo,Ulanda mission hospital,-0.887927,34.5306837
+MURANG'A,Kandara,Gaichanjiru Hospital,-0.8844063,37.0518784
+BOMET,Chepalungu,Siongiroi HC,-0.8742371,35.2263365
+NAKURU,Naivasha,Maella,-0.8692953,36.241388
+NYANDARUA,Kinangop,Bamboo Health Centre,-0.8623151,36.5662588
+KISII,Nyaribari Masaba,Masimba Sub county Hospital,-0.8609823,34.9382407
+BOMET,Bomet East,Longisa CRH,-0.8605925,35.3911901
+MIGORI,Nyatike,Karungu Sub-County Hospital,-0.8433355,34.1573889
+MIGORI,Nyatike,Sori Lakeside Hospital,-0.841253,34.1549
+MIGORI,Nyatike,St. Camillus Sori,-0.8398,34.1584
+NYANDARUA,Oljororok,Haraka Dispensary,-0.8233744,36.5620331
+MURANG'A,Kigumo,Kigumo Sub County Hospital,-0.8074003,36.9863415
+NYAMIRA,Borabu,Kineni Dispensary,-0.7934925,35.0487968
+MURANG'A,Murang'a South,Maragua Sub County Hospital,-0.78943,37.1275008
+NYANDARUA,Ndaragwa,Heni Health Centre,-0.7841786,36.5574703
+MURANG'A,Kandara,Githumu Hospital,-0.7838126,36.8707795
+NYANDARUA,Kinangop,Karangatha Health Centre,-0.7825,36.6343
+NYAMIRA,Masaba North,Masaba District Hospital,-0.7809707,34.9482631
+NAKURU,Naivasha,Karagita,-0.7785265,36.4418472
+NYAMIRA,Borabu,Kijauri Sub County Hospital,-0.7626342,35.0164696
+MIGORI,Rongo,Royal Hospital,-0.7553244,34.5998996
+MIGORI,RONGO,Rongo Sub-County Hospital,-0.7509198,34.598345
+MURANG'A,Kiharu,Muriranjas Sub County Hospital,-0.7504459,36.9913815
+BOMET,Sotik,Ndanai SCH,-0.7462252,35.0888372
+BOMET,Bomet Central,Tenwek Mission Hospital,-0.7426361,35.3590572
+HOMA BAY,Ndhiwa,Ndhiwa Sub County Hospital,-0.728449,34.3660549
+NYANDARUA,Kipipiri,Njabini Health Centre,-0.7275516,36.6539184
+HOMA BAY,Suba South,Nyandiwa L.4 Hospital,-0.7256695,34.0543965
+MURANG'A,Kiharu,Family Heritage Hospital,-0.72258,37.1549312
+BOMET,Sotik,Kipsonoi HC,-0.7204091,35.2203419
+MURANG'A,Kiharu,Murang'a County Referral Hospital,-0.7190474,37.1486396
+NAKURU,Naivasha,Naivasha District Hospital,-0.7184988,36.4384664
+NAKURU,Naivasha,prisons annex,-0.7179042,36.4349958
+NAKURU,Naivasha,Polyclinic Hospital,-0.7169348,36.4346834
+NAKURU,Naivasha,The Karen Hospital Limited(Naivasha),-0.7165316,36.4355392
+BOMET,Sotik,Sotik HC,-0.6906735,35.1110613
+MURANG'A,Kangema,Kangema Sub County Hospital,-0.689536,36.971671
+HOMA BAY,Suba South,Magunga L 4 Hospital,-0.6893437,34.1518039
+KIRINYAGA,Kirinyaga South Sub cunty,"Mwea medical hospital,",-0.6892294,37.3629396
+KIRINYAGA,Kirinyaga North sub county,Thiba health centre,-0.6838825,37.3586619
+KIRINYAGA,KirinyagaNorth sub county,Mwea mission hospital,-0.6835981,37.3526777
+MIGORI,Rongo,Lwala Community Hospital,-0.6781171,34.6088094
+BOMET,Sotik,Kaplong Mission Hospital,-0.6770621,35.1389402
+KISII,Kitutu Chache South,Ram hospital,-0.6764007,34.7739382
+KISII,Kitutu Chache South,Hema Hospital,-0.6750051,34.7701146
+KISII,Kitutu Chache North,Getembe Kenyara Hospital,-0.6748917,34.7706127
+KISII,Kitutu Chache South,Getembe Hospital,-0.6741971,34.7695612
+KISII,Kitutu Chache South,Oasis Specialist Hospital,-0.6715489,34.7708993
+KIRINYAGA,Kirinyaga west sub county,"Sagana sub county hospital,",-0.6695132,37.2061138
+BOMET,Bomet Central,Kapkoros SCH,-0.6692164,35.2917432
+KISII,Kitutu Chache South,Care and Cure Hosp,-0.6680532,34.7695976
+KISII,Kitutu Chache South,Mediforte Hospital Ltd,-0.6676889,34.769621
+KISII,Kitutu Chache South,The Nairobi Family Hospital,-0.6656651,34.7747126
+NYAMIRA,Manga,Nyangena Sub District Hospital (Manga),-0.6604,34.7405
+NAKURU,Naivasha,NYS Naivasha,-0.6504379,36.4902044
+HOMA BAY,Homa Bay Town,Marindi Sub County Hospital,-0.6484,34.5187
+MURANG'A,Mathioya,Nyakianga Health Centre,-0.6423264,36.9569467
+KIRINYAGA,Kirinyaga south sub county,Kimbimbi sub county hospital,-0.6196858,37.3655602
+BOMET,Konoin,Mogogosiek HC,-0.6183918,35.2732123
+BOMET,Konoin,Cheptalal SCH,-0.6173077,35.3762367
+KERICHO,Bureti,Kipwastuiyo Health Centre,-0.6166554,35.1119684
+NYAMIRA,Manga,Manga District Hospital,-0.6127477,34.8355219
+NYERI,Mukurweini,Mweru Health Centre,-0.6050415,37.101624
+MURANG'A,Mathioya,Kiria-ini Mission Hospital,-0.6023316,36.9518749
+HOMA BAY,Rangwe,Rangwe Sub County Hospital,-0.6008501,34.581046
+NYANDARUA,Kinangop,Engineer County Hospital,-0.5945302,36.5750941
+NAKURU,Kuresoi South,Olenguruone Sub-District Hospital,-0.5911899,35.6857914
+NYAMIRA,Nyamira South,Oasis Maternity and Nursing Home,-0.589131,34.934536
+NYAMIRA,Borabu,Amatierio Health Centre,-0.5871145,34.9928981
+NYERI,Nyeri South,Gichiche HC,-0.5775974,36.913794
+NYAMIRA,Nyamira South,Kinara Hospital,-0.5669405,34.9341234
+NAKURU,Gilgil,Kiptangwany,-0.5655959,36.1168535
+NYAMIRA,Nyamira South,Ting'a Health Centre,-0.5629841,34.9339801
+NYERI,Mukurweini,Mukurweini hosp,-0.5621616,37.044315
+NYERI,Mukurweini,Thangathi HC,-0.5609054,37.050543
+NYAMIRA,Nyamira South,Nyamira County Refferal Hospital,-0.5577655,34.9292047
+NYANDARUA,Olkalou,North Kinangop Catholic Hospital,-0.5550152,36.5540528
+EMBU,Manyatta,Embu G.K prison Majimbo,-0.5514492,37.4659121
+NYANDARUA,Kinangop,Nandarasi Dispensary,-0.549995,36.554947
+EMBU,Mbeere South,Embu Children¡¯s hospital-Tenri,-0.5379254,37.4537966
+HOMA BAY,Suba South,Suba Sub County Hospital,-0.5376059,34.1680231
+HOMA BAY,Homa Bay Town,Homa Bay County Teaching & Referral Hospital,-0.5308661,34.4581836
+NYAMIRA,Nyamira South,Ekerenyo Sub-District Hospital,-0.5306377,34.9878646
+KERICHO,Bureti,Cheborgei Health Centre,-0.5287557,35.1294385
+EMBU,Manyatta,Embu level 5 Hospital,-0.5238667,37.4525145
+NYAMIRA,Nyamira South,Nyamaiya Health Centre,-0.5213999,34.9131088
+KIRINYAGA,"Kirinyaga East sub county,","Kianyaga sub county hospital,.",-0.5043846,37.3563724
+NYANDARUA,Oljoroorok,Turasha Dispensary,-0.4995675,36.4528634
+NAKURU,Gilgil,Gilgil Sub County Hospital,-0.4922735,36.3172993
+KIRINYAGA,Kirinyaga central sub County,ACK. Mt. Kenya hospital,-0.4916573,37.2647812
+NYERI,Mathira East,Karindundu Dispessry,-0.4908605,37.13122
+NYERI,Mathira West,PCEA Tumutumu hosp,-0.4884916,37.0801586
+NAKURU,Gilgil,Anti Stock Theft Unit,-0.4871343,36.3304833
+NYERI,Mathira East,Karatina hosp,-0.483158,37.1273549
+NYANDARUA,Kinangop,Mikaro Dispensary,-0.4830286,36.5499952
+NYAMIRA,Nyamira South,Magwagwa Health Centre,-0.4829867,35.0222208
+NYAMIRA,Nyamira South,Nyamusi Sub-District Hospital,-0.4821602,34.9720415
+NAKURU,Gilgil,NYS Gilgil,-0.4789358,36.3145895
+NYERI,Tetu,Wamagana Health Centre,-0.4769784,36.9334464
+NYERI,Tetu,Gichira HC,-0.4764315,37.0239303
+NYERI,Mathira West,Kaiyaba Dispensary,-0.4742519,37.0867301
+NYANDARUA,Kinangop,Old Mawingu Health Centre,-0.466667,36.5
+EMBU,Mbeere North,Ishiara subcounty Hospital,-0.4547835,37.7848732
+GARISSA,Garissa,Garissa County Referral Hospital,-0.4488549,39.6526044
+HOMA BAY,Rachuonyo East,Kabondo Sub County Hospital,-0.4477504,34.8913824
+NAKURU,Kuresoi North,Kamwaura,-0.433333,35.583333
+KERICHO,Belgut,Seretut Dispensary,-0.4327,35.1957
+HOMA BAY,Rachuonyo North (Karachuonyo),Kandiege L 4 Hospital,-0.4299112,34.5536757
+EMBU,Manyatta,Kairuri health centre,-0.4298403,37.4785288
+HOMA BAY,Rachuonyo South,Rachuonyo Sub County Hospital,-0.4280055,34.6888793
+NAKURU,Kuresoi South,Keringet Sub County Hospital,-0.4260688,35.6901852
+NYERI,Nyeri Central,Outspan Hospital,-0.4238202,36.935779
+NYERI,Nyeri Central,Nyeri Town Health Centre,-0.423024,36.9499273
+HOMA BAY,Suba North (Mbita),Mbita Sub County Hospital,-0.422875,34.2080491
+NYERI,Nyeri Central,Kiganjo Health centre,-0.422251,36.950664
+NYANDARUA,Kipipiri,Kianjogu Dispensary,-0.4199823,36.4844648
+HOMA BAY,Suba North (Mbita),Ogongo L 4 Hospital,-0.419366,34.2060297
+EMBU,Runyejes,Kigumo H/C,-0.4173028,37.6373316
+NYANDARUA,Olkalou,Geta Bush Health Centre,-0.4145015,36.5840457
+EMBU,Runyejes,Kyeni- Consolata Hospital,-0.4127638,37.5873173
+NYERI,Mathira West,Ngorano Health Centre,-0.4125556,37.0734717
+NAKURU,Gilgil,St. Joseph RiftValley Hospital,-0.4112574,36.2513157
+NYERI,Tetu,Ihururu HC,-0.4110585,36.8922847
+HOMA BAY,Rachuonyo North (Karachuonyo),Kendu Adventist Hospital,-0.4015099,34.664535
+KERICHO,Sigowet/Soin,Kiptere Dispensary,-0.3999915,35.1000496
+NYANDARUA,Kipipiri,Manunga Health Centre,-0.3998861,36.4948962
+EMBU,Runyejes,Kianjokoma Health center,-0.3993221,37.5014773
+THARAKA NITHI,Igambang¡¯ombe,Komarock Morden Hospital,-0.3967686,37.8034598
+KERICHO,Belgut,Kabianga Health Centre,-0.3961975,35.2337691
+NYANDARUA,Kinangop,Kiambogo Dispensary,-0.3955,36.5413
+KERICHO,Sigowet/Soin,Kabutii Matiret,-0.3900763,35.0128459
+NAKURU,Nakuru East,Mirugi Kariuki Sub County Hospital,-0.3735051,36.1503557
+NAKURU,Njoro,Mau Narok,-0.3721309,35.9478869
+NAKURU,Njoro,Egerton University,-0.3715584,35.9310651
+KISUMU,Nyakach,Nyamarimba Sub County Hospital,-0.3705138,34.9047672
+HOMA BAY,Rachuonyo North (Karachuonyo),Kendu Sub County Hospital,-0.3684466,34.649701
+KERICHO,Ainamoi,GK Prisons Dispensary Kericho,-0.3643981,35.2837305
+THARAKA NITHI,Igambang¡¯ombe,Kajuki Hospital,-0.3481143,37.840618
+NYANDARUA,Kipipiri,Wanjohi Health Centre,-0.3351408,36.5198894
+SIAYA COUNTY,Rarieda Sub County,Madiany Sub County Hospital,-0.332918,34.3199316
+NYANDARUA,Olkalou,Ndemi Health Centre,-0.3304901,36.4179736
+NAKURU,Njoro,Newpoint health services,-0.3304793,35.9433868
+NAKURU,Njoro,Njoro Subcounty Hospital,-0.3304664,35.943385
+THARAKA NITHI,Chuka,Chuka county referral hospital,-0.3295381,37.6557389
+NYERI,Kieni West,Mweiga health centre,-0.324471,36.9059
+KERICHO,Belgut,Kapsoit Dispensary,-0.3201205,35.2148971
+THARAKA NITHI,Tharaka south,St. Orsola Hospital,-0.3163265,37.900235
+KISUMU,Nyakach,Nyakach County Hospital,-0.3130702,34.9367876
+NYERI,Kieni West,Endarasha HC,-0.3078006,36.7711774
+NAKURU,Nakuru East,Nakuru specialist hosp,-0.3036786,36.142626
+NAKURU,Nakuru East,Langa Langa Hospital,-0.3020654,36.0725539
+KERICHO,Ainamoi,Ainamoi Health Centre,-0.294424,35.2723935
+NYANDARUA,Kipipiri,Kaimbaga Health Centre,-0.294111,36.4039629
+NAKURU,Nakuru West,Sunrise Evans Hospital,-0.291361,36.0638318
+NAKURU,Nakuru East,Bondeni CLINIC,-0.2906095,36.081131
+NAKURU,Nakuru East,Mercy Mission Hospital - Annex Nakuru,-0.2905128,36.072267
+NAKURU,Nakuru East,Nakuru Nursing Home,-0.2899131,36.0794318
+KERICHO,Ainamoi,Manyoror Dispensary,-0.289613,35.3294376
+NAKURU,Nakuru East,Baraka Maternity Home,-0.2892674,36.0691369
+NAKURU,Nakuru East,Valley Hospital,-0.2884623,36.0637057
+NAKURU,Nakuru East,Optimum Current Health Care Hospital,-0.2865253,36.0908204
+KERICHO,Sigowet/Soin,Kaitui Dispensary,-0.2859256,35.16235
+NAKURU,Nakuru East,Mediheal Hospital Nakuru,-0.285841,36.1078534
+NAKURU,Nakuru East,Nairobi Women hospital - Nakuru CBD,-0.28445,36.0695515
+NAKURU,Nakuru West,Annex Hospital (Nakuru),-0.2824468,36.0813708
+NAKURU,Nakuru West,Nakuru War Memorial Hospital,-0.2819587,36.0808125
+THARAKA NITHI,Tharaka South,Kibung¡¯a Hospital,-0.2807025,37.9008314
+NAKURU,Nakuru West,Nakuru Provincial General Hospital,-0.2780745,36.0702712
+NAKURU,Nakuru West,KMTC Nakuru,-0.2754172,36.0727662
+THARAKA NITHI,Muthambi,Muthambi Health Centre,-0.2745847,37.6604365
+NAKURU,Nakuru East,"St,Elizabeth",-0.272625,36.112672
+KITUI,Mwingi North,Tseikuru Sub County Hospital,-0.272533,38.1582923
+KERICHO,Ainamoi,Kenegut Dispensary,-0.2702,35.2249
+NAKURU,NAKURUWEST,GK Prisons NAKURU,-0.2655608,36.0545153
+NYERI,Kieni East,Warazo HC,-0.2600035,37.1100251
+NYANDARUA,Kinangop,JM Kariuki County Referral Hospital,-0.2561033,36.3746824
+NAKURU,Nakuru North,Engashura,-0.249651,36.1002111
+NAKURU,Kuresoi North,"ST .joseph hosp,Molo",-0.2479587,35.7293951
+NAKURU,Molo,Molo District Hospital,-0.2449618,35.7405545
+NYANDARUA,Kinangop,The Pine Hospital,-0.2350145,36.3755071
+KERICHO,Kipkelion East,Momoniat Health Centre,-0.2331275,35.5298155
+THARAKA NITHI,Mwimbi,PCEA Chogoria hospital,-0.23052,37.6281102
+NYERI,Kieni West,Bellevue Health Centre,-0.2227,36.7295
+KERICHO,Sigowet/Soin,Kipsitet Dispensary,-0.2218786,35.1598773
+THARAKA NITHI,Mwimbi,Magutuni Hospital,-0.21755,37.733631
+KISUMU,Nyando,Nyangande Sub-County Hospital,-0.2068654,34.8479385
+NYANDARUA,Ndaragwa,Kirima Dispensary,-0.1942688,36.4846914
+LAIKIPIA,Laikipia East,Lamuria SC Hospital,-0.183333,36.866667
+NYANDARUA,Olkalou,MirangineHealth Centre,-0.1773216,36.2438918
+KISUMU,Nyando,Ahero County Hospital,-0.1735057,34.9235504
+NAKURU,Nakuru North,Bahati District Hospital,-0.170535,36.123471
+NYERI,Kieni East,Narumoru health centre,-0.1664452,37.0218387
+SIAYA COUNTY,Bonds Sub County,Uyawi Sub County Hospital,-0.1642717,34.1668592
+NYANDARUA,Ndaragwa,Ngano Health Centre,-0.1605156,36.2850987
+THARAKA NITHI,Tharaka South,Marimanti Hospital,-0.1570413,37.9778247
+KISUMU,Nyando,Rabuor Sub-county Hospital,-0.1533,34.8298
+KISUMU,Muhoroni,Muhoroni County Hospital,-0.151558,35.205615
+NAKURU,Molo,Marishoni H/C,-0.1461913,35.969247
+SIAYA COUNTY,Rarieda Sub County,Lwak Mission H/C,-0.1388841,34.3532417
+NYANDARUA,Oljororok,Kasuku Health Centre,-0.1327,36.3805
+NYANDARUA,Ndaragwa,Kiriogo Dispensary,-0.1273922,36.6166467
+LAIKIPIA,Laikipia East,Cottage Hospital,-0.1257851,36.6935447
+KISUMU,Kisumu Central,Nightingale Milimani Hospital,-0.1216358,34.7530532
+KERICHO,Kipkelion West,Mtaragon Health Centre,-0.1156852,35.4230615
+KISUMU,Kisumu West,Ober Kamoth Sub county Hospital,-0.114738,34.6094125
+KERICHO,Kipkelion West,Kunyak Dispensary,-0.1144148,35.2697802
+NYANDARUA,Ndaragwa,Subuku Health centre,-0.1122266,36.4601396
+THARAKA NITHI,Tharaka North,Gatunga Model Health centre,-0.1025549,38.0155975
+KISUMU,Kisumu Central,Kisumu County Referral Hospital,-0.1017204,34.7555757
+SIAYA COUNTY,Bondo Sub County,Got Agulu Sub County Hospital,-0.1003371,34.2754988
+KISUMU,Kisumu Central,Lumumba Health Centre,-0.0997644,34.7650857
+NAKURU,Subukia,Upper Solai,-0.0995999,36.1265
+KISUMU,Kisumu East,St. Elizabeth chiga,-0.0990421,34.8447797
+KISUMU,Kisumu Central,Aga Khan Hospital (Kisumu),-0.0986866,34.7565192
+KISUMU,Seme,Kolenyo,-0.0941405,34.469407
+KISUMU,Kisumu Central,Avenue Hospital Kisumu,-0.0910956,34.767877
+SIAYA COUNTY,Bondo Sub County,Bondo Sub County Hospital,-0.0801721,34.2561976
+KISUMU,Kisumu Central,Migosi Sub County Hospital,-0.0801334,34.7816566
+LAIKIPIA,Laikipia East,Wiyumiririe Dispensary,-0.0777,36.5777
+KISUMU,Seme,Miranga Sub District Hospital,-0.0766,34.5444
+NAKURU,Subukia,Kabazi Sub County Hospital,-0.0763625,36.1679331
+KISUMU,Kisumu West,St. Jairus,-0.0757604,34.7239783
+NYANDARUA,Oljoroorok,LeshauPondo Health centre,-0.0733053,36.3633516
+SIAYA COUNTY,Gem Sub County,Inuka hospital,-0.0617328,34.2421597
+NYANDARUA,Ndaragwa,Ndaragwa Health Centre,-0.0576442,36.5317652
+KISUMU,Kisumu East,st monica hospital,-0.04504,34.770866
+GARISSA,Balambala,Balambala Sub-County Hospital,-0.0416724,39.0623305
+KISUMU,Kisumu West,Chulaimbo County Hospital,-0.038797,34.69207
+KISUMU,Kisumu West,Nyahera Sub-County Hospital,-0.032,34.7119
+KISUMU,Kisumu East,Gita Sub-county Hospital,-0.0276177,34.7905643
+BARINGO,Mogotio sub county,Mogotio sub county hospital,-0.0207658,35.9560546
+VIHIGA,Luanda,Ekwanda Health Centre,-0.0140548,34.5713997
+VIHIGA,Luanda,Coptic Nursing Home Maseno,-0.0052399,34.6010316
+MERU,Imenti Central,Cottolengo Miss. Hospital,-0.0029111,37.7662151
+KISUMU,Kisumu West,Maseno Mission,0.0008151,34.6116755
+NAKURU,Subukia,Subukia Sub County Hospital,0.0027941,36.2305572
+NANDI,Tindiret Sub county,Meteitei Hospital,0.0038017,35.385021
+GARISSA,Hagadera Refugee Camp,Hagadera Hospital,0.008189,40.3719935
+NYANDARUA,Oljoroorok,Baari Health Centre,0.0109071,36.4142815
+NYANDARUA,Ndaragwa,Mbuyu Dispensary,0.0126,36.51
+LAIKIPIA,Laikipia East,Nanyuki Hospital (Registered),0.0151036,37.0759148
+VIHIGA,Luanda,Luanda township,0.0240007,34.5874448
+NYANDARUA,Kinangop,Kahembe Health Centre,0.0246,36.4539
+VIHIGA,Luanda,Emuhaya Sub-County Hospital,0.0358397,34.6264333
+LAIKIPIA,Laikipia West,St. Benedict Hospital,0.0395478,36.3349924
+BARINGO,Eldama ravine sub county,Eldama ravine sub county hospital,0.0462897,35.7246112
+SIAYA COUNTY,Gem Sub County,Sagam Hospital,0.0561925,34.5422738
+GARISSA,Dadaab,Dadaab Sub-County Hospital,0.0574398,40.3068602
+SIAYA COUNTY,    Alego Usonga sub County,Siaya ounty Referral Hospital,0.0635494,34.2869923
+NYANDARUA,Ndaragwa,Ndivai Dispensary,0.0641999,36.5004
+SIAYA COUNTY,Alego Usonga Sub County,Rwambwa Sub County Hospital,0.0695769,34.097547
+VIHIGA,Hamisi,Hamisi Sub-County Hospital,0.0747615,34.787888
+BUSIA,Bunyala,Mukhobola Health Centre,0.0787173,34.0296743
+VIHIGA,Vihiga,Vihiga County Referral Hospital,0.0790657,34.7223869
+VIHIGA,Emuhaya,Ebusiratsi Health Centre,0.079329,34.6342921
+LAIKIPIA,Laikipia East,Kalalu Dispensary,0.0822886,37.1663147
+VIHIGA,Emuhaya,Emusire Health Centre,0.0841516,34.6062255
+VIHIGA,Sabatia,Itando Nursing Home,0.0902097,34.7050024
+MERU,Tigania East,St. John of God Miss. Hospital,0.0957802,37.9254757
+SIAYA COUNTY,Gem Sub County,Yala Sub County Hospital,0.1009693,34.5378479
+GARISSA,  Ifo Refugee Camp,Ifo Hospital,0.1024032,40.3081207
+NANDI,Nandi Hills Subcounty,Nandi Hills Hospital,0.1036607,35.1841028
+VIHIGA,Sabatia,Sabatia health Centre,0.1074522,34.7519807
+KAKAMEGA,Khwisero,Mundoli Health Centre,0.1096274,34.577395
+VIHIGA,Hamisi,Serem Health Centre,0.1102302,34.8306809
+MERU,Buuri,Timau SC Hospital,0.1113377,37.3934061
+NANDI,Aldai Subcounty,Kaptumo Sub County Hospital,0.1146627,35.0938658
+MERU,Tigania East,Mikinduri SC Hospital,0.1199151,37.8379645
+MERU,Buuri,"St.Theresa Miss. Hosp, Kiirua",0.1252482,37.5672544
+VIHIGA,Hamisi,Jumuiya Hospital Kaimosi,0.1258498,34.8455312
+KAKAMEGA,Khwisero,Mulwanda Health Centre,0.126958,34.5694514
+VIHIGA,Sabatia,Bugina,0.1362643,34.7713173
+VIHIGA,Sabatia,Kegondi,0.1363464,34.7215859
+KAKAMEGA,Khwisero,Emutsesa Health Centre,0.1461449,34.5859879
+KAKAMEGA,Khwisero,Khwisero Model Health Centre,0.1462093,34.5860608
+MERU,Tigania West,Miathene SC Hospital,0.1509921,37.7895203
+KAKAMEGA,Butere,Manyala Sub County Hospital,0.1607869,34.4520556
+KAKAMEGA,Ikolomani,Iguhu County Hospital,0.161294,34.7630307
+VIHIGA,Hamisi,Shiru Health Centre,0.1616684,34.9116127
+SIAYA COUNTY,Ugunja Sub County,Ambira- Sub County Hospital,0.1687429,34.2419815
+KAKAMEGA,Ikolomani,Savane Dispensary,0.17,34.7238
+KAKAMEGA,Butere,Shikunga Health Centre,0.1752336,34.5445312
+KAKAMEGA,Butere,Mabole Health Centre,0.1860293,34.5063189
+GARISSA,Dagahley Refugee Camp,Dagahley Hospital,0.1884262,40.295141
+KAKAMEGA,Butere,Lukohe Health Centre,0.1942,34.5864
+"ELGEYO
+MARAKWET",Keiyo South,Kamwosor Sub-County Hospital,0.1949834,35.5698898
+SIAYA COUNTY,Ugenya Sub County,Ukwala Sub County Hospital,0.1953756,34.1893473
+KAKAMEGA,Butere,Shiraha Health Centre,0.1968952,34.5706674
+MERU,Tigania West,Mbeu SC Hospital,0.1999557,37.670589
+SIAYA COUNTY,Ugunja    Sub County,Sigomere Sub County Hospital,0.201194,34.3618045
+NANDI,Emgwen Subcounty,Kapsabet County Referral Hospita;,0.2022947,35.1031888
+KAKAMEGA,Ikolomani,Shibwe Su County Hospital,0.2052396,34.7228574
+KAKAMEGA,Shinyalu,Shinyalu Model Health Centre,0.2076266,34.7750815
+KAKAMEGA,Shinyalu,Ikuywa Dispensary,0.208451,34.7809616
+KAKAMEGA,Butere,Butere County Hospital,0.2087225,34.4929777
+KAKAMEGA,Butere,Eshibimbi Health Centre,0.20943,34.5963051
+UASIN GISHU,Ainabkoi,Burnt Forest Sub-County Hospital,0.214455135,35.43626168
+UASIN GISHU,Turbo,Huruma Sub-County Hospital,0.529437303,35.24695019
+MERU,Tigania East,Muthara SC Hospital,0.216667,37.8
+KAKAMEGA,Shinyalu,Mugomari Dispensary,0.2186621,34.7400011
+KAKAMEGA,Butere,Imanga Health Centre,0.2198155,34.4918988
+KAKAMEGA,Butere,Eshimukoko Health Centre,0.22,34.49
+BUSIA,Samia,Sio Port Hospital,0.2225069,34.0216719
+MERU,Igembe Central,Kangeta SC Hospital,0.2288991,37.9254757
+MERU,Igembe South,Maua Methodist Hospital,0.2307854,37.9419061
+MERU,Igembe South,Nyambene SC Hospital,0.2336874,37.8764301
+KAKAMEGA,Butere,Iranda Health Centre,0.2423543,34.5971704
+KAKAMEGA,Mumias West,Bukaya Health Centre,0.2510216,34.4142776
+KAKAMEGA,Lurambi,Bukura RHDC,0.2542386,34.6303372
+KAKAMEGA,Shinyalu,Ileho Health Centre,0.2613097,34.8403408
+KAKAMEGA,Shinyalu,Kambiri Health Centre,0.2613993,34.840329
+KAKAMEGA,Shinyalu,Shamakhubu Health Centre,0.2647788,34.8279006
+LAIKIPIA,Laikipia West,Rumuruti SC Hospital,0.2671366,36.539177
+KAKAMEGA,Malava,Chombeli Health Centre,0.271395,34.75321
+BUSIA,Samia,Nangina Holy Family,0.2762871,34.1017217
+KAKAMEGA,Lurambi,GK Prisons (Satelite of CGH),0.2781496,34.7523089
+KAKAMEGA,Lurambi,Elwesero Model Health Centre,0.2951461,34.7633907
+KAKAMEGA,Matungu,Indangalasia Dispensary,0.3209273,34.4031833
+NANDI,Chesumei Subcounty,Mosoriot Sub county Hospital,0.3217097,35.1731728
+LAIKIPIA,Laikipia West,Ng¡¯arua HC,0.329886,36.428358
+KAKAMEGA,Mumias East,Shianda Health Centre,0.3309936,34.6073179
+KAKAMEGA,Mumias West,Mumias Level 4 Hospital,0.3362546,34.4828237
+BUSIA,Butula,Khunyangu Sub-County Hospital,0.3376177,34.2581774
+KAKAMEGA,Shinyalu,Shikusa Health Centre,0.339395,34.799351
+ ISIOLO,Isiolo subcounty,Hospital_isiolo county Referral hospital,0.3549956,37.5864313
+LAIKIPIA,Laikipia West,Ndindika SC Hospital,0.3606063,36.7819505
+KAKAMEGA,Malava,Shamberere Health Centre,0.3657774,34.8124303
+KAKAMEGA,Navakholo,Bushiri Health Centre,0.3661,34.7292
+BUSIA,Matayos,Matayos Health Centre,0.367052,34.163182
+"ELGEYO
+MARAKWET",Keiyo south,Muskut Health Center,0.3693133,35.6269683
+KAKAMEGA,Mumias East,Khaunga Dispensary,0.3769939,34.5840569
+MERU,Igembe North,Mutuati SC Hospital,0.3827844,37.9811065
+"ELGEYO
+MARAKWET",Keiyo South,Chepkorio H/C (Sub-County DVI store),0.383333,35.533333
+UASIN GISHU,Kapseret,Kaplelach Chepyakwai Hospital,0.3862704,35.2412881
+KAKAMEGA,Matungu,Matungu Sub County Hospital,0.3867051,34.4626657
+BUSIA,Butula,Bumala B Health Centre,0.3901347,34.3501862
+UASIN GISHU,Kesses,Kesses Sub-County Hospital,0.39233,35.3305114
+LAIKIPIA,Laikipia North,Doldol SC Hospital,0.3932317,37.1632119
+UASIN GISHU,Kesses,Chepkigen Dispensary,0.3973577,35.3262581
+NANDI,Mosop subcounty,Kabiyet Sub county Hospital,0.4052144,35.0848006
+KAKAMEGA,Navakholo,Navakholo Sub County Hospital,0.4150241,34.6817531
+KAKAMEGA,Matungu,Lung'anyiro Health Centre,0.4180334,34.4419773
+KAKAMEGA,Malava,Kuvasali Health Centre,0.4183095,34.9391199
+KAKAMEGA,Matungu,Khalaba Health Centre,0.4268591,34.548512
+KAKAMEGA,Navakholo,Kharanda Health Centre,0.4441141,34.6353051
+KAKAMEGA,Malava,Malava County Hospital,0.4483439,34.853851
+BUSIA,Nambale,Lupida Health Centre,0.4494837,34.2519401
+KAKAMEGA,Matungu,Mirere Health Centre,0.4548344,34.4274047
+BUSIA,Nambale,Nambale Sub-County Hospital,0.4554974,34.2387817
+BUSIA,Matayos,Busia County Referral Hospital,0.4600906,34.1047591
+"ELGEYO
+MARAKWET",Keiyo South,Kaptarakwa Sub-County Hospital,0.4644127,35.5429609
+LAIKIPIA,Laikipia West,Sipili HC,0.468796,36.4147889
+BARINGO,Baringo South/marigat,Marigat sub county hospital,0.4694727,35.9832056
+LAIKIPIA,Laikipia North,Kimanjo Dispensary,0.4755621,37.0118503
+UASIN GISHU,Kapseret,Kapteldon Sub-County Hospital,0.481852,35.2092202
+UASIN GISHU,Ainabkoi,Mediheal Hospital,0.5078182,35.2953353
+UASIN GISHU,Ainabkoi,Moi Teaching and Referral Hospital,0.5116629,35.280477
+UASIN GISHU,Ainabkoi,Kapsoya Health Centre,0.5138591,35.3356518
+UASIN GISHU,Ainabkoi,Eldoret Hospital,0.5165734,35.2794755
+UASIN GISHU,Moiben,Uasin Gishu District Hospital,0.5180417,35.27673
+KAKAMEGA,Malava,Shivanga Health Centre,0.5317111,34.846533
+NANDI,Mosop subcounty,Chepterwai Subcounty Hospital,0.5358291,34.9341234
+"ELGEYO
+MARAKWET",Keiyo south,Biretwo Health Center,0.5381415,35.5584
+BUNGOMA,Kanduyi,St. Damiano Mission Hospital,0.5503855,34.5577928
+BUNGOMA,Bumula,Bumula Subcounty Hospital,0.5506335,34.4531001
+UASIN GISHU,Moiben,Kimumu Dispensary,0.5565981,35.3082117
+BUNGOMA,Kanduyi,LifeCare Hospital,0.5652208,34.5647371
+BUNGOMA,Kanduyi,Elgon View Hospital,0.5724567,34.5630885
+BUNGOMA,Kanduyi,Bungoma County Referral Hospital,0.5729931,34.5603009
+BUSIA,Teso South,Amukura Hospital,0.5793375,34.2699432
+BUNGOMA,Kimilili,Korry Family Hospital,0.5807908,34.558302
+BUNGOMA,Kanduyi,Khalaba Medical Centre,0.5831884,34.5611454
+"ELGEYO
+MARAKWET",Keiyo North,Tambach Sub-County Hospital,0.5922319,35.5219122
+BUNGOMA,Kanduyi,Bungoma west Hospital,0.5925693,34.5520289
+BUNGOMA,Kanduyi,Fountain Health Care,0.5949997,34.5500697
+BUNGOMA,Webuye East,Sinoko Sub-County Hospital,0.5992059,34.779603
+KAKAMEGA,Lugari,Maturu Dispensary,0.605889,34.8664829
+BUNGOMA,Webuye West,Webuye County Hospital,0.6129858,34.7646029
+KAKAMEGA,Lugari,Chekalini Centre,0.6256483,34.8955195
+KAKAMEGA,Lugari,Koromaiti Health Centre,0.6296748,34.8789697
+BARINGO,Baringo central,Baringo county Referat hospital,0.6320551,36.0567202
+BARINGO,Baringo North,Kabartonjo sub county hospital,0.6331728,35.7966307
+UASIN GISHU,Turbo,Turbo Sub-County Hospital,0.634293,35.0470824
+KAKAMEGA,Lugari,Lumakanda County Hospital,0.6349522,34.9761111
+SAMBURU,Samburu East,Archers Post Sub county Hospital,0.6395829,37.667929
+KAKAMEGA,Lugari,Mautuma Sub County Hospital,0.6511003,34.8761564
+BUNGOMA,Webuye West,Lugulu Mission Hospital,0.6616624,34.7530167
+KAKAMEGA,Likuyani,Likuyani Sub County Hospital,0.6668495,35.109084
+"ELGEYO
+MARAKWET",Keiyo North,Iten County Referral Hospital,0.6765321,35.5070822
+LAIKIPIA,Laikipia West,Olmoran HC,0.6975581,36.4797126
+BUSIA,Teso North,Ang'urai Health Centre,0.7099119,34.4004095
+BUNGOMA,Webuye West,Bokoli Sub-County Hospital,0.7106889,34.6613661
+BUNGOMA,Kabuchai,Chwele Sub-County Hospital,0.7359257,34.5777566
+KAKAMEGA,Likuyani,Kongoni Health Centre,0.74865,35.1158754
+BUNGOMA,Sirisia,Sirisia Sub-County Hospital,0.7527514,34.5080825
+BUNGOMA,Tongaren,Naitiri Sub-County Hospital,0.7561216,34.8905675
+BUNGOMA,Kimilili,Dreamland medical Centre,0.7826813,34.7202041
+BUNGOMA,Kimilili,Kimilili Sub-County Hospital,0.7888667,34.7129709
+BARINGO,Tiaty east sub county,Tangulbei sub county hospital,0.806459,36.281479
+UASIN GISHU,Moiben,Moiben Sub-County Hospital,0.81571,35.3840805
+BUNGOMA,Mt. Elgon,Cheptais Sub-County Hospital,0.8177415,34.4531634
+KAKAMEGA,Likuyani,Mabusi Health Centre,0.8343593,35.0804682
+BUNGOMA,Mt.Elgon,Mt. Elgon Sub-County Hospital,0.8419996,34.7139551
+UASIN GISHU,Soy,Ziwa Sub-County Hospital,0.8474962,35.2592363
+"ELGEYO
+MARAKWET",Marakwet West,Chebiemit Sub-County Hospital,0.853243,35.5023996
+UASIN GISHU,Soy,Moi's Bridge Health Centre,0.8766902,35.1199751
+TRANS NZOIA,Kiminini subcounty,Matunda subcounty hospital,0.8772143,34.8936162
+TRANS NZOIA,Saboti Subcounty,GK farm prison health center,0.9416506,34.8431006
+TRANS NZOIA,Cherangany Subcounty,Cherangany Subcounty hospital,0.9783188,35.2202291
+SAMBURU,Samburu East,Wamba Health Center,0.9799984,37.3292357
+"ELGEYO
+MARAKWET",Marakwet West,AIC Kapsowar Hospital,0.9817352,35.559763
+BARINGO,Tiaty west sub county,Chemolingot sub county hospital,0.9829067,35.9778311
+TRANS NZOIA,cherangany Subcounty,Kaplamai health center,0.9874332,35.1218963
+TRANS NZOIA,Saboti Subcounty,Bondeni health center,0.9890003,34.8886955
+TRANS NZOIA,Kiminini subcounty,Kitale County referral hospital,1.0158141,35.0089352
+"ELGEYO
+MARAKWET",Marakwet West,Kapcherop Health Centre,1.0488145,35.3241917
+"ELGEYO
+MARAKWET",Marakwet East,Chesoi H/C (Sub-County DVI store),1.070578,35.584179
+TRANS NZOIA,Endebbess subcount,Endebbess subcounty hospital,1.0784323,34.8565854
+TRANS NZOIA,kwanza subcounty,Kapsitwet Health Centre,1.0971201,34.9668539
+SAMBURU,Samburu central,Samburu county referral hospital,1.098072,36.6962386
+TRANS NZOIA,cherangany Subcounty,Kapsara subcounty hospital,1.1208868,35.1653759
+"ELGEYO
+MARAKWET",Marakwet East,Kapyego Health Centre,1.1454101,35.4797105
+TRANS NZOIA,kwanza subcounty,Kwanza subcounty hospital,1.1627705,34.998449
+TURKANA,Turkana East,Kapedo Sub County Hospital,1.179442,36.1057659
+WEST POKOT,Pokot South,Kabichbich Health Centre,1.2099384,35.2771221
+"ELGEYO
+MARAKWET",Marakwet East,Tot Sub-County Hospital,1.2141644,35.6564902
+TRANS NZOIA,kwanza subcounty,Kapkoi Health Centre,1.2170868,34.9045154
+WEST POKOT,Pokot South,Kapenguria county referral hospital,1.2376174,35.1213017
+WEST POKOT,Pokot South,Chepareria sub county hospital,1.300454,35.1993755
+WEST POKOT,Pokot South,Ortum mission hospital,1.4364328,35.3552078
+WEST POKOT,Pokot North,Kacheliba subcounty hospital,1.4883274,35.0222946
+WEST POKOT,pokot central,Sigor sub county hospital,1.4959744,35.4727149
+MARSABIT,Laisamis,Laisamis mission hospital,1.5962079,37.8061146
+MARSABIT,Laisamis,Laisamis subcounty referral hospital,1.6165606,37.8074352
+WAJIR,Wajir,Wajir referral hospital,1.7477879,40.0627493
+SAMBURU,Samburu North,"Baragoi Sub county hospital,",1.7851169,36.7873365
+TURKANA,Turkana East,Lokori Sub County Hospital,1.9541299,36.0295406
+TURKANA,Turkana East,Elelea Sub County Hospital,2.0949231,36.1599713
+WAJIR,Tarbaj sub county,Tarbaj sub county hospital,2.207131,40.1171111
+WEST POKOT,Pokot North,Alale Health Centre,2.2477999,35.0083
+TURKANA,Turkana South,Katilu Sub County Hospital,2.2742689,35.4316201
+MARSABIT,Saku,ISMC hospital,2.3282746,37.9877173
+MARSABIT,Saku,Marsabit county referral hospital,2.3316496,37.9985728
+TURKANA,Turkana South,Lokichar Sub County Hospital,2.3729,35.6422
+WAJIR,Eldas Sub county,Eldas Sub county hospital,2.4875671,39.5678317
+TURKANA,Loima,Lorugum Sub County Hospital,2.8766729,35.2562458
+TURKANA,Turkana Central,Kanamkemer Sub County Hospital,3.1011275,35.601344
+TURKANA,Turkana Central,Lodwar County Referral Hospital,3.1224343,35.601158
+MANDERA,Lafey,Lafey sub county hospital,3.1536609,41.1854057
+MARSABIT,Northhorr,Kalacha subcounty hospital,3.3211012,37.0725888
+MARSABIT,Moyale,mission hospital,3.5210916,39.0546262
+MARSABIT,Moyale,Moyale subcounty referral hospital,3.5228561,39.0573591
+TURKANA,Turkana West,Kakuma Sub County Hospital,3.7114706,34.861462
+TURKANA,Turkana West,Kakuma Mission Hospital,3.715272,34.787783
+TURKANA,Turkana West,Ammusait General Hospital,3.7167742,34.8569348
+MANDERA,Banisa,Banisa sub county hospital,3.9069704,40.3700923
+MANDERA,Mandera East,Mandera county referral Hospital,3.9409284,41.8618267
+TURKANA,Turkana West,Lopiding Sub County Hospital,4.2024769,34.3836773
+TURKANA,Turkana North,Lokitaung Sub County Hospital,4.2758,35.7461477
+TURKANA,Kibish,Kaikor Sub County Hospital,4.5178127,35.4207653
