@@ -33,8 +33,6 @@ Data was collected at 1km resolution, with geocoded vaccination sites and popula
 
 Yanjia Cao, Tianyu Li, Huanfa Chen, Qunshan Zhao, Jiashuo Sun, Karen Ann Grépin, Jeon-Young Kang
 
-Would you like me to explain any aspect of this study in more detail?
-
 ## 🔗 Links
 
 - [Full Paper in BMJ Global Health](https://gh.bmj.com/content/10/2/e017761)
