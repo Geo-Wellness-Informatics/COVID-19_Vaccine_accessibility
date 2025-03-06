@@ -14,13 +14,23 @@ This comprehensive study evaluated geographic accessibility to COVID-19 vaccinat
 
 ## Methodology
 
-The researchers used four key measures to evaluate vaccine accessibility:
-1. Population coverage with varying travel time thresholds
-2. Driving time patterns to vaccination sites
-3. Number of sites available within a 30-minute threshold
-4. Geographic accessibility index using enhanced two-step floating catchment area method
+Our analytical workflow begins with data collection through web scraping. The process starts with `scraping.py` and `USA_scraping.ipynb`, which gather the necessary vaccination site data and compile it into the `Vaccination_Site_dataset` directory.
 
-Data was collected at 1km resolution, with geocoded vaccination sites and population data from WorldPop.
+Once we have collected the raw data, we process it through a series of analytical steps:
+
+1. First, we organize the spatial data using `OSRM_KDTree.ipynb`, which calculates the Euclidean distances from each population center to all vaccination sites.
+
+Next, we apply filtering criteria with `OSRM_filter.ipynb` to filter out vaccination sites that are located beyond a 100km straight-line distance threshold from population centers
+
+3. The `OSRM_Distance_Calculation.ipynb` script calculates actual travel distances between population grids and vaccination sites using the Open Source Routing Machine (OSRM), providing crucial real-world accessibility metrics that account for road networks and geographic barriers.
+
+4. We then implement the Enhanced Two-Step Floating Catchment Area (E2SFCA) methodology in `E2SFCA_manual_calculation.ipynb` to evaluate spatial accessibility to vaccination services. This  spatial analysis technique considers both supply (vaccination site capacity) and demand (population distribution) factors to generate comprehensive accessibility scores.
+
+5. The analytical results are compiled into `Final_result.csv`, which contains the comprehensive accessibility scores for each population center, providing a quantitative basis for identifying underserved areas.
+
+6. For deeper analysis of proximity factors, we use `Nearest_Score.ipynb` to calculate and visualize the closest vaccination sites to each population center, offering insights into minimum travel distances required to access vaccination services.
+
+7. Finally, we visualize our findings with `Figure5_visualization.ipynb`, creating informative graphics that illustrate spatial accessibility patterns and potential service gaps. 
 
 ## Implications
 
